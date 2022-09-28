@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SitecorePackageETL": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Work\\Epi\\ContentMigration\\SOFI\\SitecorePackageETL\\input.json\""
+    }
+  }
+}

@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SitecorePackageETL", "SitecorePackageETL\SitecorePackageETL.csproj", "{1049D3F7-EA5F-49ED-8281-CFC2551321F9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OptimizelyCMAImportWeb", "OptimizelyCMAImportWeb\OptimizelyCMAImportWeb.csproj", "{3B496371-DC1C-468B-A5C0-CDFD58A7AEB5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ModelLibrary", "ModelLibrary\ModelLibrary.csproj", "{8DEADC05-911F-4D25-9CDB-ABC28927A1C3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T4", "T4\T4.csproj", "{7448B92D-BD71-44A5-B69F-9E31AD5A71DA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Foundation", "Foundation-net5\Src\Foundation\Foundation.csproj", "{856C325A-2CC0-422C-B964-1BD10EA14C99}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{04685227-468D-440F-A0DB-4E6C01D550CA}"
+	ProjectSection(SolutionItems) = preProject
+		Foundation-net5\.editorconfig = Foundation-net5\.editorconfig
+		Foundation-net5\.gitignore = Foundation-net5\.gitignore
+		Foundation-net5\build.cmd = Foundation-net5\build.cmd
+		Foundation-net5\default.ruleset = Foundation-net5\default.ruleset
+		Foundation-net5\Foundation-README.md = Foundation-net5\Foundation-README.md
+		Foundation-net5\Nuget.config = Foundation-net5\Nuget.config
+		Foundation-net5\setup.cmd = Foundation-net5\setup.cmd
+		Foundation-net5\setup.sh = Foundation-net5\setup.sh
+		SOFI-README.md = SOFI-README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1049D3F7-EA5F-49ED-8281-CFC2551321F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1049D3F7-EA5F-49ED-8281-CFC2551321F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1049D3F7-EA5F-49ED-8281-CFC2551321F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1049D3F7-EA5F-49ED-8281-CFC2551321F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B496371-DC1C-468B-A5C0-CDFD58A7AEB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B496371-DC1C-468B-A5C0-CDFD58A7AEB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B496371-DC1C-468B-A5C0-CDFD58A7AEB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B496371-DC1C-468B-A5C0-CDFD58A7AEB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DEADC05-911F-4D25-9CDB-ABC28927A1C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DEADC05-911F-4D25-9CDB-ABC28927A1C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DEADC05-911F-4D25-9CDB-ABC28927A1C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DEADC05-911F-4D25-9CDB-ABC28927A1C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7448B92D-BD71-44A5-B69F-9E31AD5A71DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7448B92D-BD71-44A5-B69F-9E31AD5A71DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7448B92D-BD71-44A5-B69F-9E31AD5A71DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7448B92D-BD71-44A5-B69F-9E31AD5A71DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{856C325A-2CC0-422C-B964-1BD10EA14C99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{856C325A-2CC0-422C-B964-1BD10EA14C99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{856C325A-2CC0-422C-B964-1BD10EA14C99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{856C325A-2CC0-422C-B964-1BD10EA14C99}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02F18B79-3AF8-46B2-9E2A-392FAABC9C1A}
+	EndGlobalSection
+EndGlobal

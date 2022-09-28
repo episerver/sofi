@@ -1,0 +1,1818 @@
+[
+  {
+    "Fields": [
+      {
+        "Templates": [],
+        "Name": "Body",
+        "Key": "body",
+        "Fieldtype": "Rich Text",
+        "Guid": "d74f396d-5c5e-4916-bd0a-bfd58b6b1967",
+        "SubTemplateName": "_HasPageContent",
+        "SubTemplateGuid": "af74a00b-8ca7-4c9a-a5c1-156a68590ee2"
+      },
+      {
+        "Templates": [],
+        "Name": "Image",
+        "Key": "image",
+        "Fieldtype": "Image",
+        "Guid": "9492e0bb-9df9-46e7-8188-ec795c4ade44",
+        "SubTemplateName": "_HasPageContent",
+        "SubTemplateGuid": "af74a00b-8ca7-4c9a-a5c1-156a68590ee2"
+      },
+      {
+        "Templates": [],
+        "Name": "Summary",
+        "Key": "summary",
+        "Fieldtype": "Rich Text",
+        "Guid": "ac3fd4db-8266-476d-9635-67814d91e901",
+        "SubTemplateName": "_HasPageContent",
+        "SubTemplateGuid": "af74a00b-8ca7-4c9a-a5c1-156a68590ee2"
+      },
+      {
+        "Templates": [],
+        "Name": "Title",
+        "Key": "title",
+        "Fieldtype": "Single-Line Text",
+        "Guid": "c30a013f-3cc8-4961-9837-1c483277084a",
+        "SubTemplateName": "_HasPageContent",
+        "SubTemplateGuid": "af74a00b-8ca7-4c9a-a5c1-156a68590ee2"
+      },
+      {
+        "Templates": [],
+        "Name": "IncludeInSearchResults",
+        "Key": "includeinsearchresults",
+        "Fieldtype": "Checkbox",
+        "Guid": "8d5c486e-a0e3-4dbe-9a4a-cdff93594bda",
+        "SubTemplateName": "_IndexedItem",
+        "SubTemplateGuid": "8fd6c8b6-a9a4-4322-947e-90ce3d94916d"
+      },
+      {
+        "Templates": [],
+        "Name": "NavigationTitle",
+        "Key": "navigationtitle",
+        "Fieldtype": "Single-Line Text",
+        "Guid": "1b483e91-d8c4-4d19-ba03-462074b55936",
+        "SubTemplateName": "_Navigable",
+        "SubTemplateGuid": "a1cba309-d22b-46d5-80f8-2972c185363f"
+      },
+      {
+        "Templates": [],
+        "Name": "ShowChildren",
+        "Key": "showchildren",
+        "Fieldtype": "Checkbox",
+        "Guid": "68016087-aa00-45d6-922a-678475c50d4a",
+        "SubTemplateName": "_Navigable",
+        "SubTemplateGuid": "a1cba309-d22b-46d5-80f8-2972c185363f"
+      },
+      {
+        "Templates": [],
+        "Name": "ShowInNavigation",
+        "Key": "showinnavigation",
+        "Fieldtype": "Checkbox",
+        "Guid": "5585a30d-b115-4753-93ce-422c3455deb2",
+        "SubTemplateName": "_Navigable",
+        "SubTemplateGuid": "a1cba309-d22b-46d5-80f8-2972c185363f"
+      },
+      {
+        "Templates": [],
+        "Name": "OpenGraphDescription",
+        "Key": "opengraphdescription",
+        "Fieldtype": "Multi-Line Text",
+        "Guid": "a12d5346-87ee-484d-83c5-f1e8e1b99666",
+        "SubTemplateName": "_OpenGraph",
+        "SubTemplateGuid": "bdd24f35-05e8-4466-8798-7d3dd6a6c991"
+      },
+      {
+        "Templates": [],
+        "Name": "OpenGraphImage",
+        "Key": "opengraphimage",
+        "Fieldtype": "Image",
+        "Guid": "11f41661-e5fe-44e7-b8da-7cff2d39b4b2",
+        "SubTemplateName": "_OpenGraph",
+        "SubTemplateGuid": "bdd24f35-05e8-4466-8798-7d3dd6a6c991"
+      },
+      {
+        "Templates": [],
+        "Name": "OpenGraphTitle",
+        "Key": "opengraphtitle",
+        "Fieldtype": "Single-Line Text",
+        "Guid": "0ee2f208-1fee-42fc-8051-6696d49a92bf",
+        "SubTemplateName": "_OpenGraph",
+        "SubTemplateGuid": "bdd24f35-05e8-4466-8798-7d3dd6a6c991"
+      },
+      {
+        "Templates": [],
+        "Name": "CssCode",
+        "Key": "csscode",
+        "Fieldtype": "Multi-Line Text",
+        "Guid": "06a96efc-f2e5-45c3-a7dc-4dddfa366cc0",
+        "SubTemplateName": "_PageAssets",
+        "SubTemplateGuid": "91962b60-25f6-428f-8d10-02aa1e49d6a5"
+      },
+      {
+        "Templates": [],
+        "Name": "InheritAssets",
+        "Key": "inheritassets",
+        "Fieldtype": "Checkbox",
+        "Guid": "f19e8a50-9950-4861-9e66-9598a1898e71",
+        "SubTemplateName": "_PageAssets",
+        "SubTemplateGuid": "91962b60-25f6-428f-8d10-02aa1e49d6a5"
+      },
+      {
+        "Templates": [],
+        "Name": "JavascriptCodeBottom",
+        "Key": "javascriptcodebottom",
+        "Fieldtype": "Multi-Line Text",
+        "Guid": "b3ba9ea9-d0a1-49df-9f4b-28fa5d353dc8",
+        "SubTemplateName": "_PageAssets",
+        "SubTemplateGuid": "91962b60-25f6-428f-8d10-02aa1e49d6a5"
+      },
+      {
+        "Templates": [],
+        "Name": "JavascriptCodeTop",
+        "Key": "javascriptcodetop",
+        "Fieldtype": "Multi-Line Text",
+        "Guid": "d79d9ddd-2774-42f4-94c3-50c892f6e13d",
+        "SubTemplateName": "_PageAssets",
+        "SubTemplateGuid": "91962b60-25f6-428f-8d10-02aa1e49d6a5"
+      },
+      {
+        "Templates": [],
+        "Name": "BrowserTitle",
+        "Key": "browsertitle",
+        "Fieldtype": "Single-Line Text",
+        "Guid": "ca0479ce-0bfe-4522-83de-ba688b380a78",
+        "SubTemplateName": "_PageMetadata",
+        "SubTemplateGuid": "d88ccd80-d851-470d-af11-701ff23504e7"
+      },
+      {
+        "Templates": [],
+        "Name": "CanIndex",
+        "Key": "canindex",
+        "Fieldtype": "Checkbox",
+        "Guid": "683d7237-206a-488f-9dee-4a4e41fb161d",
+        "SubTemplateName": "_PageMetadata",
+        "SubTemplateGuid": "d88ccd80-d851-470d-af11-701ff23504e7"
+      },
+      {
+        "Templates": [],
+        "Name": "CustomMetaData",
+        "Key": "custommetadata",
+        "Fieldtype": "Name Value List",
+        "Guid": "167aba77-5172-42af-9f9e-00299113839e",
+        "SubTemplateName": "_PageMetadata",
+        "SubTemplateGuid": "d88ccd80-d851-470d-af11-701ff23504e7"
+      },
+      {
+        "Templates": [],
+        "Name": "MetaDescription",
+        "Key": "metadescription",
+        "Fieldtype": "Multi-Line Text",
+        "Guid": "bb7a38c0-323c-4f81-8eb9-288abf7c4638",
+        "SubTemplateName": "_PageMetadata",
+        "SubTemplateGuid": "d88ccd80-d851-470d-af11-701ff23504e7"
+      },
+      {
+        "Templates": [],
+        "Name": "MetaKeywords",
+        "Key": "metakeywords",
+        "Fieldtype": "Treelist",
+        "Guid": "4b16f930-73c9-4643-bb1b-00f06e60a073",
+        "SubTemplateName": "_PageMetadata",
+        "SubTemplateGuid": "d88ccd80-d851-470d-af11-701ff23504e7"
+      },
+      {
+        "Templates": [],
+        "Name": "SeoFollowLinks",
+        "Key": "seofollowlinks",
+        "Fieldtype": "Checkbox",
+        "Guid": "0dca829c-9fce-41f5-9990-c6182fefe905",
+        "SubTemplateName": "_PageMetadata",
+        "SubTemplateGuid": "d88ccd80-d851-470d-af11-701ff23504e7"
+      },
+      {
+        "Templates": [],
+        "Name": "__Enable item fallback",
+        "Key": "__enable item fallback",
+        "Fieldtype": "Checkbox",
+        "Guid": "fd4e2050-186c-4375-8b99-e8a85dd7436e",
+        "SubTemplateName": "Advanced",
+        "SubTemplateGuid": "646f4b34-708c-41c2-9f4b-2661849777f3"
+      },
+      {
+        "Templates": [],
+        "Name": "__Enforce version presence",
+        "Key": "__enforce version presence",
+        "Fieldtype": "Checkbox",
+        "Guid": "61cf7151-0cbd-4db4-9738-d753a55a6e65",
+        "SubTemplateName": "Advanced",
+        "SubTemplateGuid": "646f4b34-708c-41c2-9f4b-2661849777f3"
+      },
+      {
+        "Templates": [],
+        "Name": "__Source",
+        "Key": "__source",
+        "Fieldtype": "Version Link",
+        "Guid": "1b86697d-60ca-4d80-83fb-7555a2e6ce1c",
+        "SubTemplateName": "Advanced",
+        "SubTemplateGuid": "646f4b34-708c-41c2-9f4b-2661849777f3"
+      },
+      {
+        "Templates": [],
+        "Name": "__Source Item",
+        "Key": "__source item",
+        "Fieldtype": "Version Link",
+        "Guid": "19b597d3-2edd-4ae2-aefe-4a94c7f10e31",
+        "SubTemplateName": "Advanced",
+        "SubTemplateGuid": "646f4b34-708c-41c2-9f4b-2661849777f3"
+      },
+      {
+        "Templates": [],
+        "Name": "__Standard values",
+        "Key": "__standard values",
+        "Fieldtype": "Droptree",
+        "Guid": "f7d48a55-2158-4f02-9356-756654404f73",
+        "SubTemplateName": "Advanced",
+        "SubTemplateGuid": "646f4b34-708c-41c2-9f4b-2661849777f3"
+      },
+      {
+        "Templates": [],
+        "Name": "__Tracking",
+        "Key": "__tracking",
+        "Fieldtype": "Tracking",
+        "Guid": "b0a67b2a-8b07-4e0b-8809-69f751709806",
+        "SubTemplateName": "Advanced",
+        "SubTemplateGuid": "646f4b34-708c-41c2-9f4b-2661849777f3"
+      },
+      {
+        "Templates": [],
+        "Name": "__Context Menu",
+        "Key": "__context menu",
+        "Fieldtype": "Droptree",
+        "Guid": "d3ae7222-425d-4b77-95d8-ee33ac2b6730",
+        "SubTemplateName": "Appearance",
+        "SubTemplateGuid": "f5bc7ae4-f62d-47cd-9afb-2c9f85d8313b"
+      },
+      {
+        "Templates": [],
+        "Name": "__Display name",
+        "Key": "__display name",
+        "Fieldtype": "Single-Line Text",
+        "Guid": "b5e02ad9-d56f-4c41-a065-a133db87bdeb",
+        "SubTemplateName": "Appearance",
+        "SubTemplateGuid": "f5bc7ae4-f62d-47cd-9afb-2c9f85d8313b"
+      },
+      {
+        "Templates": [],
+        "Name": "__Editor",
+        "Key": "__editor",
+        "Fieldtype": "server file",
+        "Guid": "d85db4ec-ff89-4f9c-9e7c-a9e0654797fc",
+        "SubTemplateName": "Appearance",
+        "SubTemplateGuid": "f5bc7ae4-f62d-47cd-9afb-2c9f85d8313b"
+      },
+      {
+        "Templates": [],
+        "Name": "__Editors",
+        "Key": "__editors",
+        "Fieldtype": "TreelistEx",
+        "Guid": "a0cb3965-8884-4c7a-8815-b6b2e5ced162",
+        "SubTemplateName": "Appearance",
+        "SubTemplateGuid": "f5bc7ae4-f62d-47cd-9afb-2c9f85d8313b"
+      },
+      {
+        "Templates": [],
+        "Name": "__Hidden",
+        "Key": "__hidden",
+        "Fieldtype": "Checkbox",
+        "Guid": "39c4902e-9960-4469-aeef-e878e9c8218f",
+        "SubTemplateName": "Appearance",
+        "SubTemplateGuid": "f5bc7ae4-f62d-47cd-9afb-2c9f85d8313b"
+      },
+      {
+        "Templates": [],
+        "Name": "__Icon",
+        "Key": "__icon",
+        "Fieldtype": "Icon",
+        "Guid": "06d5295c-ed2f-4a54-9bf2-26228d113318",
+        "SubTemplateName": "Appearance",
+        "SubTemplateGuid": "f5bc7ae4-f62d-47cd-9afb-2c9f85d8313b"
+      },
+      {
+        "Templates": [],
+        "Name": "__Originator",
+        "Key": "__originator",
+        "Fieldtype": "Droptree",
+        "Guid": "f6d8a61c-2f84-4401-bd24-52d2068172bc",
+        "SubTemplateName": "Appearance",
+        "SubTemplateGuid": "f5bc7ae4-f62d-47cd-9afb-2c9f85d8313b"
+      },
+      {
+        "Templates": [],
+        "Name": "__Preview",
+        "Key": "__preview",
+        "Fieldtype": "Page Preview",
+        "Guid": "41c6cc0e-389f-4d51-9990-fe35417b6666",
+        "SubTemplateName": "Appearance",
+        "SubTemplateGuid": "f5bc7ae4-f62d-47cd-9afb-2c9f85d8313b"
+      },
+      {
+        "Templates": [],
+        "Name": "__Read Only",
+        "Key": "__read only",
+        "Fieldtype": "Checkbox",
+        "Guid": "9c6106ea-7a5a-48e2-8cad-f0f693b1e2d4",
+        "SubTemplateName": "Appearance",
+        "SubTemplateGuid": "f5bc7ae4-f62d-47cd-9afb-2c9f85d8313b"
+      },
+      {
+        "Templates": [],
+        "Name": "__Ribbon",
+        "Key": "__ribbon",
+        "Fieldtype": "Droptree",
+        "Guid": "0c894aab-962b-4a84-b923-cb24b05e60d2",
+        "SubTemplateName": "Appearance",
+        "SubTemplateGuid": "f5bc7ae4-f62d-47cd-9afb-2c9f85d8313b"
+      },
+      {
+        "Templates": [],
+        "Name": "__Skin",
+        "Key": "__skin",
+        "Fieldtype": "Single-Line Text",
+        "Guid": "079afcfe-8aca-4863-bda7-07893541e2f5",
+        "SubTemplateName": "Appearance",
+        "SubTemplateGuid": "f5bc7ae4-f62d-47cd-9afb-2c9f85d8313b"
+      },
+      {
+        "Templates": [],
+        "Name": "__Sortorder",
+        "Key": "__sortorder",
+        "Fieldtype": "Single-Line Text",
+        "Guid": "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e",
+        "SubTemplateName": "Appearance",
+        "SubTemplateGuid": "f5bc7ae4-f62d-47cd-9afb-2c9f85d8313b"
+      },
+      {
+        "Templates": [],
+        "Name": "__Style",
+        "Key": "__style",
+        "Fieldtype": "Single-Line Text",
+        "Guid": "a791f095-2521-4b4d-bef9-21dda221f608",
+        "SubTemplateName": "Appearance",
+        "SubTemplateGuid": "f5bc7ae4-f62d-47cd-9afb-2c9f85d8313b"
+      },
+      {
+        "Templates": [],
+        "Name": "__Subitems Sorting",
+        "Key": "__subitems sorting",
+        "Fieldtype": "Droplink",
+        "Guid": "6fd695e7-7f6d-4ca5-8b49-a829e5950ae9",
+        "SubTemplateName": "Appearance",
+        "SubTemplateGuid": "f5bc7ae4-f62d-47cd-9afb-2c9f85d8313b"
+      },
+      {
+        "Templates": [],
+        "Name": "__Thumbnail",
+        "Key": "__thumbnail",
+        "Fieldtype": "Thumbnail",
+        "Guid": "c7c26117-dbb1-42b2-ab5e-f7223845cca3",
+        "SubTemplateName": "Appearance",
+        "SubTemplateGuid": "f5bc7ae4-f62d-47cd-9afb-2c9f85d8313b"
+      },
+      {
+        "Templates": [],
+        "Name": "__Help link",
+        "Key": "__help link",
+        "Fieldtype": "General Link",
+        "Guid": "56776edf-261c-4abc-9fe7-70c618795239",
+        "SubTemplateName": "Help",
+        "SubTemplateGuid": "18420296-d8fc-4d93-a79e-2a2b0367a92c"
+      },
+      {
+        "Templates": [],
+        "Name": "__Long description",
+        "Key": "__long description",
+        "Fieldtype": "Multi-Line Text",
+        "Guid": "577f1689-7de4-4ad2-a15f-7fdc1759285f",
+        "SubTemplateName": "Help",
+        "SubTemplateGuid": "18420296-d8fc-4d93-a79e-2a2b0367a92c"
+      },
+      {
+        "Templates": [],
+        "Name": "__Short description",
+        "Key": "__short description",
+        "Fieldtype": "Single-Line Text",
+        "Guid": "9541e67d-ce8c-4225-803d-33f7f29f09ef",
+        "SubTemplateName": "Help",
+        "SubTemplateGuid": "18420296-d8fc-4d93-a79e-2a2b0367a92c"
+      },
+      {
+        "Templates": [],
+        "Name": "__Boost",
+        "Key": "__boost",
+        "Fieldtype": "Single-Line Text",
+        "Guid": "93d1b217-b8f4-462e-babf-68298c9ce667",
+        "SubTemplateName": "Indexing",
+        "SubTemplateGuid": "38a2f441-db17-4039-90e2-6a32f7a81706"
+      },
+      {
+        "Templates": [],
+        "Name": "__Boosting Rules",
+        "Key": "__boosting rules",
+        "Fieldtype": "TreelistEx",
+        "Guid": "8c181989-2794-4b28-8ee4-6bb5cb928dc2",
+        "SubTemplateName": "Indexing",
+        "SubTemplateGuid": "38a2f441-db17-4039-90e2-6a32f7a81706"
+      },
+      {
+        "Templates": [],
+        "Name": "__Facets",
+        "Key": "__facets",
+        "Fieldtype": "Treelist",
+        "Guid": "21f74f6e-42d4-42a2-a4b4-4cefbcfbd2bb",
+        "SubTemplateName": "Indexing",
+        "SubTemplateGuid": "38a2f441-db17-4039-90e2-6a32f7a81706"
+      },
+      {
+        "Templates": [],
+        "Name": "__Insert Rules",
+        "Key": "__insert rules",
+        "Fieldtype": "TreelistEx",
+        "Guid": "83798d75-df25-4c28-9327-e8bac2b75292",
+        "SubTemplateName": "Insert Options",
+        "SubTemplateGuid": "823ecf5f-ae72-40b5-bc87-cb425fe7e5f6"
+      },
+      {
+        "Templates": [],
+        "Name": "__Masters",
+        "Key": "__masters",
+        "Fieldtype": "TreelistEx",
+        "Guid": "1172f251-dad4-4efb-a329-0c63500e4f1e",
+        "SubTemplateName": "Insert Options",
+        "SubTemplateGuid": "823ecf5f-ae72-40b5-bc87-cb425fe7e5f6"
+      },
+      {
+        "Templates": [],
+        "Name": "__Bucket Parent Reference",
+        "Key": "__bucket parent reference",
+        "Fieldtype": "Droptree",
+        "Guid": "9dafca1d-d618-4616-86b8-a8acd6b28a63",
+        "SubTemplateName": "Item Buckets",
+        "SubTemplateGuid": "af530c7b-8b87-458b-80ce-239d1e1b9e60"
+      },
+      {
+        "Templates": [],
+        "Name": "__Bucketable",
+        "Key": "__bucketable",
+        "Fieldtype": "Checkbox",
+        "Guid": "c9283d9e-7c29-4419-9c28-5a5c8ff53e84",
+        "SubTemplateName": "Item Buckets",
+        "SubTemplateGuid": "af530c7b-8b87-458b-80ce-239d1e1b9e60"
+      },
+      {
+        "Templates": [],
+        "Name": "__Default Bucket Query",
+        "Key": "__default bucket query",
+        "Fieldtype": "Query Builder",
+        "Guid": "ac51462c-8a8d-493b-9492-34d1f26f20f1",
+        "SubTemplateName": "Item Buckets",
+        "SubTemplateGuid": "af530c7b-8b87-458b-80ce-239d1e1b9e60"
+      },
+      {
+        "Templates": [],
+        "Name": "__Default View",
+        "Key": "__default view",
+        "Fieldtype": "Droplist",
+        "Guid": "3607f9c7-dda3-43c3-9720-39a7a5b3a4c3",
+        "SubTemplateName": "Item Buckets",
+        "SubTemplateGuid": "af530c7b-8b87-458b-80ce-239d1e1b9e60"
+      },
+      {
+        "Templates": [],
+        "Name": "__Enabled Views",
+        "Key": "__enabled views",
+        "Fieldtype": "Multilist",
+        "Guid": "f2db8ba1-e477-41f5-8ef5-22eefa8d2f6e",
+        "SubTemplateName": "Item Buckets",
+        "SubTemplateGuid": "af530c7b-8b87-458b-80ce-239d1e1b9e60"
+      },
+      {
+        "Templates": [],
+        "Name": "__Is Bucket",
+        "Key": "__is bucket",
+        "Fieldtype": "Checkbox",
+        "Guid": "d312103c-b36c-4ca5-864a-c85f9abda503",
+        "SubTemplateName": "Item Buckets",
+        "SubTemplateGuid": "af530c7b-8b87-458b-80ce-239d1e1b9e60"
+      },
+      {
+        "Templates": [],
+        "Name": "__Persistent Bucket Filter",
+        "Key": "__persistent bucket filter",
+        "Fieldtype": "Query Builder",
+        "Guid": "c7815f60-96e1-40cb-bb06-b5f833f73b61",
+        "SubTemplateName": "Item Buckets",
+        "SubTemplateGuid": "af530c7b-8b87-458b-80ce-239d1e1b9e60"
+      },
+      {
+        "Templates": [],
+        "Name": "__Quick Actions",
+        "Key": "__quick actions",
+        "Fieldtype": "Multilist",
+        "Guid": "c0e276bb-8807-40aa-8138-e5c38b0c5dab",
+        "SubTemplateName": "Item Buckets",
+        "SubTemplateGuid": "af530c7b-8b87-458b-80ce-239d1e1b9e60"
+      },
+      {
+        "Templates": [],
+        "Name": "__Should Not Organize In Bucket",
+        "Key": "__should not organize in bucket",
+        "Fieldtype": "Checkbox",
+        "Guid": "f7b94d8c-a842-49f8-ab7a-2169d00426b0",
+        "SubTemplateName": "Item Buckets",
+        "SubTemplateGuid": "af530c7b-8b87-458b-80ce-239d1e1b9e60"
+      },
+      {
+        "Templates": [],
+        "Name": "__Content Test",
+        "Key": "__content test",
+        "Fieldtype": "Droptree",
+        "Guid": "700f4aad-ad3b-4058-8673-a0cee765a1f7",
+        "SubTemplateName": "Layout",
+        "SubTemplateGuid": "4d30906d-0b49-4fa7-969d-bf90157357ea"
+      },
+      {
+        "Templates": [],
+        "Name": "__Controller",
+        "Key": "__controller",
+        "Fieldtype": "text",
+        "Guid": "4c9312a5-2e4e-42f8-ab6f-b8db8b82bf22",
+        "SubTemplateName": "Layout",
+        "SubTemplateGuid": "4d30906d-0b49-4fa7-969d-bf90157357ea"
+      },
+      {
+        "Templates": [],
+        "Name": "__Controller Action",
+        "Key": "__controller action",
+        "Fieldtype": "text",
+        "Guid": "9fb734cc-8952-4072-a2d4-40f890e16f56",
+        "SubTemplateName": "Layout",
+        "SubTemplateGuid": "4d30906d-0b49-4fa7-969d-bf90157357ea"
+      },
+      {
+        "Templates": [],
+        "Name": "__Final Renderings",
+        "Key": "__final renderings",
+        "Fieldtype": "Layout",
+        "Guid": "04bf00db-f5fb-41f7-8ab7-22408372a981",
+        "SubTemplateName": "Layout",
+        "SubTemplateGuid": "4d30906d-0b49-4fa7-969d-bf90157357ea"
+      },
+      {
+        "Templates": [],
+        "Name": "__Page Level Test Set Definition",
+        "Key": "__page level test set definition",
+        "Fieldtype": "Datasource",
+        "Guid": "8546d6e6-0749-4591-90f3-cec033d6e8d8",
+        "SubTemplateName": "Layout",
+        "SubTemplateGuid": "4d30906d-0b49-4fa7-969d-bf90157357ea"
+      },
+      {
+        "Templates": [],
+        "Name": "__Presets",
+        "Key": "__presets",
+        "Fieldtype": "Treelist",
+        "Guid": "a4879e42-0270-458d-9c19-a20af3c2b765",
+        "SubTemplateName": "Layout",
+        "SubTemplateGuid": "4d30906d-0b49-4fa7-969d-bf90157357ea"
+      },
+      {
+        "Templates": [],
+        "Name": "__Renderers",
+        "Key": "__renderers",
+        "Fieldtype": "Multi-Line Text",
+        "Guid": "b03569b1-1534-43f2-8c83-bd064b7d782c",
+        "SubTemplateName": "Layout",
+        "SubTemplateGuid": "4d30906d-0b49-4fa7-969d-bf90157357ea"
+      },
+      {
+        "Templates": [],
+        "Name": "__Renderings",
+        "Key": "__renderings",
+        "Fieldtype": "layout",
+        "Guid": "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e",
+        "SubTemplateName": "Layout",
+        "SubTemplateGuid": "4d30906d-0b49-4fa7-969d-bf90157357ea"
+      },
+      {
+        "Templates": [],
+        "Name": "__Hide version",
+        "Key": "__hide version",
+        "Fieldtype": "checkbox",
+        "Guid": "b8f42732-9cb8-478d-ae95-07e25345fb0f",
+        "SubTemplateName": "Lifetime",
+        "SubTemplateGuid": "6ef07334-7fba-4845-bf0a-cd5b2000c75a"
+      },
+      {
+        "Templates": [],
+        "Name": "__Valid from",
+        "Key": "__valid from",
+        "Fieldtype": "datetime",
+        "Guid": "c8f93afe-bfd4-4e8f-9c61-152559854661",
+        "SubTemplateName": "Lifetime",
+        "SubTemplateGuid": "6ef07334-7fba-4845-bf0a-cd5b2000c75a"
+      },
+      {
+        "Templates": [],
+        "Name": "__Valid to",
+        "Key": "__valid to",
+        "Fieldtype": "datetime",
+        "Guid": "4c346442-e859-4efd-89b2-44aedf467d21",
+        "SubTemplateName": "Lifetime",
+        "SubTemplateGuid": "6ef07334-7fba-4845-bf0a-cd5b2000c75a"
+      },
+      {
+        "Templates": [],
+        "Name": "__Never publish",
+        "Key": "__never publish",
+        "Fieldtype": "checkbox",
+        "Guid": "9135200a-5626-4dd8-ab9d-d665b8c11748",
+        "SubTemplateName": "Publishing",
+        "SubTemplateGuid": "6495cf23-de9c-48b7-9d3c-05e2418b3cae"
+      },
+      {
+        "Templates": [],
+        "Name": "__Publish",
+        "Key": "__publish",
+        "Fieldtype": "datetime",
+        "Guid": "86fe4f77-4d9a-4ec3-9ed9-263d03bd1965",
+        "SubTemplateName": "Publishing",
+        "SubTemplateGuid": "6495cf23-de9c-48b7-9d3c-05e2418b3cae"
+      },
+      {
+        "Templates": [],
+        "Name": "__Publishing groups",
+        "Key": "__publishing groups",
+        "Fieldtype": "checklist",
+        "Guid": "74484bdf-7c86-463c-b49f-7b73b9afc965",
+        "SubTemplateName": "Publishing",
+        "SubTemplateGuid": "6495cf23-de9c-48b7-9d3c-05e2418b3cae"
+      },
+      {
+        "Templates": [],
+        "Name": "__Unpublish",
+        "Key": "__unpublish",
+        "Fieldtype": "datetime",
+        "Guid": "7ead6fd6-6cf1-4aca-ac6b-b200e7bafe88",
+        "SubTemplateName": "Publishing",
+        "SubTemplateGuid": "6495cf23-de9c-48b7-9d3c-05e2418b3cae"
+      },
+      {
+        "Templates": [],
+        "Name": "__Owner",
+        "Key": "__owner",
+        "Fieldtype": "Single-Line Text",
+        "Guid": "52807595-0f8f-4b20-8d2a-cb71d28c6103",
+        "SubTemplateName": "Security",
+        "SubTemplateGuid": "ab811af4-393c-4a46-acd7-81d30917e7f4"
+      },
+      {
+        "Templates": [],
+        "Name": "__Security",
+        "Key": "__security",
+        "Fieldtype": "security",
+        "Guid": "dec8d2d5-e3cf-48b6-a653-8e69e2716641",
+        "SubTemplateName": "Security",
+        "SubTemplateGuid": "ab811af4-393c-4a46-acd7-81d30917e7f4"
+      },
+      {
+        "Templates": [],
+        "Name": "__Created",
+        "Key": "__created",
+        "Fieldtype": "datetime",
+        "Guid": "25bed78c-4957-4165-998a-ca1b52f67497",
+        "SubTemplateName": "Statistics",
+        "SubTemplateGuid": "1597272c-c823-4aac-86f8-ca9cc4d573b5"
+      },
+      {
+        "Templates": [],
+        "Name": "__Created by",
+        "Key": "__created by",
+        "Fieldtype": "Single-Line Text",
+        "Guid": "5dd74568-4d4b-44c1-b513-0af5f4cda34f",
+        "SubTemplateName": "Statistics",
+        "SubTemplateGuid": "1597272c-c823-4aac-86f8-ca9cc4d573b5"
+      },
+      {
+        "Templates": [],
+        "Name": "__Revision",
+        "Key": "__revision",
+        "Fieldtype": "Single-Line Text",
+        "Guid": "8cdc337e-a112-42fb-bbb4-4143751e123f",
+        "SubTemplateName": "Statistics",
+        "SubTemplateGuid": "1597272c-c823-4aac-86f8-ca9cc4d573b5"
+      },
+      {
+        "Templates": [],
+        "Name": "__Updated",
+        "Key": "__updated",
+        "Fieldtype": "datetime",
+        "Guid": "d9cf14b1-fa16-4ba6-9288-e8a174d4d522",
+        "SubTemplateName": "Statistics",
+        "SubTemplateGuid": "1597272c-c823-4aac-86f8-ca9cc4d573b5"
+      },
+      {
+        "Templates": [],
+        "Name": "__Updated by",
+        "Key": "__updated by",
+        "Fieldtype": "Single-Line Text",
+        "Guid": "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a",
+        "SubTemplateName": "Statistics",
+        "SubTemplateGuid": "1597272c-c823-4aac-86f8-ca9cc4d573b5"
+      },
+      {
+        "Templates": [],
+        "Name": "__Semantics",
+        "Key": "__semantics",
+        "Fieldtype": "Multilist with Search",
+        "Guid": "a14f1b0c-4384-49ec-8790-28a440f3670c",
+        "SubTemplateName": "Tagging",
+        "SubTemplateGuid": "0aa6d3f8-c9d0-401f-83aa-a41433c24767"
+      },
+      {
+        "Templates": [],
+        "Name": "__Archive date",
+        "Key": "__archive date",
+        "Fieldtype": "datetime",
+        "Guid": "56c15c6d-fd5a-40ca-bb37-64ceec6a9bd5",
+        "SubTemplateName": "Tasks",
+        "SubTemplateGuid": "93f3a8fa-9e5a-4848-a5ad-42aad11a4871"
+      },
+      {
+        "Templates": [],
+        "Name": "__Archive Version date",
+        "Key": "__archive version date",
+        "Fieldtype": "Datetime",
+        "Guid": "1d99005e-65ca-45ca-9d9a-fd7016e23f1e",
+        "SubTemplateName": "Tasks",
+        "SubTemplateGuid": "93f3a8fa-9e5a-4848-a5ad-42aad11a4871"
+      },
+      {
+        "Templates": [],
+        "Name": "__Reminder date",
+        "Key": "__reminder date",
+        "Fieldtype": "datetime",
+        "Guid": "abe5d54c-59d7-41e6-8d3f-c1a3e4ec9b9e",
+        "SubTemplateName": "Tasks",
+        "SubTemplateGuid": "93f3a8fa-9e5a-4848-a5ad-42aad11a4871"
+      },
+      {
+        "Templates": [],
+        "Name": "__Reminder recipients",
+        "Key": "__reminder recipients",
+        "Fieldtype": "Single-Line Text",
+        "Guid": "2ed9c4d0-9eff-490d-a40a-b5d856499c40",
+        "SubTemplateName": "Tasks",
+        "SubTemplateGuid": "93f3a8fa-9e5a-4848-a5ad-42aad11a4871"
+      },
+      {
+        "Templates": [],
+        "Name": "__Reminder text",
+        "Key": "__reminder text",
+        "Fieldtype": "Multi-Line Text",
+        "Guid": "bb6c8540-118e-4c49-9157-830576d7345a",
+        "SubTemplateName": "Tasks",
+        "SubTemplateGuid": "93f3a8fa-9e5a-4848-a5ad-42aad11a4871"
+      },
+      {
+        "Templates": [],
+        "Name": "__Quick Action Bar Validation Rules",
+        "Key": "__quick action bar validation rules",
+        "Fieldtype": "TreelistEx",
+        "Guid": "c2f5b2b5-71c1-431e-bf7f-dbdc1e5a2f83",
+        "SubTemplateName": "Validators",
+        "SubTemplateGuid": "2491819e-0c61-4f5a-903c-e10fcd9d302a"
+      },
+      {
+        "Templates": [],
+        "Name": "__Suppressed Validation Rules",
+        "Key": "__suppressed validation rules",
+        "Fieldtype": "Multi-Line Text",
+        "Guid": "f47c0d78-61f9-479c-96df-1159727d32c6",
+        "SubTemplateName": "Validators",
+        "SubTemplateGuid": "2491819e-0c61-4f5a-903c-e10fcd9d302a"
+      },
+      {
+        "Templates": [],
+        "Name": "__Validate Button Validation Rules",
+        "Key": "__validate button validation rules",
+        "Fieldtype": "TreelistEx",
+        "Guid": "57cbca4c-8c94-446c-b8ca-7d8dc54f4285",
+        "SubTemplateName": "Validators",
+        "SubTemplateGuid": "2491819e-0c61-4f5a-903c-e10fcd9d302a"
+      },
+      {
+        "Templates": [],
+        "Name": "__Validator Bar Validation Rules",
+        "Key": "__validator bar validation rules",
+        "Fieldtype": "TreelistEx",
+        "Guid": "b7e5b151-b145-4ced-85c5-fbdb566dfa4d",
+        "SubTemplateName": "Validators",
+        "SubTemplateGuid": "2491819e-0c61-4f5a-903c-e10fcd9d302a"
+      },
+      {
+        "Templates": [],
+        "Name": "__Workflow Validation Rules",
+        "Key": "__workflow validation rules",
+        "Fieldtype": "TreelistEx",
+        "Guid": "86b52eef-078e-4d9e-80bf-888287070e6c",
+        "SubTemplateName": "Validators",
+        "SubTemplateGuid": "2491819e-0c61-4f5a-903c-e10fcd9d302a"
+      },
+      {
+        "Templates": [],
+        "Name": "__Default workflow",
+        "Key": "__default workflow",
+        "Fieldtype": "Droptree",
+        "Guid": "ca9b9f52-4fb0-4f87-a79f-24dea62cda65",
+        "SubTemplateName": "Workflow",
+        "SubTemplateGuid": "06f366e6-a7e6-470b-9ec9-cd29a4f6c8e8"
+      },
+      {
+        "Templates": [],
+        "Name": "__Lock",
+        "Key": "__lock",
+        "Fieldtype": "Multi-Line Text",
+        "Guid": "001dd393-96c5-490b-924a-b0f25cd9efd8",
+        "SubTemplateName": "Workflow",
+        "SubTemplateGuid": "06f366e6-a7e6-470b-9ec9-cd29a4f6c8e8"
+      },
+      {
+        "Templates": [],
+        "Name": "__Workflow",
+        "Key": "__workflow",
+        "Fieldtype": "Droptree",
+        "Guid": "a4f985d9-98b3-4b52-aaaf-4344f6e747c6",
+        "SubTemplateName": "Workflow",
+        "SubTemplateGuid": "06f366e6-a7e6-470b-9ec9-cd29a4f6c8e8"
+      },
+      {
+        "Templates": [],
+        "Name": "__Workflow state",
+        "Key": "__workflow state",
+        "Fieldtype": "Droptree",
+        "Guid": "3e431de1-525e-47a3-b6b0-1ccbec3a8c98",
+        "SubTemplateName": "Workflow",
+        "SubTemplateGuid": "06f366e6-a7e6-470b-9ec9-cd29a4f6c8e8"
+      }
+    ],
+    "BaseTemplates": [ "af74a00b-8ca7-4c9a-a5c1-156a68590ee2", "91962b60-25f6-428f-8d10-02aa1e49d6a5", "d88ccd80-d851-470d-af11-701ff23504e7", "bdd24f35-05e8-4466-8798-7d3dd6a6c991", "a1cba309-d22b-46d5-80f8-2972c185363f", "8fd6c8b6-a9a4-4322-947e-90ce3d94916d" ],
+    "TemplateName": "Article",
+    "Guid": "94a8c8e9-690b-4e65-98e7-f95800222767",
+    "Path": "C:\\Work\\Epi\\ContentMigration\\Habitat.1.4.0.682\\package\\items\\master\\sitecore\\templates\\Project\\Habitat\\Page Types\\Article\\{94A8C8E9-690B-4E65-98E7-F95800222767}\\en\\1\\xml"
+  },
+  {
+    "Fields": [
+      {
+        "Templates": [],
+        "Name": "Email",
+        "Key": "email",
+        "Fieldtype": "Single-Line Text",
+        "Guid": "5978b330-1d46-4065-8751-f74bf17d815e",
+        "SubTemplateName": "_Employee",
+        "SubTemplateGuid": "745652ae-3298-48b1-9be1-99012d91f3ac"
+      },
+      {
+        "Templates": [],
+        "Name": "Mobile",
+        "Key": "mobile",
+        "Fieldtype": "Single-Line Text",
+        "Guid": "25b4cee3-a61a-4dc3-bb52-775dd509dbb5",
+        "SubTemplateName": "_Employee",
+        "SubTemplateGuid": "745652ae-3298-48b1-9be1-99012d91f3ac"
+      },
+      {
+        "Templates": [],
+        "Name": "Telephone",
+        "Key": "telephone",
+        "Fieldtype": "Single-Line Text",
+        "Guid": "8d0e8ee3-21c4-4ae2-a2f1-53d3f3ebe501",
+        "SubTemplateName": "_Employee",
+        "SubTemplateGuid": "745652ae-3298-48b1-9be1-99012d91f3ac"
+      },
+      {
+        "Templates": [],
+        "Name": "Biography",
+        "Key": "biography",
+        "Fieldtype": "Rich Text",
+        "Guid": "0cc9785e-54fe-4fae-93e4-d0d2ae75f339",
+        "SubTemplateName": "_Employee",
+        "SubTemplateGuid": "745652ae-3298-48b1-9be1-99012d91f3ac"
+      },
+      {
+        "Templates": [],
+        "Name": "BlogLink",
+        "Key": "bloglink",
+        "Fieldtype": "General Link",
+        "Guid": "69a846d9-4c7f-435c-a8dc-87e2d7359cfa",
+        "SubTemplateName": "_Employee",
+        "SubTemplateGuid": "745652ae-3298-48b1-9be1-99012d91f3ac"
+      },
+      {
+        "Templates": [],
+        "Name": "FacebookLink",
+        "Key": "facebooklink",
+        "Fieldtype": "General Link",
+        "Guid": "d31889c0-e34c-4904-a6f3-f3d92d314aa9",
+        "SubTemplateName": "_Employee",
+        "SubTemplateGuid": "745652ae-3298-48b1-9be1-99012d91f3ac"
+      },
+      {
+        "Templates": [],
+        "Name": "LinkedInLink",
+        "Key": "linkedinlink",
+        "Fieldtype": "General Link",
+        "Guid": "2b13dfab-3450-45ef-93f4-beaa6f544fa6",
+        "SubTemplateName": "_Employee",
+        "SubTemplateGuid": "745652ae-3298-48b1-9be1-99012d91f3ac"
+      },
+      {
+        "Templates": [],
+        "Name": "TwitterLink",
+        "Key": "twitterlink",
+        "Fieldtype": "General Link",
+        "Guid": "6de98ef7-1209-40a3-a63e-16dbef015211",
+        "SubTemplateName": "_Employee",
+        "SubTemplateGuid": "745652ae-3298-48b1-9be1-99012d91f3ac"
+      },
+      {
+        "Templates": [],
+        "Name": "IncludeInSearchResults",
+        "Key": "includeinsearchresults",
+        "Fieldtype": "Checkbox",
+        "Guid": "8d5c486e-a0e3-4dbe-9a4a-cdff93594bda",
+        "SubTemplateName": "_IndexedItem",
+        "SubTemplateGuid": "8fd6c8b6-a9a4-4322-947e-90ce3d94916d"
+      },
+      {
+        "Templates": [],
+        "Name": "NavigationTitle",
+        "Key": "navigationtitle",
+        "Fieldtype": "Single-Line Text",
+        "Guid": "1b483e91-d8c4-4d19-ba03-462074b55936",
+        "SubTemplateName": "_Navigable",
+        "SubTemplateGuid": "a1cba309-d22b-46d5-80f8-2972c185363f"
+      },
+      {
+        "Templates": [],
+        "Name": "ShowChildren",
+        "Key": "showchildren",
+        "Fieldtype": "Checkbox",
+        "Guid": "68016087-aa00-45d6-922a-678475c50d4a",
+        "SubTemplateName": "_Navigable",
+        "SubTemplateGuid": "a1cba309-d22b-46d5-80f8-2972c185363f"
+      },
+      {
+        "Templates": [],
+        "Name": "ShowInNavigation",
+        "Key": "showinnavigation",
+        "Fieldtype": "Checkbox",
+        "Guid": "5585a30d-b115-4753-93ce-422c3455deb2",
+        "SubTemplateName": "_Navigable",
+        "SubTemplateGuid": "a1cba309-d22b-46d5-80f8-2972c185363f"
+      },
+      {
+        "Templates": [],
+        "Name": "OpenGraphDescription",
+        "Key": "opengraphdescription",
+        "Fieldtype": "Multi-Line Text",
+        "Guid": "a12d5346-87ee-484d-83c5-f1e8e1b99666",
+        "SubTemplateName": "_OpenGraph",
+        "SubTemplateGuid": "bdd24f35-05e8-4466-8798-7d3dd6a6c991"
+      },
+      {
+        "Templates": [],
+        "Name": "OpenGraphImage",
+        "Key": "opengraphimage",
+        "Fieldtype": "Image",
+        "Guid": "11f41661-e5fe-44e7-b8da-7cff2d39b4b2",
+        "SubTemplateName": "_OpenGraph",
+        "SubTemplateGuid": "bdd24f35-05e8-4466-8798-7d3dd6a6c991"
+      },
+      {
+        "Templates": [],
+        "Name": "OpenGraphTitle",
+        "Key": "opengraphtitle",
+        "Fieldtype": "Single-Line Text",
+        "Guid": "0ee2f208-1fee-42fc-8051-6696d49a92bf",
+        "SubTemplateName": "_OpenGraph",
+        "SubTemplateGuid": "bdd24f35-05e8-4466-8798-7d3dd6a6c991"
+      },
+      {
+        "Templates": [],
+        "Name": "CssCode",
+        "Key": "csscode",
+        "Fieldtype": "Multi-Line Text",
+        "Guid": "06a96efc-f2e5-45c3-a7dc-4dddfa366cc0",
+        "SubTemplateName": "_PageAssets",
+        "SubTemplateGuid": "91962b60-25f6-428f-8d10-02aa1e49d6a5"
+      },
+      {
+        "Templates": [],
+        "Name": "InheritAssets",
+        "Key": "inheritassets",
+        "Fieldtype": "Checkbox",
+        "Guid": "f19e8a50-9950-4861-9e66-9598a1898e71",
+        "SubTemplateName": "_PageAssets",
+        "SubTemplateGuid": "91962b60-25f6-428f-8d10-02aa1e49d6a5"
+      },
+      {
+        "Templates": [],
+        "Name": "JavascriptCodeBottom",
+        "Key": "javascriptcodebottom",
+        "Fieldtype": "Multi-Line Text",
+        "Guid": "b3ba9ea9-d0a1-49df-9f4b-28fa5d353dc8",
+        "SubTemplateName": "_PageAssets",
+        "SubTemplateGuid": "91962b60-25f6-428f-8d10-02aa1e49d6a5"
+      },
+      {
+        "Templates": [],
+        "Name": "JavascriptCodeTop",
+        "Key": "javascriptcodetop",
+        "Fieldtype": "Multi-Line Text",
+        "Guid": "d79d9ddd-2774-42f4-94c3-50c892f6e13d",
+        "SubTemplateName": "_PageAssets",
+        "SubTemplateGuid": "91962b60-25f6-428f-8d10-02aa1e49d6a5"
+      },
+      {
+        "Templates": [],
+        "Name": "BrowserTitle",
+        "Key": "browsertitle",
+        "Fieldtype": "Single-Line Text",
+        "Guid": "ca0479ce-0bfe-4522-83de-ba688b380a78",
+        "SubTemplateName": "_PageMetadata",
+        "SubTemplateGuid": "d88ccd80-d851-470d-af11-701ff23504e7"
+      },
+      {
+        "Templates": [],
+        "Name": "CanIndex",
+        "Key": "canindex",
+        "Fieldtype": "Checkbox",
+        "Guid": "683d7237-206a-488f-9dee-4a4e41fb161d",
+        "SubTemplateName": "_PageMetadata",
+        "SubTemplateGuid": "d88ccd80-d851-470d-af11-701ff23504e7"
+      },
+      {
+        "Templates": [],
+        "Name": "CustomMetaData",
+        "Key": "custommetadata",
+        "Fieldtype": "Name Value List",
+        "Guid": "167aba77-5172-42af-9f9e-00299113839e",
+        "SubTemplateName": "_PageMetadata",
+        "SubTemplateGuid": "d88ccd80-d851-470d-af11-701ff23504e7"
+      },
+      {
+        "Templates": [],
+        "Name": "MetaDescription",
+        "Key": "metadescription",
+        "Fieldtype": "Multi-Line Text",
+        "Guid": "bb7a38c0-323c-4f81-8eb9-288abf7c4638",
+        "SubTemplateName": "_PageMetadata",
+        "SubTemplateGuid": "d88ccd80-d851-470d-af11-701ff23504e7"
+      },
+      {
+        "Templates": [],
+        "Name": "MetaKeywords",
+        "Key": "metakeywords",
+        "Fieldtype": "Treelist",
+        "Guid": "4b16f930-73c9-4643-bb1b-00f06e60a073",
+        "SubTemplateName": "_PageMetadata",
+        "SubTemplateGuid": "d88ccd80-d851-470d-af11-701ff23504e7"
+      },
+      {
+        "Templates": [],
+        "Name": "SeoFollowLinks",
+        "Key": "seofollowlinks",
+        "Fieldtype": "Checkbox",
+        "Guid": "0dca829c-9fce-41f5-9990-c6182fefe905",
+        "SubTemplateName": "_PageMetadata",
+        "SubTemplateGuid": "d88ccd80-d851-470d-af11-701ff23504e7"
+      },
+      {
+        "Templates": [],
+        "Name": "Name",
+        "Key": "name",
+        "Fieldtype": "Single-Line Text",
+        "Guid": "26cd59ab-3639-488f-bafd-58d2b217755a",
+        "SubTemplateName": "_Person",
+        "SubTemplateGuid": "7aca6ecf-1a80-4e35-97f5-dbaa8e3ec617"
+      },
+      {
+        "Templates": [],
+        "Name": "Picture",
+        "Key": "picture",
+        "Fieldtype": "Image",
+        "Guid": "c9baf3eb-8cfa-4bf6-9b19-51d38db5fc38",
+        "SubTemplateName": "_Person",
+        "SubTemplateGuid": "7aca6ecf-1a80-4e35-97f5-dbaa8e3ec617"
+      },
+      {
+        "Templates": [],
+        "Name": "Summary",
+        "Key": "summary",
+        "Fieldtype": "Multi-Line Text",
+        "Guid": "b897023c-15d2-49f3-8974-06fa5fb7ad00",
+        "SubTemplateName": "_Person",
+        "SubTemplateGuid": "7aca6ecf-1a80-4e35-97f5-dbaa8e3ec617"
+      },
+      {
+        "Templates": [],
+        "Name": "Title",
+        "Key": "title",
+        "Fieldtype": "Single-Line Text",
+        "Guid": "76972fcd-4bb0-4255-864e-077745efdf50",
+        "SubTemplateName": "_Person",
+        "SubTemplateGuid": "7aca6ecf-1a80-4e35-97f5-dbaa8e3ec617"
+      },
+      {
+        "Templates": [],
+        "Name": "__Enable item fallback",
+        "Key": "__enable item fallback",
+        "Fieldtype": "Checkbox",
+        "Guid": "fd4e2050-186c-4375-8b99-e8a85dd7436e",
+        "SubTemplateName": "Advanced",
+        "SubTemplateGuid": "646f4b34-708c-41c2-9f4b-2661849777f3"
+      },
+      {
+        "Templates": [],
+        "Name": "__Enforce version presence",
+        "Key": "__enforce version presence",
+        "Fieldtype": "Checkbox",
+        "Guid": "61cf7151-0cbd-4db4-9738-d753a55a6e65",
+        "SubTemplateName": "Advanced",
+        "SubTemplateGuid": "646f4b34-708c-41c2-9f4b-2661849777f3"
+      },
+      {
+        "Templates": [],
+        "Name": "__Source",
+        "Key": "__source",
+        "Fieldtype": "Version Link",
+        "Guid": "1b86697d-60ca-4d80-83fb-7555a2e6ce1c",
+        "SubTemplateName": "Advanced",
+        "SubTemplateGuid": "646f4b34-708c-41c2-9f4b-2661849777f3"
+      },
+      {
+        "Templates": [],
+        "Name": "__Source Item",
+        "Key": "__source item",
+        "Fieldtype": "Version Link",
+        "Guid": "19b597d3-2edd-4ae2-aefe-4a94c7f10e31",
+        "SubTemplateName": "Advanced",
+        "SubTemplateGuid": "646f4b34-708c-41c2-9f4b-2661849777f3"
+      },
+      {
+        "Templates": [],
+        "Name": "__Standard values",
+        "Key": "__standard values",
+        "Fieldtype": "Droptree",
+        "Guid": "f7d48a55-2158-4f02-9356-756654404f73",
+        "SubTemplateName": "Advanced",
+        "SubTemplateGuid": "646f4b34-708c-41c2-9f4b-2661849777f3"
+      },
+      {
+        "Templates": [],
+        "Name": "__Tracking",
+        "Key": "__tracking",
+        "Fieldtype": "Tracking",
+        "Guid": "b0a67b2a-8b07-4e0b-8809-69f751709806",
+        "SubTemplateName": "Advanced",
+        "SubTemplateGuid": "646f4b34-708c-41c2-9f4b-2661849777f3"
+      },
+      {
+        "Templates": [],
+        "Name": "__Context Menu",
+        "Key": "__context menu",
+        "Fieldtype": "Droptree",
+        "Guid": "d3ae7222-425d-4b77-95d8-ee33ac2b6730",
+        "SubTemplateName": "Appearance",
+        "SubTemplateGuid": "f5bc7ae4-f62d-47cd-9afb-2c9f85d8313b"
+      },
+      {
+        "Templates": [],
+        "Name": "__Display name",
+        "Key": "__display name",
+        "Fieldtype": "Single-Line Text",
+        "Guid": "b5e02ad9-d56f-4c41-a065-a133db87bdeb",
+        "SubTemplateName": "Appearance",
+        "SubTemplateGuid": "f5bc7ae4-f62d-47cd-9afb-2c9f85d8313b"
+      },
+      {
+        "Templates": [],
+        "Name": "__Editor",
+        "Key": "__editor",
+        "Fieldtype": "server file",
+        "Guid": "d85db4ec-ff89-4f9c-9e7c-a9e0654797fc",
+        "SubTemplateName": "Appearance",
+        "SubTemplateGuid": "f5bc7ae4-f62d-47cd-9afb-2c9f85d8313b"
+      },
+      {
+        "Templates": [],
+        "Name": "__Editors",
+        "Key": "__editors",
+        "Fieldtype": "TreelistEx",
+        "Guid": "a0cb3965-8884-4c7a-8815-b6b2e5ced162",
+        "SubTemplateName": "Appearance",
+        "SubTemplateGuid": "f5bc7ae4-f62d-47cd-9afb-2c9f85d8313b"
+      },
+      {
+        "Templates": [],
+        "Name": "__Hidden",
+        "Key": "__hidden",
+        "Fieldtype": "Checkbox",
+        "Guid": "39c4902e-9960-4469-aeef-e878e9c8218f",
+        "SubTemplateName": "Appearance",
+        "SubTemplateGuid": "f5bc7ae4-f62d-47cd-9afb-2c9f85d8313b"
+      },
+      {
+        "Templates": [],
+        "Name": "__Icon",
+        "Key": "__icon",
+        "Fieldtype": "Icon",
+        "Guid": "06d5295c-ed2f-4a54-9bf2-26228d113318",
+        "SubTemplateName": "Appearance",
+        "SubTemplateGuid": "f5bc7ae4-f62d-47cd-9afb-2c9f85d8313b"
+      },
+      {
+        "Templates": [],
+        "Name": "__Originator",
+        "Key": "__originator",
+        "Fieldtype": "Droptree",
+        "Guid": "f6d8a61c-2f84-4401-bd24-52d2068172bc",
+        "SubTemplateName": "Appearance",
+        "SubTemplateGuid": "f5bc7ae4-f62d-47cd-9afb-2c9f85d8313b"
+      },
+      {
+        "Templates": [],
+        "Name": "__Preview",
+        "Key": "__preview",
+        "Fieldtype": "Page Preview",
+        "Guid": "41c6cc0e-389f-4d51-9990-fe35417b6666",
+        "SubTemplateName": "Appearance",
+        "SubTemplateGuid": "f5bc7ae4-f62d-47cd-9afb-2c9f85d8313b"
+      },
+      {
+        "Templates": [],
+        "Name": "__Read Only",
+        "Key": "__read only",
+        "Fieldtype": "Checkbox",
+        "Guid": "9c6106ea-7a5a-48e2-8cad-f0f693b1e2d4",
+        "SubTemplateName": "Appearance",
+        "SubTemplateGuid": "f5bc7ae4-f62d-47cd-9afb-2c9f85d8313b"
+      },
+      {
+        "Templates": [],
+        "Name": "__Ribbon",
+        "Key": "__ribbon",
+        "Fieldtype": "Droptree",
+        "Guid": "0c894aab-962b-4a84-b923-cb24b05e60d2",
+        "SubTemplateName": "Appearance",
+        "SubTemplateGuid": "f5bc7ae4-f62d-47cd-9afb-2c9f85d8313b"
+      },
+      {
+        "Templates": [],
+        "Name": "__Skin",
+        "Key": "__skin",
+        "Fieldtype": "Single-Line Text",
+        "Guid": "079afcfe-8aca-4863-bda7-07893541e2f5",
+        "SubTemplateName": "Appearance",
+        "SubTemplateGuid": "f5bc7ae4-f62d-47cd-9afb-2c9f85d8313b"
+      },
+      {
+        "Templates": [],
+        "Name": "__Sortorder",
+        "Key": "__sortorder",
+        "Fieldtype": "Single-Line Text",
+        "Guid": "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e",
+        "SubTemplateName": "Appearance",
+        "SubTemplateGuid": "f5bc7ae4-f62d-47cd-9afb-2c9f85d8313b"
+      },
+      {
+        "Templates": [],
+        "Name": "__Style",
+        "Key": "__style",
+        "Fieldtype": "Single-Line Text",
+        "Guid": "a791f095-2521-4b4d-bef9-21dda221f608",
+        "SubTemplateName": "Appearance",
+        "SubTemplateGuid": "f5bc7ae4-f62d-47cd-9afb-2c9f85d8313b"
+      },
+      {
+        "Templates": [],
+        "Name": "__Subitems Sorting",
+        "Key": "__subitems sorting",
+        "Fieldtype": "Droplink",
+        "Guid": "6fd695e7-7f6d-4ca5-8b49-a829e5950ae9",
+        "SubTemplateName": "Appearance",
+        "SubTemplateGuid": "f5bc7ae4-f62d-47cd-9afb-2c9f85d8313b"
+      },
+      {
+        "Templates": [],
+        "Name": "__Thumbnail",
+        "Key": "__thumbnail",
+        "Fieldtype": "Thumbnail",
+        "Guid": "c7c26117-dbb1-42b2-ab5e-f7223845cca3",
+        "SubTemplateName": "Appearance",
+        "SubTemplateGuid": "f5bc7ae4-f62d-47cd-9afb-2c9f85d8313b"
+      },
+      {
+        "Templates": [],
+        "Name": "__Help link",
+        "Key": "__help link",
+        "Fieldtype": "General Link",
+        "Guid": "56776edf-261c-4abc-9fe7-70c618795239",
+        "SubTemplateName": "Help",
+        "SubTemplateGuid": "18420296-d8fc-4d93-a79e-2a2b0367a92c"
+      },
+      {
+        "Templates": [],
+        "Name": "__Long description",
+        "Key": "__long description",
+        "Fieldtype": "Multi-Line Text",
+        "Guid": "577f1689-7de4-4ad2-a15f-7fdc1759285f",
+        "SubTemplateName": "Help",
+        "SubTemplateGuid": "18420296-d8fc-4d93-a79e-2a2b0367a92c"
+      },
+      {
+        "Templates": [],
+        "Name": "__Short description",
+        "Key": "__short description",
+        "Fieldtype": "Single-Line Text",
+        "Guid": "9541e67d-ce8c-4225-803d-33f7f29f09ef",
+        "SubTemplateName": "Help",
+        "SubTemplateGuid": "18420296-d8fc-4d93-a79e-2a2b0367a92c"
+      },
+      {
+        "Templates": [],
+        "Name": "__Boost",
+        "Key": "__boost",
+        "Fieldtype": "Single-Line Text",
+        "Guid": "93d1b217-b8f4-462e-babf-68298c9ce667",
+        "SubTemplateName": "Indexing",
+        "SubTemplateGuid": "38a2f441-db17-4039-90e2-6a32f7a81706"
+      },
+      {
+        "Templates": [],
+        "Name": "__Boosting Rules",
+        "Key": "__boosting rules",
+        "Fieldtype": "TreelistEx",
+        "Guid": "8c181989-2794-4b28-8ee4-6bb5cb928dc2",
+        "SubTemplateName": "Indexing",
+        "SubTemplateGuid": "38a2f441-db17-4039-90e2-6a32f7a81706"
+      },
+      {
+        "Templates": [],
+        "Name": "__Facets",
+        "Key": "__facets",
+        "Fieldtype": "Treelist",
+        "Guid": "21f74f6e-42d4-42a2-a4b4-4cefbcfbd2bb",
+        "SubTemplateName": "Indexing",
+        "SubTemplateGuid": "38a2f441-db17-4039-90e2-6a32f7a81706"
+      },
+      {
+        "Templates": [],
+        "Name": "__Insert Rules",
+        "Key": "__insert rules",
+        "Fieldtype": "TreelistEx",
+        "Guid": "83798d75-df25-4c28-9327-e8bac2b75292",
+        "SubTemplateName": "Insert Options",
+        "SubTemplateGuid": "823ecf5f-ae72-40b5-bc87-cb425fe7e5f6"
+      },
+      {
+        "Templates": [],
+        "Name": "__Masters",
+        "Key": "__masters",
+        "Fieldtype": "TreelistEx",
+        "Guid": "1172f251-dad4-4efb-a329-0c63500e4f1e",
+        "SubTemplateName": "Insert Options",
+        "SubTemplateGuid": "823ecf5f-ae72-40b5-bc87-cb425fe7e5f6"
+      },
+      {
+        "Templates": [],
+        "Name": "__Bucket Parent Reference",
+        "Key": "__bucket parent reference",
+        "Fieldtype": "Droptree",
+        "Guid": "9dafca1d-d618-4616-86b8-a8acd6b28a63",
+        "SubTemplateName": "Item Buckets",
+        "SubTemplateGuid": "af530c7b-8b87-458b-80ce-239d1e1b9e60"
+      },
+      {
+        "Templates": [],
+        "Name": "__Bucketable",
+        "Key": "__bucketable",
+        "Fieldtype": "Checkbox",
+        "Guid": "c9283d9e-7c29-4419-9c28-5a5c8ff53e84",
+        "SubTemplateName": "Item Buckets",
+        "SubTemplateGuid": "af530c7b-8b87-458b-80ce-239d1e1b9e60"
+      },
+      {
+        "Templates": [],
+        "Name": "__Default Bucket Query",
+        "Key": "__default bucket query",
+        "Fieldtype": "Query Builder",
+        "Guid": "ac51462c-8a8d-493b-9492-34d1f26f20f1",
+        "SubTemplateName": "Item Buckets",
+        "SubTemplateGuid": "af530c7b-8b87-458b-80ce-239d1e1b9e60"
+      },
+      {
+        "Templates": [],
+        "Name": "__Default View",
+        "Key": "__default view",
+        "Fieldtype": "Droplist",
+        "Guid": "3607f9c7-dda3-43c3-9720-39a7a5b3a4c3",
+        "SubTemplateName": "Item Buckets",
+        "SubTemplateGuid": "af530c7b-8b87-458b-80ce-239d1e1b9e60"
+      },
+      {
+        "Templates": [],
+        "Name": "__Enabled Views",
+        "Key": "__enabled views",
+        "Fieldtype": "Multilist",
+        "Guid": "f2db8ba1-e477-41f5-8ef5-22eefa8d2f6e",
+        "SubTemplateName": "Item Buckets",
+        "SubTemplateGuid": "af530c7b-8b87-458b-80ce-239d1e1b9e60"
+      },
+      {
+        "Templates": [],
+        "Name": "__Is Bucket",
+        "Key": "__is bucket",
+        "Fieldtype": "Checkbox",
+        "Guid": "d312103c-b36c-4ca5-864a-c85f9abda503",
+        "SubTemplateName": "Item Buckets",
+        "SubTemplateGuid": "af530c7b-8b87-458b-80ce-239d1e1b9e60"
+      },
+      {
+        "Templates": [],
+        "Name": "__Persistent Bucket Filter",
+        "Key": "__persistent bucket filter",
+        "Fieldtype": "Query Builder",
+        "Guid": "c7815f60-96e1-40cb-bb06-b5f833f73b61",
+        "SubTemplateName": "Item Buckets",
+        "SubTemplateGuid": "af530c7b-8b87-458b-80ce-239d1e1b9e60"
+      },
+      {
+        "Templates": [],
+        "Name": "__Quick Actions",
+        "Key": "__quick actions",
+        "Fieldtype": "Multilist",
+        "Guid": "c0e276bb-8807-40aa-8138-e5c38b0c5dab",
+        "SubTemplateName": "Item Buckets",
+        "SubTemplateGuid": "af530c7b-8b87-458b-80ce-239d1e1b9e60"
+      },
+      {
+        "Templates": [],
+        "Name": "__Should Not Organize In Bucket",
+        "Key": "__should not organize in bucket",
+        "Fieldtype": "Checkbox",
+        "Guid": "f7b94d8c-a842-49f8-ab7a-2169d00426b0",
+        "SubTemplateName": "Item Buckets",
+        "SubTemplateGuid": "af530c7b-8b87-458b-80ce-239d1e1b9e60"
+      },
+      {
+        "Templates": [],
+        "Name": "__Content Test",
+        "Key": "__content test",
+        "Fieldtype": "Droptree",
+        "Guid": "700f4aad-ad3b-4058-8673-a0cee765a1f7",
+        "SubTemplateName": "Layout",
+        "SubTemplateGuid": "4d30906d-0b49-4fa7-969d-bf90157357ea"
+      },
+      {
+        "Templates": [],
+        "Name": "__Controller",
+        "Key": "__controller",
+        "Fieldtype": "text",
+        "Guid": "4c9312a5-2e4e-42f8-ab6f-b8db8b82bf22",
+        "SubTemplateName": "Layout",
+        "SubTemplateGuid": "4d30906d-0b49-4fa7-969d-bf90157357ea"
+      },
+      {
+        "Templates": [],
+        "Name": "__Controller Action",
+        "Key": "__controller action",
+        "Fieldtype": "text",
+        "Guid": "9fb734cc-8952-4072-a2d4-40f890e16f56",
+        "SubTemplateName": "Layout",
+        "SubTemplateGuid": "4d30906d-0b49-4fa7-969d-bf90157357ea"
+      },
+      {
+        "Templates": [],
+        "Name": "__Final Renderings",
+        "Key": "__final renderings",
+        "Fieldtype": "Layout",
+        "Guid": "04bf00db-f5fb-41f7-8ab7-22408372a981",
+        "SubTemplateName": "Layout",
+        "SubTemplateGuid": "4d30906d-0b49-4fa7-969d-bf90157357ea"
+      },
+      {
+        "Templates": [],
+        "Name": "__Page Level Test Set Definition",
+        "Key": "__page level test set definition",
+        "Fieldtype": "Datasource",
+        "Guid": "8546d6e6-0749-4591-90f3-cec033d6e8d8",
+        "SubTemplateName": "Layout",
+        "SubTemplateGuid": "4d30906d-0b49-4fa7-969d-bf90157357ea"
+      },
+      {
+        "Templates": [],
+        "Name": "__Presets",
+        "Key": "__presets",
+        "Fieldtype": "Treelist",
+        "Guid": "a4879e42-0270-458d-9c19-a20af3c2b765",
+        "SubTemplateName": "Layout",
+        "SubTemplateGuid": "4d30906d-0b49-4fa7-969d-bf90157357ea"
+      },
+      {
+        "Templates": [],
+        "Name": "__Renderers",
+        "Key": "__renderers",
+        "Fieldtype": "Multi-Line Text",
+        "Guid": "b03569b1-1534-43f2-8c83-bd064b7d782c",
+        "SubTemplateName": "Layout",
+        "SubTemplateGuid": "4d30906d-0b49-4fa7-969d-bf90157357ea"
+      },
+      {
+        "Templates": [],
+        "Name": "__Renderings",
+        "Key": "__renderings",
+        "Fieldtype": "layout",
+        "Guid": "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e",
+        "SubTemplateName": "Layout",
+        "SubTemplateGuid": "4d30906d-0b49-4fa7-969d-bf90157357ea"
+      },
+      {
+        "Templates": [],
+        "Name": "__Hide version",
+        "Key": "__hide version",
+        "Fieldtype": "checkbox",
+        "Guid": "b8f42732-9cb8-478d-ae95-07e25345fb0f",
+        "SubTemplateName": "Lifetime",
+        "SubTemplateGuid": "6ef07334-7fba-4845-bf0a-cd5b2000c75a"
+      },
+      {
+        "Templates": [],
+        "Name": "__Valid from",
+        "Key": "__valid from",
+        "Fieldtype": "datetime",
+        "Guid": "c8f93afe-bfd4-4e8f-9c61-152559854661",
+        "SubTemplateName": "Lifetime",
+        "SubTemplateGuid": "6ef07334-7fba-4845-bf0a-cd5b2000c75a"
+      },
+      {
+        "Templates": [],
+        "Name": "__Valid to",
+        "Key": "__valid to",
+        "Fieldtype": "datetime",
+        "Guid": "4c346442-e859-4efd-89b2-44aedf467d21",
+        "SubTemplateName": "Lifetime",
+        "SubTemplateGuid": "6ef07334-7fba-4845-bf0a-cd5b2000c75a"
+      },
+      {
+        "Templates": [],
+        "Name": "__Never publish",
+        "Key": "__never publish",
+        "Fieldtype": "checkbox",
+        "Guid": "9135200a-5626-4dd8-ab9d-d665b8c11748",
+        "SubTemplateName": "Publishing",
+        "SubTemplateGuid": "6495cf23-de9c-48b7-9d3c-05e2418b3cae"
+      },
+      {
+        "Templates": [],
+        "Name": "__Publish",
+        "Key": "__publish",
+        "Fieldtype": "datetime",
+        "Guid": "86fe4f77-4d9a-4ec3-9ed9-263d03bd1965",
+        "SubTemplateName": "Publishing",
+        "SubTemplateGuid": "6495cf23-de9c-48b7-9d3c-05e2418b3cae"
+      },
+      {
+        "Templates": [],
+        "Name": "__Publishing groups",
+        "Key": "__publishing groups",
+        "Fieldtype": "checklist",
+        "Guid": "74484bdf-7c86-463c-b49f-7b73b9afc965",
+        "SubTemplateName": "Publishing",
+        "SubTemplateGuid": "6495cf23-de9c-48b7-9d3c-05e2418b3cae"
+      },
+      {
+        "Templates": [],
+        "Name": "__Unpublish",
+        "Key": "__unpublish",
+        "Fieldtype": "datetime",
+        "Guid": "7ead6fd6-6cf1-4aca-ac6b-b200e7bafe88",
+        "SubTemplateName": "Publishing",
+        "SubTemplateGuid": "6495cf23-de9c-48b7-9d3c-05e2418b3cae"
+      },
+      {
+        "Templates": [],
+        "Name": "__Owner",
+        "Key": "__owner",
+        "Fieldtype": "Single-Line Text",
+        "Guid": "52807595-0f8f-4b20-8d2a-cb71d28c6103",
+        "SubTemplateName": "Security",
+        "SubTemplateGuid": "ab811af4-393c-4a46-acd7-81d30917e7f4"
+      },
+      {
+        "Templates": [],
+        "Name": "__Security",
+        "Key": "__security",
+        "Fieldtype": "security",
+        "Guid": "dec8d2d5-e3cf-48b6-a653-8e69e2716641",
+        "SubTemplateName": "Security",
+        "SubTemplateGuid": "ab811af4-393c-4a46-acd7-81d30917e7f4"
+      },
+      {
+        "Templates": [],
+        "Name": "__Created",
+        "Key": "__created",
+        "Fieldtype": "datetime",
+        "Guid": "25bed78c-4957-4165-998a-ca1b52f67497",
+        "SubTemplateName": "Statistics",
+        "SubTemplateGuid": "1597272c-c823-4aac-86f8-ca9cc4d573b5"
+      },
+      {
+        "Templates": [],
+        "Name": "__Created by",
+        "Key": "__created by",
+        "Fieldtype": "Single-Line Text",
+        "Guid": "5dd74568-4d4b-44c1-b513-0af5f4cda34f",
+        "SubTemplateName": "Statistics",
+        "SubTemplateGuid": "1597272c-c823-4aac-86f8-ca9cc4d573b5"
+      },
+      {
+        "Templates": [],
+        "Name": "__Revision",
+        "Key": "__revision",
+        "Fieldtype": "Single-Line Text",
+        "Guid": "8cdc337e-a112-42fb-bbb4-4143751e123f",
+        "SubTemplateName": "Statistics",
+        "SubTemplateGuid": "1597272c-c823-4aac-86f8-ca9cc4d573b5"
+      },
+      {
+        "Templates": [],
+        "Name": "__Updated",
+        "Key": "__updated",
+        "Fieldtype": "datetime",
+        "Guid": "d9cf14b1-fa16-4ba6-9288-e8a174d4d522",
+        "SubTemplateName": "Statistics",
+        "SubTemplateGuid": "1597272c-c823-4aac-86f8-ca9cc4d573b5"
+      },
+      {
+        "Templates": [],
+        "Name": "__Updated by",
+        "Key": "__updated by",
+        "Fieldtype": "Single-Line Text",
+        "Guid": "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a",
+        "SubTemplateName": "Statistics",
+        "SubTemplateGuid": "1597272c-c823-4aac-86f8-ca9cc4d573b5"
+      },
+      {
+        "Templates": [],
+        "Name": "__Semantics",
+        "Key": "__semantics",
+        "Fieldtype": "Multilist with Search",
+        "Guid": "a14f1b0c-4384-49ec-8790-28a440f3670c",
+        "SubTemplateName": "Tagging",
+        "SubTemplateGuid": "0aa6d3f8-c9d0-401f-83aa-a41433c24767"
+      },
+      {
+        "Templates": [],
+        "Name": "__Archive date",
+        "Key": "__archive date",
+        "Fieldtype": "datetime",
+        "Guid": "56c15c6d-fd5a-40ca-bb37-64ceec6a9bd5",
+        "SubTemplateName": "Tasks",
+        "SubTemplateGuid": "93f3a8fa-9e5a-4848-a5ad-42aad11a4871"
+      },
+      {
+        "Templates": [],
+        "Name": "__Archive Version date",
+        "Key": "__archive version date",
+        "Fieldtype": "Datetime",
+        "Guid": "1d99005e-65ca-45ca-9d9a-fd7016e23f1e",
+        "SubTemplateName": "Tasks",
+        "SubTemplateGuid": "93f3a8fa-9e5a-4848-a5ad-42aad11a4871"
+      },
+      {
+        "Templates": [],
+        "Name": "__Reminder date",
+        "Key": "__reminder date",
+        "Fieldtype": "datetime",
+        "Guid": "abe5d54c-59d7-41e6-8d3f-c1a3e4ec9b9e",
+        "SubTemplateName": "Tasks",
+        "SubTemplateGuid": "93f3a8fa-9e5a-4848-a5ad-42aad11a4871"
+      },
+      {
+        "Templates": [],
+        "Name": "__Reminder recipients",
+        "Key": "__reminder recipients",
+        "Fieldtype": "Single-Line Text",
+        "Guid": "2ed9c4d0-9eff-490d-a40a-b5d856499c40",
+        "SubTemplateName": "Tasks",
+        "SubTemplateGuid": "93f3a8fa-9e5a-4848-a5ad-42aad11a4871"
+      },
+      {
+        "Templates": [],
+        "Name": "__Reminder text",
+        "Key": "__reminder text",
+        "Fieldtype": "Multi-Line Text",
+        "Guid": "bb6c8540-118e-4c49-9157-830576d7345a",
+        "SubTemplateName": "Tasks",
+        "SubTemplateGuid": "93f3a8fa-9e5a-4848-a5ad-42aad11a4871"
+      },
+      {
+        "Templates": [],
+        "Name": "__Quick Action Bar Validation Rules",
+        "Key": "__quick action bar validation rules",
+        "Fieldtype": "TreelistEx",
+        "Guid": "c2f5b2b5-71c1-431e-bf7f-dbdc1e5a2f83",
+        "SubTemplateName": "Validators",
+        "SubTemplateGuid": "2491819e-0c61-4f5a-903c-e10fcd9d302a"
+      },
+      {
+        "Templates": [],
+        "Name": "__Suppressed Validation Rules",
+        "Key": "__suppressed validation rules",
+        "Fieldtype": "Multi-Line Text",
+        "Guid": "f47c0d78-61f9-479c-96df-1159727d32c6",
+        "SubTemplateName": "Validators",
+        "SubTemplateGuid": "2491819e-0c61-4f5a-903c-e10fcd9d302a"
+      },
+      {
+        "Templates": [],
+        "Name": "__Validate Button Validation Rules",
+        "Key": "__validate button validation rules",
+        "Fieldtype": "TreelistEx",
+        "Guid": "57cbca4c-8c94-446c-b8ca-7d8dc54f4285",
+        "SubTemplateName": "Validators",
+        "SubTemplateGuid": "2491819e-0c61-4f5a-903c-e10fcd9d302a"
+      },
+      {
+        "Templates": [],
+        "Name": "__Validator Bar Validation Rules",
+        "Key": "__validator bar validation rules",
+        "Fieldtype": "TreelistEx",
+        "Guid": "b7e5b151-b145-4ced-85c5-fbdb566dfa4d",
+        "SubTemplateName": "Validators",
+        "SubTemplateGuid": "2491819e-0c61-4f5a-903c-e10fcd9d302a"
+      },
+      {
+        "Templates": [],
+        "Name": "__Workflow Validation Rules",
+        "Key": "__workflow validation rules",
+        "Fieldtype": "TreelistEx",
+        "Guid": "86b52eef-078e-4d9e-80bf-888287070e6c",
+        "SubTemplateName": "Validators",
+        "SubTemplateGuid": "2491819e-0c61-4f5a-903c-e10fcd9d302a"
+      },
+      {
+        "Templates": [],
+        "Name": "__Default workflow",
+        "Key": "__default workflow",
+        "Fieldtype": "Droptree",
+        "Guid": "ca9b9f52-4fb0-4f87-a79f-24dea62cda65",
+        "SubTemplateName": "Workflow",
+        "SubTemplateGuid": "06f366e6-a7e6-470b-9ec9-cd29a4f6c8e8"
+      },
+      {
+        "Templates": [],
+        "Name": "__Lock",
+        "Key": "__lock",
+        "Fieldtype": "Multi-Line Text",
+        "Guid": "001dd393-96c5-490b-924a-b0f25cd9efd8",
+        "SubTemplateName": "Workflow",
+        "SubTemplateGuid": "06f366e6-a7e6-470b-9ec9-cd29a4f6c8e8"
+      },
+      {
+        "Templates": [],
+        "Name": "__Workflow",
+        "Key": "__workflow",
+        "Fieldtype": "Droptree",
+        "Guid": "a4f985d9-98b3-4b52-aaaf-4344f6e747c6",
+        "SubTemplateName": "Workflow",
+        "SubTemplateGuid": "06f366e6-a7e6-470b-9ec9-cd29a4f6c8e8"
+      },
+      {
+        "Templates": [],
+        "Name": "__Workflow state",
+        "Key": "__workflow state",
+        "Fieldtype": "Droptree",
+        "Guid": "3e431de1-525e-47a3-b6b0-1ccbec3a8c98",
+        "SubTemplateName": "Workflow",
+        "SubTemplateGuid": "06f366e6-a7e6-470b-9ec9-cd29a4f6c8e8"
+      }
+    ],
+    "BaseTemplates": [ "1930bbeb-7805-471a-a3be-4858ac7cf696", "745652ae-3298-48b1-9be1-99012d91f3ac", "91962b60-25f6-428f-8d10-02aa1e49d6a5", "d88ccd80-d851-470d-af11-701ff23504e7", "bdd24f35-05e8-4466-8798-7d3dd6a6c991", "a1cba309-d22b-46d5-80f8-2972c185363f", "8fd6c8b6-a9a4-4322-947e-90ce3d94916d" ],
+    "TemplateName": "Employee",
+    "Guid": "467c2144-4454-4518-b1de-e31b4cbbff33",
+    "Path": "C:\\Work\\Epi\\ContentMigration\\Habitat.1.4.0.682\\package\\items\\master\\sitecore\\templates\\Project\\Habitat\\Page Types\\Employee\\{467C2144-4454-4518-B1DE-E31B4CBBFF33}\\en\\1\\xml"
+  }
+]

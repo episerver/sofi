@@ -1,0 +1,123 @@
+[{
+    "SourceFields": [{
+        "SourceValue": "Accounts",
+        "SourcefieldId": "{C30A013F-3CC8-4961-9837-1C483277084A}",
+        "SourceFieldType": "Single-Line Text",
+        "SourceName": "title"
+    }, {
+        "SourceValue": "<r xmlns:p=\"p\" xmlns:s=\"s\" p:p=\"1\" s:xsd=\"http://www.w3.org/2001/XMLSchema\"><d id=\"{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}\"><r uid=\"{8AEF98DC-DFD6-4711-874F-04774D755D71}\" p:before=\"*\" s:ds=\"{43186E7B-CADD-4D79-8F65-D49806BCE96D}\" s:id=\"{97459D5B-3C92-46C2-A329-138C1E277465}\" s:ph=\"/page-layout/section-narrow/col-wide-1_927d47ad-a496-49b3-bd5b-c5f93d8bc701\" /><r uid=\"{927D47AD-A496-49B3-BD5B-C5F93D8BC701}\" p:after=\"r[@uid='{8AEF98DC-DFD6-4711-874F-04774D755D71}']\" s:id=\"{03112E88-1499-4132-9D5F-E213AFD2019C}\" s:ph=\"/page-layout/section-narrow\" /></d></r>",
+        "SourcefieldId": "{04BF00DB-F5FB-41F7-8AB7-22408372A981}",
+        "SourceFieldType": "Layout",
+        "SourceName": "__final renderings"
+    }, {
+        "SourceValue": "sitecore\\unicorn",
+        "SourcefieldId": "{BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}",
+        "SourceFieldType": "text",
+        "SourceName": "__updated by"
+    }, {
+        "SourceValue": "e7b1ecf1-0654-4dc4-aed3-c7a99d57b0a1",
+        "SourcefieldId": "{8CDC337E-A112-42FB-BBB4-4143751E123F}",
+        "SourceFieldType": "text",
+        "SourceName": "__revision"
+    }, {
+        "SourceValue": "Accounts",
+        "SourcefieldId": "{1B483E91-D8C4-4D19-BA03-462074B55936}",
+        "SourceFieldType": "Single-Line Text",
+        "SourceName": "navigationtitle"
+    }, {
+        "SourceValue": "The accounts module handles user accounts and user profiles including login, registration, forgot password and profile editing.",
+        "SourcefieldId": "{AC3FD4DB-8266-476D-9635-67814D91E901}",
+        "SourceFieldType": "Rich Text",
+        "SourceName": "summary"
+    }, {
+        "SourceValue": "Accounts",
+        "SourcefieldId": "{CA0479CE-0BFE-4522-83DE-BA688B380A78}",
+        "SourceFieldType": "Single-Line Text",
+        "SourceName": "browsertitle"
+    }, {
+        "SourceValue": "<p><span style=\"line-height: 24.28px;\">A number of components are available to handle login, registration and password reset.</span></p>\r\n<p><span style=\"line-height: 24.28px;\">Links to specific pages showing these components are as follows.</span></p>\r\n<p><span style=\"line-height: 24.28px;\"><a href=\"~/link.aspx?_id=BB711E1EF13F41768231BA55C8DA126D&_z=z\">Login</a>, <a href=\"~/link.aspx?_id=87F08F10D97E4EE9828273351EE226AF&_z=z\">Register</a>, <a href=\"~/link.aspx?_id=A2C07E489C6A466EB55DBAAC62E4DFC7&_z=z\">Edit Profile (logged in users only)</a>, <a href=\"~/link.aspx?_id=87B9CA6A16AA40B496FCFB385D2267C2&_z=z\">Forgotton Password</a></span></p>",
+        "SourcefieldId": "{D74F396D-5C5E-4916-BD0A-BFD58B6B1967}",
+        "SourceFieldType": "Rich Text",
+        "SourceName": "body"
+    }, {
+        "SourceValue": "20151116T023546Z",
+        "SourcefieldId": "{25BED78C-4957-4165-998A-CA1B52F67497}",
+        "SourceFieldType": "datetime",
+        "SourceName": "__created"
+    }, {
+        "SourceValue": "20170613T063156Z",
+        "SourcefieldId": "{D9CF14B1-FA16-4BA6-9288-E8A174D4D522}",
+        "SourceFieldType": "datetime",
+        "SourceName": "__updated"
+    }, {
+        "SourceValue": "<image mediaid=\"{044D7223-0C4F-43AC-95BF-7D30FB66AB7B}\" />",
+        "SourcefieldId": "{9492E0BB-9DF9-46E7-8188-EC795C4ADE44}",
+        "SourceFieldType": "Image",
+        "SourceName": "image"
+    }],
+    "SourceItemPath": "\\sitecore\\content\\Habitat\\Home\\Modules\\Feature\\Accounts",
+    "SourceId": "{06EC763E-5DD8-4C4E-9C8E-781B3F42C19B}",
+    "SourceName": "Accounts",
+    "SourceTemplate": "{94A8C8E9-690B-4E65-98E7-F95800222767}"
+}, {
+    "SourceFields": [{
+        "SourceValue": "Demo",
+        "SourcefieldId": "{C30A013F-3CC8-4961-9837-1C483277084A}",
+        "SourceFieldType": "Single-Line Text",
+        "SourceName": "title"
+    }, {
+        "SourceValue": "<r xmlns:p=\"p\" xmlns:s=\"s\" p:p=\"1\" s:xsd=\"http://www.w3.org/2001/XMLSchema\"><d id=\"{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}\"><r uid=\"{2D762D24-25DC-43A7-AC17-1ECE2ECAF33C}\" p:before=\"*\" s:ds=\"{5C851CF7-8C5B-4F0A-BB23-0E06E2A16A57}\" s:id=\"{B883E272-70D8-419A-8AF8-819356D839AD}\" s:ph=\"/page-layout/section-narrow/col-wide-2_fe951a0c-b0e9-43c2-a98b-ca2840ceda81\" /><r uid=\"{9BFBDF2C-9F88-4369-8FF8-9F8DEC384C21}\" p:after=\"r[@uid='{2D762D24-25DC-43A7-AC17-1ECE2ECAF33C}']\" s:ds=\"{F9697E74-0612-4B14-AAB6-40E7A30830D4}\" s:id=\"{B883E272-70D8-419A-8AF8-819356D839AD}\" s:ph=\"/page-layout/section-narrow/col-wide-1_fe951a0c-b0e9-43c2-a98b-ca2840ceda81\" /><r uid=\"{FE951A0C-B0E9-43C2-A98B-CA2840CEDA81}\" p:after=\"r[@uid='{9BFBDF2C-9F88-4369-8FF8-9F8DEC384C21}']\" s:id=\"{50F6052C-4FC2-4AA6-9399-FFC6055CF19F}\" s:ph=\"/page-layout/section-narrow\" /></d></r>",
+        "SourcefieldId": "{04BF00DB-F5FB-41F7-8AB7-22408372A981}",
+        "SourceFieldType": "Layout",
+        "SourceName": "__final renderings"
+    }, {
+        "SourceValue": "sitecore\\unicorn",
+        "SourcefieldId": "{BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}",
+        "SourceFieldType": "text",
+        "SourceName": "__updated by"
+    }, {
+        "SourceValue": "9e0bfd37-7f13-4f3a-b9f8-64d0a9c90890",
+        "SourcefieldId": "{8CDC337E-A112-42FB-BBB4-4143751E123F}",
+        "SourceFieldType": "text",
+        "SourceName": "__revision"
+    }, {
+        "SourceValue": "Demo",
+        "SourcefieldId": "{1B483E91-D8C4-4D19-BA03-462074B55936}",
+        "SourceFieldType": "Single-Line Text",
+        "SourceName": "navigationtitle"
+    }, {
+        "SourceValue": "The Demo module contains a number of features used for demonstrating aspects of the Sitecore platform, such as triggering a campaign from external sites or  information about what the Sitecore Experience Database contains.",
+        "SourcefieldId": "{AC3FD4DB-8266-476D-9635-67814D91E901}",
+        "SourceFieldType": "Rich Text",
+        "SourceName": "summary"
+    }, {
+        "SourceValue": "Demo",
+        "SourcefieldId": "{CA0479CE-0BFE-4522-83DE-BA688B380A78}",
+        "SourceFieldType": "Single-Line Text",
+        "SourceName": "browsertitle"
+    }, {
+        "SourceValue": "<p><span style=\"line-height: 24.2857px;\">The Demo module contains a number of features used for demonstrating aspects of the Sitecore platform, such as triggering a campaign from external sites or &nbsp;information about what the Sitecore Experience Database contains.<br />\r\n</span></p>\r\n<p>For example, the little information icon shown in the lower right hand side of the screen will open a panel showing information from the Sitecore Experience Database.</p>\r\n<p>The module also allows fake demo pages, for example for initiating scenarios from search engines or social media pages. These pages can also fake referrers, IP adresses and geo location. The pages can be edited in Sitecore but will not affect xDB tracking and analytics.</p>\r\n<p>There are the following examples:</p>\r\n<ul>\r\n    <li><a href=\"~/link.aspx?_id=71D28ECDEB8B4485BE481722FBA544FF&amp;_z=z\">Fake Google Page</a></li>\r\n    <li><a href=\"~/link.aspx?_id=A00DDF6F3ABE454EAA5F218EE5A9DA27&amp;_z=z\">Faking the referrer</a></li>\r\n    <li><a href=\"~/link.aspx?_id=C28FF1340F924B478B5BD4B474D77DF4&amp;_z=z\">Faking the IP address</a></li>\r\n    <li><a href=\"~/link.aspx?_id=CB4D7B3013594C1D9B0E16B019C92C97&amp;_z=z\">Faking Geo location</a></li>\r\n</ul>\r\n<p>To test these pages properly, please copy the links, open a private browsing window and initiate the visit by visiting these pages first.</p>",
+        "SourcefieldId": "{D74F396D-5C5E-4916-BD0A-BFD58B6B1967}",
+        "SourceFieldType": "Rich Text",
+        "SourceName": "body"
+    }, {
+        "SourceValue": "20151116T023552Z",
+        "SourcefieldId": "{25BED78C-4957-4165-998A-CA1B52F67497}",
+        "SourceFieldType": "datetime",
+        "SourceName": "__created"
+    }, {
+        "SourceValue": "20170613T063156Z",
+        "SourcefieldId": "{D9CF14B1-FA16-4BA6-9288-E8A174D4D522}",
+        "SourceFieldType": "datetime",
+        "SourceName": "__updated"
+    }, {
+        "SourceValue": "<image mediaid=\"{661F563E-D23F-4C91-8BFA-1A5BD3547A50}\" />",
+        "SourcefieldId": "{9492E0BB-9DF9-46E7-8188-EC795C4ADE44}",
+        "SourceFieldType": "Image",
+        "SourceName": "image"
+    }],
+    "SourceItemPath": "\\sitecore\\content\\Habitat\\Home\\Modules\\Feature\\Demo",
+    "SourceId": "{8EAC162B-96BC-43F1-95D6-99B83745B2F4}",
+    "SourceName": "Demo",
+    "SourceTemplate": "{94A8C8E9-690B-4E65-98E7-F95800222767}"
+}]

@@ -1,0 +1,209 @@
+Sitecore
+
+,Field Template,Field Name,Field Type,Field Guid
+Article
+,_HasPageContent,Body,Rich Text,d74f396d-5c5e-4916-bd0a-bfd58b6b1967
+,_HasPageContent,Image,Image,9492e0bb-9df9-46e7-8188-ec795c4ade44
+,_HasPageContent,Summary,Rich Text,ac3fd4db-8266-476d-9635-67814d91e901
+,_HasPageContent,Title,Single-Line Text,c30a013f-3cc8-4961-9837-1c483277084a
+,_IndexedItem,IncludeInSearchResults,Checkbox,8d5c486e-a0e3-4dbe-9a4a-cdff93594bda
+,_Navigable,NavigationTitle,Single-Line Text,1b483e91-d8c4-4d19-ba03-462074b55936
+,_Navigable,ShowChildren,Checkbox,68016087-aa00-45d6-922a-678475c50d4a
+,_Navigable,ShowInNavigation,Checkbox,5585a30d-b115-4753-93ce-422c3455deb2
+,_OpenGraph,OpenGraphDescription,Multi-Line Text,a12d5346-87ee-484d-83c5-f1e8e1b99666
+,_OpenGraph,OpenGraphImage,Image,11f41661-e5fe-44e7-b8da-7cff2d39b4b2
+,_OpenGraph,OpenGraphTitle,Single-Line Text,0ee2f208-1fee-42fc-8051-6696d49a92bf
+,_PageAssets,CssCode,Multi-Line Text,06a96efc-f2e5-45c3-a7dc-4dddfa366cc0
+,_PageAssets,InheritAssets,Checkbox,f19e8a50-9950-4861-9e66-9598a1898e71
+,_PageAssets,JavascriptCodeBottom,Multi-Line Text,b3ba9ea9-d0a1-49df-9f4b-28fa5d353dc8
+,_PageAssets,JavascriptCodeTop,Multi-Line Text,d79d9ddd-2774-42f4-94c3-50c892f6e13d
+,_PageMetadata,BrowserTitle,Single-Line Text,ca0479ce-0bfe-4522-83de-ba688b380a78
+,_PageMetadata,CanIndex,Checkbox,683d7237-206a-488f-9dee-4a4e41fb161d
+,_PageMetadata,CustomMetaData,Name Value List,167aba77-5172-42af-9f9e-00299113839e
+,_PageMetadata,MetaDescription,Multi-Line Text,bb7a38c0-323c-4f81-8eb9-288abf7c4638
+,_PageMetadata,MetaKeywords,Treelist,4b16f930-73c9-4643-bb1b-00f06e60a073
+,_PageMetadata,SeoFollowLinks,Checkbox,0dca829c-9fce-41f5-9990-c6182fefe905
+,Advanced,__Enable item fallback,Checkbox,fd4e2050-186c-4375-8b99-e8a85dd7436e
+,Advanced,__Enforce version presence,Checkbox,61cf7151-0cbd-4db4-9738-d753a55a6e65
+,Advanced,__Source,Version Link,1b86697d-60ca-4d80-83fb-7555a2e6ce1c
+,Advanced,__Source Item,Version Link,19b597d3-2edd-4ae2-aefe-4a94c7f10e31
+,Advanced,__Standard values,Droptree,f7d48a55-2158-4f02-9356-756654404f73
+,Advanced,__Tracking,Tracking,b0a67b2a-8b07-4e0b-8809-69f751709806
+,Appearance,__Context Menu,Droptree,d3ae7222-425d-4b77-95d8-ee33ac2b6730
+,Appearance,__Display name,Single-Line Text,b5e02ad9-d56f-4c41-a065-a133db87bdeb
+,Appearance,__Editor,server file,d85db4ec-ff89-4f9c-9e7c-a9e0654797fc
+,Appearance,__Editors,TreelistEx,a0cb3965-8884-4c7a-8815-b6b2e5ced162
+,Appearance,__Hidden,Checkbox,39c4902e-9960-4469-aeef-e878e9c8218f
+,Appearance,__Icon,Icon,06d5295c-ed2f-4a54-9bf2-26228d113318
+,Appearance,__Originator,Droptree,f6d8a61c-2f84-4401-bd24-52d2068172bc
+,Appearance,__Preview,Page Preview,41c6cc0e-389f-4d51-9990-fe35417b6666
+,Appearance,__Read Only,Checkbox,9c6106ea-7a5a-48e2-8cad-f0f693b1e2d4
+,Appearance,__Ribbon,Droptree,0c894aab-962b-4a84-b923-cb24b05e60d2
+,Appearance,__Skin,Single-Line Text,079afcfe-8aca-4863-bda7-07893541e2f5
+,Appearance,__Sortorder,Single-Line Text,ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e
+,Appearance,__Style,Single-Line Text,a791f095-2521-4b4d-bef9-21dda221f608
+,Appearance,__Subitems Sorting,Droplink,6fd695e7-7f6d-4ca5-8b49-a829e5950ae9
+,Appearance,__Thumbnail,Thumbnail,c7c26117-dbb1-42b2-ab5e-f7223845cca3
+,Help,__Help link,General Link,56776edf-261c-4abc-9fe7-70c618795239
+,Help,__Long description,Multi-Line Text,577f1689-7de4-4ad2-a15f-7fdc1759285f
+,Help,__Short description,Single-Line Text,9541e67d-ce8c-4225-803d-33f7f29f09ef
+,Indexing,__Boost,Single-Line Text,93d1b217-b8f4-462e-babf-68298c9ce667
+,Indexing,__Boosting Rules,TreelistEx,8c181989-2794-4b28-8ee4-6bb5cb928dc2
+,Indexing,__Facets,Treelist,21f74f6e-42d4-42a2-a4b4-4cefbcfbd2bb
+,Insert Options,__Insert Rules,TreelistEx,83798d75-df25-4c28-9327-e8bac2b75292
+,Insert Options,__Masters,TreelistEx,1172f251-dad4-4efb-a329-0c63500e4f1e
+,Item Buckets,__Bucket Parent Reference,Droptree,9dafca1d-d618-4616-86b8-a8acd6b28a63
+,Item Buckets,__Bucketable,Checkbox,c9283d9e-7c29-4419-9c28-5a5c8ff53e84
+,Item Buckets,__Default Bucket Query,Query Builder,ac51462c-8a8d-493b-9492-34d1f26f20f1
+,Item Buckets,__Default View,Droplist,3607f9c7-dda3-43c3-9720-39a7a5b3a4c3
+,Item Buckets,__Enabled Views,Multilist,f2db8ba1-e477-41f5-8ef5-22eefa8d2f6e
+,Item Buckets,__Is Bucket,Checkbox,d312103c-b36c-4ca5-864a-c85f9abda503
+,Item Buckets,__Persistent Bucket Filter,Query Builder,c7815f60-96e1-40cb-bb06-b5f833f73b61
+,Item Buckets,__Quick Actions,Multilist,c0e276bb-8807-40aa-8138-e5c38b0c5dab
+,Item Buckets,__Should Not Organize In Bucket,Checkbox,f7b94d8c-a842-49f8-ab7a-2169d00426b0
+,Layout,__Content Test,Droptree,700f4aad-ad3b-4058-8673-a0cee765a1f7
+,Layout,__Controller,text,4c9312a5-2e4e-42f8-ab6f-b8db8b82bf22
+,Layout,__Controller Action,text,9fb734cc-8952-4072-a2d4-40f890e16f56
+,Layout,__Final Renderings,Layout,04bf00db-f5fb-41f7-8ab7-22408372a981
+,Layout,__Page Level Test Set Definition,Datasource,8546d6e6-0749-4591-90f3-cec033d6e8d8
+,Layout,__Presets,Treelist,a4879e42-0270-458d-9c19-a20af3c2b765
+,Layout,__Renderers,Multi-Line Text,b03569b1-1534-43f2-8c83-bd064b7d782c
+,Layout,__Renderings,layout,f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e
+,Lifetime,__Hide version,checkbox,b8f42732-9cb8-478d-ae95-07e25345fb0f
+,Lifetime,__Valid from,datetime,c8f93afe-bfd4-4e8f-9c61-152559854661
+,Lifetime,__Valid to,datetime,4c346442-e859-4efd-89b2-44aedf467d21
+,Publishing,__Never publish,checkbox,9135200a-5626-4dd8-ab9d-d665b8c11748
+,Publishing,__Publish,datetime,86fe4f77-4d9a-4ec3-9ed9-263d03bd1965
+,Publishing,__Publishing groups,checklist,74484bdf-7c86-463c-b49f-7b73b9afc965
+,Publishing,__Unpublish,datetime,7ead6fd6-6cf1-4aca-ac6b-b200e7bafe88
+,Security,__Owner,Single-Line Text,52807595-0f8f-4b20-8d2a-cb71d28c6103
+,Security,__Security,security,dec8d2d5-e3cf-48b6-a653-8e69e2716641
+,Statistics,__Created,datetime,25bed78c-4957-4165-998a-ca1b52f67497
+,Statistics,__Created by,Single-Line Text,5dd74568-4d4b-44c1-b513-0af5f4cda34f
+,Statistics,__Revision,Single-Line Text,8cdc337e-a112-42fb-bbb4-4143751e123f
+,Statistics,__Updated,datetime,d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+,Statistics,__Updated by,Single-Line Text,badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+,Tagging,__Semantics,Multilist with Search,a14f1b0c-4384-49ec-8790-28a440f3670c
+,Tasks,__Archive date,datetime,56c15c6d-fd5a-40ca-bb37-64ceec6a9bd5
+,Tasks,__Archive Version date,Datetime,1d99005e-65ca-45ca-9d9a-fd7016e23f1e
+,Tasks,__Reminder date,datetime,abe5d54c-59d7-41e6-8d3f-c1a3e4ec9b9e
+,Tasks,__Reminder recipients,Single-Line Text,2ed9c4d0-9eff-490d-a40a-b5d856499c40
+,Tasks,__Reminder text,Multi-Line Text,bb6c8540-118e-4c49-9157-830576d7345a
+,Validators,__Quick Action Bar Validation Rules,TreelistEx,c2f5b2b5-71c1-431e-bf7f-dbdc1e5a2f83
+,Validators,__Suppressed Validation Rules,Multi-Line Text,f47c0d78-61f9-479c-96df-1159727d32c6
+,Validators,__Validate Button Validation Rules,TreelistEx,57cbca4c-8c94-446c-b8ca-7d8dc54f4285
+,Validators,__Validator Bar Validation Rules,TreelistEx,b7e5b151-b145-4ced-85c5-fbdb566dfa4d
+,Validators,__Workflow Validation Rules,TreelistEx,86b52eef-078e-4d9e-80bf-888287070e6c
+,Workflow,__Default workflow,Droptree,ca9b9f52-4fb0-4f87-a79f-24dea62cda65
+,Workflow,__Lock,Multi-Line Text,001dd393-96c5-490b-924a-b0f25cd9efd8
+,Workflow,__Workflow,Droptree,a4f985d9-98b3-4b52-aaaf-4344f6e747c6
+,Workflow,__Workflow state,Droptree,3e431de1-525e-47a3-b6b0-1ccbec3a8c98
+
+
+Employee
+,_Employee,Email,Single-Line Text,5978b330-1d46-4065-8751-f74bf17d815e
+,_Employee,Mobile,Single-Line Text,25b4cee3-a61a-4dc3-bb52-775dd509dbb5
+,_Employee,Telephone,Single-Line Text,8d0e8ee3-21c4-4ae2-a2f1-53d3f3ebe501
+,_Employee,Biography,Rich Text,0cc9785e-54fe-4fae-93e4-d0d2ae75f339
+,_Employee,BlogLink,General Link,69a846d9-4c7f-435c-a8dc-87e2d7359cfa
+,_Employee,FacebookLink,General Link,d31889c0-e34c-4904-a6f3-f3d92d314aa9
+,_Employee,LinkedInLink,General Link,2b13dfab-3450-45ef-93f4-beaa6f544fa6
+,_Employee,TwitterLink,General Link,6de98ef7-1209-40a3-a63e-16dbef015211
+,_IndexedItem,IncludeInSearchResults,Checkbox,8d5c486e-a0e3-4dbe-9a4a-cdff93594bda
+,_Navigable,NavigationTitle,Single-Line Text,1b483e91-d8c4-4d19-ba03-462074b55936
+,_Navigable,ShowChildren,Checkbox,68016087-aa00-45d6-922a-678475c50d4a
+,_Navigable,ShowInNavigation,Checkbox,5585a30d-b115-4753-93ce-422c3455deb2
+,_OpenGraph,OpenGraphDescription,Multi-Line Text,a12d5346-87ee-484d-83c5-f1e8e1b99666
+,_OpenGraph,OpenGraphImage,Image,11f41661-e5fe-44e7-b8da-7cff2d39b4b2
+,_OpenGraph,OpenGraphTitle,Single-Line Text,0ee2f208-1fee-42fc-8051-6696d49a92bf
+,_PageAssets,CssCode,Multi-Line Text,06a96efc-f2e5-45c3-a7dc-4dddfa366cc0
+,_PageAssets,InheritAssets,Checkbox,f19e8a50-9950-4861-9e66-9598a1898e71
+,_PageAssets,JavascriptCodeBottom,Multi-Line Text,b3ba9ea9-d0a1-49df-9f4b-28fa5d353dc8
+,_PageAssets,JavascriptCodeTop,Multi-Line Text,d79d9ddd-2774-42f4-94c3-50c892f6e13d
+,_PageMetadata,BrowserTitle,Single-Line Text,ca0479ce-0bfe-4522-83de-ba688b380a78
+,_PageMetadata,CanIndex,Checkbox,683d7237-206a-488f-9dee-4a4e41fb161d
+,_PageMetadata,CustomMetaData,Name Value List,167aba77-5172-42af-9f9e-00299113839e
+,_PageMetadata,MetaDescription,Multi-Line Text,bb7a38c0-323c-4f81-8eb9-288abf7c4638
+,_PageMetadata,MetaKeywords,Treelist,4b16f930-73c9-4643-bb1b-00f06e60a073
+,_PageMetadata,SeoFollowLinks,Checkbox,0dca829c-9fce-41f5-9990-c6182fefe905
+,_Person,Name,Single-Line Text,26cd59ab-3639-488f-bafd-58d2b217755a
+,_Person,Picture,Image,c9baf3eb-8cfa-4bf6-9b19-51d38db5fc38
+,_Person,Summary,Multi-Line Text,b897023c-15d2-49f3-8974-06fa5fb7ad00
+,_Person,Title,Single-Line Text,76972fcd-4bb0-4255-864e-077745efdf50
+,Advanced,__Enable item fallback,Checkbox,fd4e2050-186c-4375-8b99-e8a85dd7436e
+,Advanced,__Enforce version presence,Checkbox,61cf7151-0cbd-4db4-9738-d753a55a6e65
+,Advanced,__Source,Version Link,1b86697d-60ca-4d80-83fb-7555a2e6ce1c
+,Advanced,__Source Item,Version Link,19b597d3-2edd-4ae2-aefe-4a94c7f10e31
+,Advanced,__Standard values,Droptree,f7d48a55-2158-4f02-9356-756654404f73
+,Advanced,__Tracking,Tracking,b0a67b2a-8b07-4e0b-8809-69f751709806
+,Appearance,__Context Menu,Droptree,d3ae7222-425d-4b77-95d8-ee33ac2b6730
+,Appearance,__Display name,Single-Line Text,b5e02ad9-d56f-4c41-a065-a133db87bdeb
+,Appearance,__Editor,server file,d85db4ec-ff89-4f9c-9e7c-a9e0654797fc
+,Appearance,__Editors,TreelistEx,a0cb3965-8884-4c7a-8815-b6b2e5ced162
+,Appearance,__Hidden,Checkbox,39c4902e-9960-4469-aeef-e878e9c8218f
+,Appearance,__Icon,Icon,06d5295c-ed2f-4a54-9bf2-26228d113318
+,Appearance,__Originator,Droptree,f6d8a61c-2f84-4401-bd24-52d2068172bc
+,Appearance,__Preview,Page Preview,41c6cc0e-389f-4d51-9990-fe35417b6666
+,Appearance,__Read Only,Checkbox,9c6106ea-7a5a-48e2-8cad-f0f693b1e2d4
+,Appearance,__Ribbon,Droptree,0c894aab-962b-4a84-b923-cb24b05e60d2
+,Appearance,__Skin,Single-Line Text,079afcfe-8aca-4863-bda7-07893541e2f5
+,Appearance,__Sortorder,Single-Line Text,ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e
+,Appearance,__Style,Single-Line Text,a791f095-2521-4b4d-bef9-21dda221f608
+,Appearance,__Subitems Sorting,Droplink,6fd695e7-7f6d-4ca5-8b49-a829e5950ae9
+,Appearance,__Thumbnail,Thumbnail,c7c26117-dbb1-42b2-ab5e-f7223845cca3
+,Help,__Help link,General Link,56776edf-261c-4abc-9fe7-70c618795239
+,Help,__Long description,Multi-Line Text,577f1689-7de4-4ad2-a15f-7fdc1759285f
+,Help,__Short description,Single-Line Text,9541e67d-ce8c-4225-803d-33f7f29f09ef
+,Indexing,__Boost,Single-Line Text,93d1b217-b8f4-462e-babf-68298c9ce667
+,Indexing,__Boosting Rules,TreelistEx,8c181989-2794-4b28-8ee4-6bb5cb928dc2
+,Indexing,__Facets,Treelist,21f74f6e-42d4-42a2-a4b4-4cefbcfbd2bb
+,Insert Options,__Insert Rules,TreelistEx,83798d75-df25-4c28-9327-e8bac2b75292
+,Insert Options,__Masters,TreelistEx,1172f251-dad4-4efb-a329-0c63500e4f1e
+,Item Buckets,__Bucket Parent Reference,Droptree,9dafca1d-d618-4616-86b8-a8acd6b28a63
+,Item Buckets,__Bucketable,Checkbox,c9283d9e-7c29-4419-9c28-5a5c8ff53e84
+,Item Buckets,__Default Bucket Query,Query Builder,ac51462c-8a8d-493b-9492-34d1f26f20f1
+,Item Buckets,__Default View,Droplist,3607f9c7-dda3-43c3-9720-39a7a5b3a4c3
+,Item Buckets,__Enabled Views,Multilist,f2db8ba1-e477-41f5-8ef5-22eefa8d2f6e
+,Item Buckets,__Is Bucket,Checkbox,d312103c-b36c-4ca5-864a-c85f9abda503
+,Item Buckets,__Persistent Bucket Filter,Query Builder,c7815f60-96e1-40cb-bb06-b5f833f73b61
+,Item Buckets,__Quick Actions,Multilist,c0e276bb-8807-40aa-8138-e5c38b0c5dab
+,Item Buckets,__Should Not Organize In Bucket,Checkbox,f7b94d8c-a842-49f8-ab7a-2169d00426b0
+,Layout,__Content Test,Droptree,700f4aad-ad3b-4058-8673-a0cee765a1f7
+,Layout,__Controller,text,4c9312a5-2e4e-42f8-ab6f-b8db8b82bf22
+,Layout,__Controller Action,text,9fb734cc-8952-4072-a2d4-40f890e16f56
+,Layout,__Final Renderings,Layout,04bf00db-f5fb-41f7-8ab7-22408372a981
+,Layout,__Page Level Test Set Definition,Datasource,8546d6e6-0749-4591-90f3-cec033d6e8d8
+,Layout,__Presets,Treelist,a4879e42-0270-458d-9c19-a20af3c2b765
+,Layout,__Renderers,Multi-Line Text,b03569b1-1534-43f2-8c83-bd064b7d782c
+,Layout,__Renderings,layout,f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e
+,Lifetime,__Hide version,checkbox,b8f42732-9cb8-478d-ae95-07e25345fb0f
+,Lifetime,__Valid from,datetime,c8f93afe-bfd4-4e8f-9c61-152559854661
+,Lifetime,__Valid to,datetime,4c346442-e859-4efd-89b2-44aedf467d21
+,Publishing,__Never publish,checkbox,9135200a-5626-4dd8-ab9d-d665b8c11748
+,Publishing,__Publish,datetime,86fe4f77-4d9a-4ec3-9ed9-263d03bd1965
+,Publishing,__Publishing groups,checklist,74484bdf-7c86-463c-b49f-7b73b9afc965
+,Publishing,__Unpublish,datetime,7ead6fd6-6cf1-4aca-ac6b-b200e7bafe88
+,Security,__Owner,Single-Line Text,52807595-0f8f-4b20-8d2a-cb71d28c6103
+,Security,__Security,security,dec8d2d5-e3cf-48b6-a653-8e69e2716641
+,Statistics,__Created,datetime,25bed78c-4957-4165-998a-ca1b52f67497
+,Statistics,__Created by,Single-Line Text,5dd74568-4d4b-44c1-b513-0af5f4cda34f
+,Statistics,__Revision,Single-Line Text,8cdc337e-a112-42fb-bbb4-4143751e123f
+,Statistics,__Updated,datetime,d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+,Statistics,__Updated by,Single-Line Text,badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+,Tagging,__Semantics,Multilist with Search,a14f1b0c-4384-49ec-8790-28a440f3670c
+,Tasks,__Archive date,datetime,56c15c6d-fd5a-40ca-bb37-64ceec6a9bd5
+,Tasks,__Archive Version date,Datetime,1d99005e-65ca-45ca-9d9a-fd7016e23f1e
+,Tasks,__Reminder date,datetime,abe5d54c-59d7-41e6-8d3f-c1a3e4ec9b9e
+,Tasks,__Reminder recipients,Single-Line Text,2ed9c4d0-9eff-490d-a40a-b5d856499c40
+,Tasks,__Reminder text,Multi-Line Text,bb6c8540-118e-4c49-9157-830576d7345a
+,Validators,__Quick Action Bar Validation Rules,TreelistEx,c2f5b2b5-71c1-431e-bf7f-dbdc1e5a2f83
+,Validators,__Suppressed Validation Rules,Multi-Line Text,f47c0d78-61f9-479c-96df-1159727d32c6
+,Validators,__Validate Button Validation Rules,TreelistEx,57cbca4c-8c94-446c-b8ca-7d8dc54f4285
+,Validators,__Validator Bar Validation Rules,TreelistEx,b7e5b151-b145-4ced-85c5-fbdb566dfa4d
+,Validators,__Workflow Validation Rules,TreelistEx,86b52eef-078e-4d9e-80bf-888287070e6c
+,Workflow,__Default workflow,Droptree,ca9b9f52-4fb0-4f87-a79f-24dea62cda65
+,Workflow,__Lock,Multi-Line Text,001dd393-96c5-490b-924a-b0f25cd9efd8
+,Workflow,__Workflow,Droptree,a4f985d9-98b3-4b52-aaaf-4344f6e747c6
+,Workflow,__Workflow state,Droptree,3e431de1-525e-47a3-b6b0-1ccbec3a8c98
+
+

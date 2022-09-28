@@ -1,0 +1,8 @@
+{
+  "TemplatesToParse": [ "{94A8C8E9-690B-4E65-98E7-F95800222767}", "{467C2144-4454-4518-B1DE-E31B4CBBFF33}" ],
+  "PackageStartPath": "C:\\Work\\Epi\\ContentMigration\\Habitat.1.4.0.682\\package\\items\\master",
+  "TemplateCrawlStartPath": "\\sitecore\\templates",
+  "OptimizelyContentStartNodes": [ "\\sitecore\\content\\Habitat\\Home\\Modules\\Feature" ],
+  "InstanceLanguage": "en",
+  "OutputLocation": "C:\\Work\\Epi\\ContentMigration\\SOFI\\SitecorePackageETL\\Output"
+}

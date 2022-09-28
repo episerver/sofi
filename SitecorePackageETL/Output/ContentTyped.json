@@ -1,0 +1,1189 @@
+{
+  "article": [
+    {
+      "SourceId": "{06EC763E-5DD8-4C4E-9C8E-781B3F42C19B}",
+      "SourceItemPath": "\\sitecore\\content\\Habitat\\Home\\Modules\\Feature\\Accounts",
+      "title": {
+        "Value": "Accounts",
+        "FieldType": "Single-Line Text",
+        "FieldId": "{C30A013F-3CC8-4961-9837-1C483277084A}"
+      },
+      "__finalrenderings": {
+        "Value": "<r xmlns:p=\"p\" xmlns:s=\"s\" p:p=\"1\" s:xsd=\"http://www.w3.org/2001/XMLSchema\"><d id=\"{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}\"><r uid=\"{8AEF98DC-DFD6-4711-874F-04774D755D71}\" p:before=\"*\" s:ds=\"{43186E7B-CADD-4D79-8F65-D49806BCE96D}\" s:id=\"{97459D5B-3C92-46C2-A329-138C1E277465}\" s:ph=\"/page-layout/section-narrow/col-wide-1_927d47ad-a496-49b3-bd5b-c5f93d8bc701\" /><r uid=\"{927D47AD-A496-49B3-BD5B-C5F93D8BC701}\" p:after=\"r[@uid='{8AEF98DC-DFD6-4711-874F-04774D755D71}']\" s:id=\"{03112E88-1499-4132-9D5F-E213AFD2019C}\" s:ph=\"/page-layout/section-narrow\" /></d></r>",
+        "FieldType": "Layout",
+        "FieldId": "{04BF00DB-F5FB-41F7-8AB7-22408372A981}"
+      },
+      "__updatedby": {
+        "Value": "sitecore\\unicorn",
+        "FieldType": "text",
+        "FieldId": "{BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}"
+      },
+      "__revision": {
+        "Value": "e7b1ecf1-0654-4dc4-aed3-c7a99d57b0a1",
+        "FieldType": "text",
+        "FieldId": "{8CDC337E-A112-42FB-BBB4-4143751E123F}"
+      },
+      "navigationtitle": {
+        "Value": "Accounts",
+        "FieldType": "Single-Line Text",
+        "FieldId": "{1B483E91-D8C4-4D19-BA03-462074B55936}"
+      },
+      "summary": {
+        "Value": "The accounts module handles user accounts and user profiles including login, registration, forgot password and profile editing.",
+        "FieldType": "Rich Text",
+        "FieldId": "{AC3FD4DB-8266-476D-9635-67814D91E901}"
+      },
+      "browsertitle": {
+        "Value": "Accounts",
+        "FieldType": "Single-Line Text",
+        "FieldId": "{CA0479CE-0BFE-4522-83DE-BA688B380A78}"
+      },
+      "body": {
+        "Value": "<p><span style=\"line-height: 24.28px;\">A number of components are available to handle login, registration and password reset.</span></p>\r\n<p><span style=\"line-height: 24.28px;\">Links to specific pages showing these components are as follows.</span></p>\r\n<p><span style=\"line-height: 24.28px;\"><a href=\"~/link.aspx?_id=BB711E1EF13F41768231BA55C8DA126D&_z=z\">Login</a>, <a href=\"~/link.aspx?_id=87F08F10D97E4EE9828273351EE226AF&_z=z\">Register</a>, <a href=\"~/link.aspx?_id=A2C07E489C6A466EB55DBAAC62E4DFC7&_z=z\">Edit Profile (logged in users only)</a>, <a href=\"~/link.aspx?_id=87B9CA6A16AA40B496FCFB385D2267C2&_z=z\">Forgotton Password</a></span></p>",
+        "FieldType": "Rich Text",
+        "FieldId": "{D74F396D-5C5E-4916-BD0A-BFD58B6B1967}"
+      },
+      "__created": {
+        "Value": "20151116T023546Z",
+        "FieldType": "datetime",
+        "FieldId": "{25BED78C-4957-4165-998A-CA1B52F67497}"
+      },
+      "__updated": {
+        "Value": "20170613T063156Z",
+        "FieldType": "datetime",
+        "FieldId": "{D9CF14B1-FA16-4BA6-9288-E8A174D4D522}"
+      },
+      "image": {
+        "Value": {
+          "Name": "Habitat-026-square",
+          "Id": "{044D7223-0C4F-43AC-95BF-7D30FB66AB7B}",
+          "Extension": "jpg",
+          "BlobId": "{9B7B53B5-689E-4613-90AF-4423029698AF}"
+        },
+        "FieldType": "Image",
+        "FieldId": "{9492E0BB-9DF9-46E7-8188-EC795C4ADE44}"
+      }
+    },
+    {
+      "SourceId": "{8EAC162B-96BC-43F1-95D6-99B83745B2F4}",
+      "SourceItemPath": "\\sitecore\\content\\Habitat\\Home\\Modules\\Feature\\Demo",
+      "title": {
+        "Value": "Demo",
+        "FieldType": "Single-Line Text",
+        "FieldId": "{C30A013F-3CC8-4961-9837-1C483277084A}"
+      },
+      "__finalrenderings": {
+        "Value": "<r xmlns:p=\"p\" xmlns:s=\"s\" p:p=\"1\" s:xsd=\"http://www.w3.org/2001/XMLSchema\"><d id=\"{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}\"><r uid=\"{2D762D24-25DC-43A7-AC17-1ECE2ECAF33C}\" p:before=\"*\" s:ds=\"{5C851CF7-8C5B-4F0A-BB23-0E06E2A16A57}\" s:id=\"{B883E272-70D8-419A-8AF8-819356D839AD}\" s:ph=\"/page-layout/section-narrow/col-wide-2_fe951a0c-b0e9-43c2-a98b-ca2840ceda81\" /><r uid=\"{9BFBDF2C-9F88-4369-8FF8-9F8DEC384C21}\" p:after=\"r[@uid='{2D762D24-25DC-43A7-AC17-1ECE2ECAF33C}']\" s:ds=\"{F9697E74-0612-4B14-AAB6-40E7A30830D4}\" s:id=\"{B883E272-70D8-419A-8AF8-819356D839AD}\" s:ph=\"/page-layout/section-narrow/col-wide-1_fe951a0c-b0e9-43c2-a98b-ca2840ceda81\" /><r uid=\"{FE951A0C-B0E9-43C2-A98B-CA2840CEDA81}\" p:after=\"r[@uid='{9BFBDF2C-9F88-4369-8FF8-9F8DEC384C21}']\" s:id=\"{50F6052C-4FC2-4AA6-9399-FFC6055CF19F}\" s:ph=\"/page-layout/section-narrow\" /></d></r>",
+        "FieldType": "Layout",
+        "FieldId": "{04BF00DB-F5FB-41F7-8AB7-22408372A981}"
+      },
+      "__updatedby": {
+        "Value": "sitecore\\unicorn",
+        "FieldType": "text",
+        "FieldId": "{BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}"
+      },
+      "__revision": {
+        "Value": "9e0bfd37-7f13-4f3a-b9f8-64d0a9c90890",
+        "FieldType": "text",
+        "FieldId": "{8CDC337E-A112-42FB-BBB4-4143751E123F}"
+      },
+      "navigationtitle": {
+        "Value": "Demo",
+        "FieldType": "Single-Line Text",
+        "FieldId": "{1B483E91-D8C4-4D19-BA03-462074B55936}"
+      },
+      "summary": {
+        "Value": "The Demo module contains a number of features used for demonstrating aspects of the Sitecore platform, such as triggering a campaign from external sites or  information about what the Sitecore Experience Database contains.",
+        "FieldType": "Rich Text",
+        "FieldId": "{AC3FD4DB-8266-476D-9635-67814D91E901}"
+      },
+      "browsertitle": {
+        "Value": "Demo",
+        "FieldType": "Single-Line Text",
+        "FieldId": "{CA0479CE-0BFE-4522-83DE-BA688B380A78}"
+      },
+      "body": {
+        "Value": "<p><span style=\"line-height: 24.2857px;\">The Demo module contains a number of features used for demonstrating aspects of the Sitecore platform, such as triggering a campaign from external sites or &nbsp;information about what the Sitecore Experience Database contains.<br />\r\n</span></p>\r\n<p>For example, the little information icon shown in the lower right hand side of the screen will open a panel showing information from the Sitecore Experience Database.</p>\r\n<p>The module also allows fake demo pages, for example for initiating scenarios from search engines or social media pages. These pages can also fake referrers, IP adresses and geo location. The pages can be edited in Sitecore but will not affect xDB tracking and analytics.</p>\r\n<p>There are the following examples:</p>\r\n<ul>\r\n    <li><a href=\"~/link.aspx?_id=71D28ECDEB8B4485BE481722FBA544FF&amp;_z=z\">Fake Google Page</a></li>\r\n    <li><a href=\"~/link.aspx?_id=A00DDF6F3ABE454EAA5F218EE5A9DA27&amp;_z=z\">Faking the referrer</a></li>\r\n    <li><a href=\"~/link.aspx?_id=C28FF1340F924B478B5BD4B474D77DF4&amp;_z=z\">Faking the IP address</a></li>\r\n    <li><a href=\"~/link.aspx?_id=CB4D7B3013594C1D9B0E16B019C92C97&amp;_z=z\">Faking Geo location</a></li>\r\n</ul>\r\n<p>To test these pages properly, please copy the links, open a private browsing window and initiate the visit by visiting these pages first.</p>",
+        "FieldType": "Rich Text",
+        "FieldId": "{D74F396D-5C5E-4916-BD0A-BFD58B6B1967}"
+      },
+      "__created": {
+        "Value": "20151116T023552Z",
+        "FieldType": "datetime",
+        "FieldId": "{25BED78C-4957-4165-998A-CA1B52F67497}"
+      },
+      "__updated": {
+        "Value": "20170613T063156Z",
+        "FieldType": "datetime",
+        "FieldId": "{D9CF14B1-FA16-4BA6-9288-E8A174D4D522}"
+      },
+      "image": {
+        "Value": {
+          "Name": "Habitat-082-square",
+          "Id": "{661F563E-D23F-4C91-8BFA-1A5BD3547A50}",
+          "Extension": "jpg",
+          "BlobId": "{E6B3FFA8-B5B3-4D41-8CFE-92CA43BE219B}"
+        },
+        "FieldType": "Image",
+        "FieldId": "{9492E0BB-9DF9-46E7-8188-EC795C4ADE44}"
+      }
+    },
+    {
+      "SourceId": "{6F29D455-C5E8-426C-AE31-123F75204D7B}",
+      "SourceItemPath": "\\sitecore\\content\\Habitat\\Home\\Modules\\Feature\\FAQ",
+      "title": {
+        "Value": "FAQ",
+        "FieldType": "Single-Line Text",
+        "FieldId": "{C30A013F-3CC8-4961-9837-1C483277084A}"
+      },
+      "__finalrenderings": {
+        "Value": "",
+        "FieldType": "Layout",
+        "FieldId": "{04BF00DB-F5FB-41F7-8AB7-22408372A981}"
+      },
+      "__updatedby": {
+        "Value": "sitecore\\unicorn",
+        "FieldType": "text",
+        "FieldId": "{BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}"
+      },
+      "__revision": {
+        "Value": "81deaafc-56ff-4c9b-9274-b968c05d1da4",
+        "FieldType": "text",
+        "FieldId": "{8CDC337E-A112-42FB-BBB4-4143751E123F}"
+      },
+      "navigationtitle": {
+        "Value": "FAQ",
+        "FieldType": "Single-Line Text",
+        "FieldId": "{1B483E91-D8C4-4D19-BA03-462074B55936}"
+      },
+      "summary": {
+        "Value": "<p>The FAQ module features a handy accordion control to show questions and answers.</p>",
+        "FieldType": "Rich Text",
+        "FieldId": "{AC3FD4DB-8266-476D-9635-67814D91E901}"
+      },
+      "browsertitle": {
+        "Value": "FAQ",
+        "FieldType": "Single-Line Text",
+        "FieldId": "{CA0479CE-0BFE-4522-83DE-BA688B380A78}"
+      },
+      "__created": {
+        "Value": "20160229T165159Z",
+        "FieldType": "datetime",
+        "FieldId": "{25BED78C-4957-4165-998A-CA1B52F67497}"
+      },
+      "__updated": {
+        "Value": "20170613T063156Z",
+        "FieldType": "datetime",
+        "FieldId": "{D9CF14B1-FA16-4BA6-9288-E8A174D4D522}"
+      },
+      "image": {
+        "Value": {
+          "Name": "Habitat-080-square",
+          "Id": "{74F43420-14E8-47DD-BC03-C31A7B5471F2}",
+          "Extension": "jpg",
+          "BlobId": "{6A62976D-FF45-4153-AF66-00F5FA559C4B}"
+        },
+        "FieldType": "Image",
+        "FieldId": "{9492E0BB-9DF9-46E7-8188-EC795C4ADE44}"
+      },
+      "__masters": {
+        "Value": "{94A8C8E9-690B-4E65-98E7-F95800222767}|{8FF3D369-A508-4D2F-84A5-9B6C6BF5E537}|{BA1EB1BD-E705-4BE6-A432-06B7F1B2F2CC}",
+        "FieldType": "TreelistEx",
+        "FieldId": "{1172F251-DAD4-4EFB-A329-0C63500E4F1E}"
+      },
+      "__renderings": {
+        "Value": "<r xmlns:p=\"p\" xmlns:s=\"s\" p:p=\"1\" s:xsd=\"http://www.w3.org/2001/XMLSchema\"><d id=\"{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}\"><r uid=\"{8C9F3988-6CA4-4992-BFDA-E97ADD057A75}\" p:before=\"*\" s:ds=\"{7A015A8A-E7F5-4DC2-8BEF-1A3E1708B39C}\" s:id=\"{52A898D9-6D20-43FD-9798-1578B14A117C}\" s:ph=\"/page-layout/section_ae5aa048-6552-4479-85d5-2cfc1c1e4304/col-wide-1_8bbcd4a3-ff5a-459e-81ae-d24c6c5435a2\" /><r uid=\"{EA1DC45B-54BB-4B3A-B49A-45C69DCBE88A}\" p:after=\"r[@uid='{8C9F3988-6CA4-4992-BFDA-E97ADD057A75}']\" s:id=\"{3F7AD288-FA57-441F-AD79-CA60DC0C0A8D}\" s:ph=\"/page-layout/section_ae5aa048-6552-4479-85d5-2cfc1c1e4304/col-narrow-1_8bbcd4a3-ff5a-459e-81ae-d24c6c5435a2\" /><r uid=\"{8BBCD4A3-FF5A-459E-81AE-D24C6C5435A2}\" p:after=\"r[@uid='{EA1DC45B-54BB-4B3A-B49A-45C69DCBE88A}']\" s:id=\"{AB7054DD-B8E3-41D6-A75F-B54F2F37D08B}\" s:ph=\"/page-layout/section_ae5aa048-6552-4479-85d5-2cfc1c1e4304\" /><r uid=\"{AE5AA048-6552-4479-85D5-2CFC1C1E4304}\" p:after=\"r[@uid='{1DF746C3-2D29-43E6-9DE2-05622DED6F97}']\" s:id=\"{D201A487-5099-48A1-8189-55944F70C6CB}\" s:ph=\"page-layout\" /><r uid=\"{66422117-69C1-4B62-9323-482F16C4F244}\"><p:d /></r><r uid=\"{0DE72BFC-0F5B-482B-B04C-D70AF5EC1185}\" p:after=\"r[@uid='{20E3883C-C16D-41D7-B5D3-C4AC60D8386D}']\" s:id=\"{45B8E1D9-D522-49E0-B9B7-04C965CC7089}\" s:ph=\"/page-layout/page-header\" /><r uid=\"{20AB9BAA-C112-4567-A701-564423E650D2}\"><p:d /></r><r uid=\"{D542B8DD-A7C7-4D05-8D9B-347B4ED90D24}\" p:after=\"*[1=2]\" s:id=\"{CED18F24-62C2-445E-B0D9-045E3325297B}\" s:ph=\"page-sidebar\" /></d></r>",
+        "FieldType": "layout",
+        "FieldId": "{F1A1FE9E-A60C-4DDB-A3A0-BB5B29FE732E}"
+      }
+    },
+    {
+      "SourceId": "{362CE8CA-4846-4477-9621-FC38F41D6371}",
+      "SourceItemPath": "\\sitecore\\content\\Habitat\\Home\\Modules\\Feature\\Identity",
+      "title": {
+        "Value": "Identity",
+        "FieldType": "Single-Line Text",
+        "FieldId": "{C30A013F-3CC8-4961-9837-1C483277084A}"
+      },
+      "__finalrenderings": {
+        "Value": "<r xmlns:p=\"p\" xmlns:s=\"s\" p:p=\"1\" s:xsd=\"http://www.w3.org/2001/XMLSchema\"><d id=\"{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}\"><r uid=\"{4BAA8F11-90C7-4BF3-B5D8-C59381B81189}\" p:before=\"*\" s:id=\"{CA748838-E6D5-4BAD-9126-CAD10DD1B0DB}\" s:ph=\"/page-layout/section-narrow/col-narrow-1_d4399158-183a-41e7-aa4c-86f7d7e68d76\" /><r uid=\"{D4399158-183A-41E7-AA4C-86F7D7E68D76}\" p:after=\"r[@uid='{4BAA8F11-90C7-4BF3-B5D8-C59381B81189}']\" s:id=\"{831876B6-F9F1-463E-9DD5-7F93F1640590}\" s:ph=\"/page-layout/section-narrow\" /></d></r>",
+        "FieldType": "Layout",
+        "FieldId": "{04BF00DB-F5FB-41F7-8AB7-22408372A981}"
+      },
+      "__updatedby": {
+        "Value": "sitecore\\unicorn",
+        "FieldType": "text",
+        "FieldId": "{BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}"
+      },
+      "__revision": {
+        "Value": "dc594e24-0570-45a1-8943-c3791908c60a",
+        "FieldType": "text",
+        "FieldId": "{8CDC337E-A112-42FB-BBB4-4143751E123F}"
+      },
+      "navigationtitle": {
+        "Value": "Identity",
+        "FieldType": "Single-Line Text",
+        "FieldId": "{1B483E91-D8C4-4D19-BA03-462074B55936}"
+      },
+      "summary": {
+        "Value": "The corporate or organisational identity of the website is managed by the Identity module. This includes Logos and legal footer information.",
+        "FieldType": "Rich Text",
+        "FieldId": "{AC3FD4DB-8266-476D-9635-67814D91E901}"
+      },
+      "browsertitle": {
+        "Value": "Identity",
+        "FieldType": "Single-Line Text",
+        "FieldId": "{CA0479CE-0BFE-4522-83DE-BA688B380A78}"
+      },
+      "body": {
+        "Value": "<span style=\"line-height: 24.2857px;\">The corporate or organisational identity of the website is managed by the Identity module. This includes Logos and legal footer information.</span>",
+        "FieldType": "Rich Text",
+        "FieldId": "{D74F396D-5C5E-4916-BD0A-BFD58B6B1967}"
+      },
+      "__created": {
+        "Value": "20151116T023602Z",
+        "FieldType": "datetime",
+        "FieldId": "{25BED78C-4957-4165-998A-CA1B52F67497}"
+      },
+      "__updated": {
+        "Value": "20170613T063156Z",
+        "FieldType": "datetime",
+        "FieldId": "{D9CF14B1-FA16-4BA6-9288-E8A174D4D522}"
+      },
+      "image": {
+        "Value": {
+          "Name": "Habitat-003-square",
+          "Id": "{0E882593-65D1-44BD-83C4-B2CC48C9C9E7}",
+          "Extension": "jpg",
+          "BlobId": "{0D69045F-4829-484A-AB75-DFEAD2E71566}"
+        },
+        "FieldType": "Image",
+        "FieldId": "{9492E0BB-9DF9-46E7-8188-EC795C4ADE44}"
+      }
+    },
+    {
+      "SourceId": "{FD46936D-1F9E-4E0C-98D8-0BC99DD8E6EC}",
+      "SourceItemPath": "\\sitecore\\content\\Habitat\\Home\\Modules\\Feature\\Language",
+      "title": {
+        "Value": "Language",
+        "FieldType": "Single-Line Text",
+        "FieldId": "{C30A013F-3CC8-4961-9837-1C483277084A}"
+      },
+      "__updatedby": {
+        "Value": "sitecore\\unicorn",
+        "FieldType": "text",
+        "FieldId": "{BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}"
+      },
+      "__revision": {
+        "Value": "204acc97-f27d-4ea9-9fd2-73af64156afc",
+        "FieldType": "text",
+        "FieldId": "{8CDC337E-A112-42FB-BBB4-4143751E123F}"
+      },
+      "navigationtitle": {
+        "Value": "Language",
+        "FieldType": "Single-Line Text",
+        "FieldId": "{1B483E91-D8C4-4D19-BA03-462074B55936}"
+      },
+      "summary": {
+        "Value": "The language module contains functionality related to the multi-language support of Habitat.",
+        "FieldType": "Rich Text",
+        "FieldId": "{AC3FD4DB-8266-476D-9635-67814D91E901}"
+      },
+      "browsertitle": {
+        "Value": "Language",
+        "FieldType": "Single-Line Text",
+        "FieldId": "{CA0479CE-0BFE-4522-83DE-BA688B380A78}"
+      },
+      "body": {
+        "Value": "<span style=\"line-height: 24.2857px;\">The language module contains functionality related to the multi-language support of Habitat, specifically the language switcher which appears when the site contains multiple languages.</span>",
+        "FieldType": "Rich Text",
+        "FieldId": "{D74F396D-5C5E-4916-BD0A-BFD58B6B1967}"
+      },
+      "__created": {
+        "Value": "20151116T023610Z",
+        "FieldType": "datetime",
+        "FieldId": "{25BED78C-4957-4165-998A-CA1B52F67497}"
+      },
+      "__updated": {
+        "Value": "20170613T063156Z",
+        "FieldType": "datetime",
+        "FieldId": "{D9CF14B1-FA16-4BA6-9288-E8A174D4D522}"
+      },
+      "image": {
+        "Value": {
+          "Name": "Habitat-064-square",
+          "Id": "{9DF6B8F9-46D3-4EBF-B29F-1018443D85AD}",
+          "Extension": "jpg",
+          "BlobId": "{90999C31-2024-4B76-8E81-8BC9EDD7C49A}"
+        },
+        "FieldType": "Image",
+        "FieldId": "{9492E0BB-9DF9-46E7-8188-EC795C4ADE44}"
+      }
+    },
+    {
+      "SourceId": "{C0A33DD0-EFDB-43C0-88EF-B46C39C5CBDA}",
+      "SourceItemPath": "\\sitecore\\content\\Habitat\\Home\\Modules\\Feature\\Maps",
+      "title": {
+        "Value": "Maps",
+        "FieldType": "Single-Line Text",
+        "FieldId": "{C30A013F-3CC8-4961-9837-1C483277084A}"
+      },
+      "__finalrenderings": {
+        "Value": "<r xmlns:p=\"p\" xmlns:s=\"s\" p:p=\"1\" s:xsd=\"http://www.w3.org/2001/XMLSchema\"><d id=\"{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}\"><r uid=\"{1D14E75C-3F43-4665-B2E2-B21B89EAF728}\" p:before=\"*\" s:ds=\"{F4477B0F-B874-4385-A3D7-ED1C1A868DB0}\" s:id=\"{7DFD9396-CB94-4174-9721-9419A2AA68E3}\" s:par=\"MapType=terrain&amp;CenterLocation=-33.832724, 151.289431&amp;ZoomLevel=10&amp;EnableCenterMapControl&amp;EnableZoomControl&amp;EnableMapTypeControl&amp;EnableScaleControl&amp;EnableStreetViewControl&amp;EnableRotateControl\" s:ph=\"/page-layout/section-narrow/col-wide-1_27c81c8d-b50a-4a27-b728-114c314d417b\" /><r uid=\"{D9CA2CCD-729B-41C0-988D-A5DD7961E6AD}\" p:after=\"r[@uid='{1D14E75C-3F43-4665-B2E2-B21B89EAF728}']\" s:ds=\"{37FCED17-913A-4ABB-9EEC-3BF745334326}\" s:id=\"{7DFD9396-CB94-4174-9721-9419A2AA68E3}\" s:par=\"MapType=roadmap&amp;CenterLocation=55.6749167,12.561860199999956&amp;ZoomLevel=0&amp;EnableCenterMapControl&amp;EnableZoomControl=1&amp;EnableMapTypeControl=1&amp;EnableScaleControl&amp;EnableStreetViewControl&amp;EnableRotateControl\" s:ph=\"/page-layout/section-narrow/col-wide-2_27c81c8d-b50a-4a27-b728-114c314d417b\" /><r uid=\"{27C81C8D-B50A-4A27-B728-114C314D417B}\" p:after=\"r[@uid='{D9CA2CCD-729B-41C0-988D-A5DD7961E6AD}']\" s:id=\"{50F6052C-4FC2-4AA6-9399-FFC6055CF19F}\" s:ph=\"/page-layout/section-narrow\" /></d></r>",
+        "FieldType": "Layout",
+        "FieldId": "{04BF00DB-F5FB-41F7-8AB7-22408372A981}"
+      },
+      "__updatedby": {
+        "Value": "sitecore\\unicorn",
+        "FieldType": "text",
+        "FieldId": "{BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}"
+      },
+      "__revision": {
+        "Value": "7efa6cc1-4bff-44b9-bbb9-0b8bd308fb3a",
+        "FieldType": "text",
+        "FieldId": "{8CDC337E-A112-42FB-BBB4-4143751E123F}"
+      },
+      "navigationtitle": {
+        "Value": "Maps",
+        "FieldType": "Single-Line Text",
+        "FieldId": "{1B483E91-D8C4-4D19-BA03-462074B55936}"
+      },
+      "summary": {
+        "Value": "The Maps module allows you to add maps with points to the pages of your website.",
+        "FieldType": "Rich Text",
+        "FieldId": "{AC3FD4DB-8266-476D-9635-67814D91E901}"
+      },
+      "browsertitle": {
+        "Value": "Maps",
+        "FieldType": "Single-Line Text",
+        "FieldId": "{CA0479CE-0BFE-4522-83DE-BA688B380A78}"
+      },
+      "body": {
+        "Value": "<p>The Maps module allows you to add maps to the pages of your website. A map can show one or more map points which are stored in a central folder for reuse.</p>",
+        "FieldType": "Rich Text",
+        "FieldId": "{D74F396D-5C5E-4916-BD0A-BFD58B6B1967}"
+      },
+      "__created": {
+        "Value": "20160129T051509Z",
+        "FieldType": "datetime",
+        "FieldId": "{25BED78C-4957-4165-998A-CA1B52F67497}"
+      },
+      "__updated": {
+        "Value": "20170613T063156Z",
+        "FieldType": "datetime",
+        "FieldId": "{D9CF14B1-FA16-4BA6-9288-E8A174D4D522}"
+      },
+      "image": {
+        "Value": {
+          "Name": "Habitat-074-square",
+          "Id": "{F53A3B36-7FC8-4C58-B4CE-25963AB803B6}",
+          "Extension": "jpg",
+          "BlobId": "{7790E253-015E-4684-BC07-9A8B87AEBC85}"
+        },
+        "FieldType": "Image",
+        "FieldId": "{9492E0BB-9DF9-46E7-8188-EC795C4ADE44}"
+      }
+    },
+    {
+      "SourceId": "{F7718FED-DE86-4BFD-A952-023C41B385FD}",
+      "SourceItemPath": "\\sitecore\\content\\Habitat\\Home\\Modules\\Feature\\Media",
+      "title": {
+        "Value": "Media",
+        "FieldType": "Single-Line Text",
+        "FieldId": "{C30A013F-3CC8-4961-9837-1C483277084A}"
+      },
+      "__finalrenderings": {
+        "Value": "<r xmlns:p=\"p\" xmlns:s=\"s\" p:p=\"1\" s:xsd=\"http://www.w3.org/2001/XMLSchema\"><d id=\"{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}\"><r uid=\"{AD6D96A7-83B3-49E6-9FEC-E2B779C65846}\" p:before=\"*\" s:ds=\"{71E971C7-BA7F-47F4-AC9C-E3AED9867E42}\" s:id=\"{EE5A9F3D-C2CB-4710-8053-04D1A7135EBE}\" s:ph=\"/page-layout/section_3e6f0837-64a7-40f9-808f-ceae35a00191/col-huge_b0e8c1df-3f26-4fec-b95d-546351dd1656\" /><r uid=\"{3ECCFCD0-ECD8-4A4B-B351-613CD0A69493}\" p:after=\"r[@uid='{AD6D96A7-83B3-49E6-9FEC-E2B779C65846}']\" s:ds=\"{20CB5BBB-3700-4FF9-A59A-2B4F70C5BE31}\" s:id=\"{349287CD-182C-4F2F-80B8-62A8B62CC57E}\" s:ph=\"/page-layout/section_3e6f0837-64a7-40f9-808f-ceae35a00191/col-huge_b0e8c1df-3f26-4fec-b95d-546351dd1656\" /><r uid=\"{4292935E-CD50-4B23-A3E4-8A90D53B3FB9}\" p:after=\"r[@uid='{3ECCFCD0-ECD8-4A4B-B351-613CD0A69493}']\" s:ds=\"{98D1970C-E669-448F-9E2A-DE9087A46F58}\" s:id=\"{349287CD-182C-4F2F-80B8-62A8B62CC57E}\" s:ph=\"/page-layout/section_3e6f0837-64a7-40f9-808f-ceae35a00191/col-huge_b0e8c1df-3f26-4fec-b95d-546351dd1656\" /><r uid=\"{B0E8C1DF-3F26-4FEC-B95D-546351DD1656}\" p:after=\"r[@uid='{4292935E-CD50-4B23-A3E4-8A90D53B3FB9}']\" s:ds=\"\" s:id=\"{0AD8EC59-33EC-4103-AAD4-F3A49BFDB92C}\" s:par=\"Background&amp;ContainerIsFluid=1&amp;UseStaticPlaceholderNames\" s:ph=\"/page-layout/section_3e6f0837-64a7-40f9-808f-ceae35a00191\" /><r uid=\"{F135FC1E-F0FE-4631-AFE4-F83D3A3238FD}\" p:after=\"r[@uid='{B0E8C1DF-3F26-4FEC-B95D-546351DD1656}']\" s:ds=\"{2299A134-B64F-4A34-83EA-54B3E4B3A6F0}\" s:id=\"{EE5A9F3D-C2CB-4710-8053-04D1A7135EBE}\" s:ph=\"/page-layout/section_f839effc-c5a7-4a8d-a940-673d03f221e1/col-huge_83aa6e4c-f0fc-4c92-a212-938ab2e90a11\" /><r uid=\"{83AA6E4C-F0FC-4C92-A212-938AB2E90A11}\" p:after=\"r[@uid='{F135FC1E-F0FE-4631-AFE4-F83D3A3238FD}']\" s:id=\"{0AD8EC59-33EC-4103-AAD4-F3A49BFDB92C}\" s:ph=\"/page-layout/section_f839effc-c5a7-4a8d-a940-673d03f221e1\" /><r uid=\"{6A24FB45-6FFA-4A50-B6B6-02B2E1A64886}\" p:after=\"r[@uid='{83AA6E4C-F0FC-4C92-A212-938AB2E90A11}']\" s:ds=\"{153DD91B-8F8B-4F76-8879-62D30283BC7E}\" s:id=\"{4E541395-9332-4F1D-87F0-E7F4920C2036}\" s:ph=\"/page-layout/section_f839effc-c5a7-4a8d-a940-673d03f221e1/col-wide-1_c6270967-f8a6-4315-ab9f-e59128d087ad\" /><r uid=\"{DEAD3AE0-A240-4226-A1F9-E2B442615DF9}\" p:after=\"r[@uid='{6A24FB45-6FFA-4A50-B6B6-02B2E1A64886}']\" s:ds=\"{98D1970C-E669-448F-9E2A-DE9087A46F58}\" s:id=\"{0534F12C-804E-4532-A832-5D61FE9EC6ED}\" s:ph=\"/page-layout/section_f839effc-c5a7-4a8d-a940-673d03f221e1/col-wide-1_c6270967-f8a6-4315-ab9f-e59128d087ad\" /><r uid=\"{72A0407D-D5F1-4740-BEA2-F993AA3AFDF5}\" p:after=\"r[@uid='{DEAD3AE0-A240-4226-A1F9-E2B442615DF9}']\" s:ds=\"{EC545DC1-F12B-4B22-8FEB-7F0A4211C0E8}\" s:id=\"{F49C9252-47F3-406B-B311-E26EE4D1149B}\" s:ph=\"/page-layout/section_f839effc-c5a7-4a8d-a940-673d03f221e1/col-narrow-1_c6270967-f8a6-4315-ab9f-e59128d087ad\" /><r uid=\"{6DB71916-C7D3-4A73-8F6F-8B877E859661}\" p:after=\"r[@uid='{72A0407D-D5F1-4740-BEA2-F993AA3AFDF5}']\" s:ds=\"{A92C04FE-9158-47C5-BCA2-14FCA32FF772}\" s:id=\"{0534F12C-804E-4532-A832-5D61FE9EC6ED}\" s:ph=\"/page-layout/section_f839effc-c5a7-4a8d-a940-673d03f221e1/col-narrow-1_c6270967-f8a6-4315-ab9f-e59128d087ad\" /><r uid=\"{6335F02F-DB01-4A98-BB3E-2A88D0180EA4}\" p:after=\"r[@uid='{6DB71916-C7D3-4A73-8F6F-8B877E859661}']\" s:ds=\"{20CB5BBB-3700-4FF9-A59A-2B4F70C5BE31}\" s:id=\"{0534F12C-804E-4532-A832-5D61FE9EC6ED}\" s:ph=\"/page-layout/section_f839effc-c5a7-4a8d-a940-673d03f221e1/col-narrow-1_c6270967-f8a6-4315-ab9f-e59128d087ad\" /><r uid=\"{C6270967-F8A6-4315-AB9F-E59128D087AD}\" p:after=\"r[@uid='{6335F02F-DB01-4A98-BB3E-2A88D0180EA4}']\" s:id=\"{E6D8107A-D811-4826-82BB-1A6279830C5A}\" s:ph=\"/page-layout/section_f839effc-c5a7-4a8d-a940-673d03f221e1\" /><r uid=\"{3FD83A5B-06CF-49C4-B81B-BF732CCFEDC3}\" p:after=\"r[@uid='{C6270967-F8A6-4315-AB9F-E59128D087AD}']\" s:id=\"{0AD8EC59-33EC-4103-AAD4-F3A49BFDB92C}\" s:ph=\"/page-layout/section_f839effc-c5a7-4a8d-a940-673d03f221e1\" /><r uid=\"{5CFF6E36-7601-4832-A29B-E992A8500398}\" p:after=\"r[@uid='{3FD83A5B-06CF-49C4-B81B-BF732CCFEDC3}']\" s:ds=\"{153DD91B-8F8B-4F76-8879-62D30283BC7E}\" s:id=\"{E86BFEB1-F3FC-4E37-B693-A5550D6789EE}\" s:ph=\"/page-layout/section-narrow/col-wide-1_03c54fea-cbbf-46e9-9bff-99e04c5f00bf\" /><r uid=\"{03C54FEA-CBBF-46E9-9BFF-99E04C5F00BF}\" p:after=\"r[@uid='{5CFF6E36-7601-4832-A29B-E992A8500398}']\" s:id=\"{03112E88-1499-4132-9D5F-E213AFD2019C}\" s:ph=\"/page-layout/section-narrow\" /><r uid=\"{F839EFFC-C5A7-4A8D-A940-673D03F221E1}\" p:after=\"r[@uid='{66422117-69C1-4B62-9323-482F16C4F244}']\" s:ds=\"\" s:id=\"{D201A487-5099-48A1-8189-55944F70C6CB}\" s:par=\"Background={EFA6AD59-AE21-4524-90F8-A92440B869AF}&amp;ContainerIsFluid&amp;UseStaticPlaceholderNames\" s:ph=\"page-layout\" /><r uid=\"{3E6F0837-64A7-40F9-808F-CEAE35A00191}\" p:after=\"r[@uid='{F839EFFC-C5A7-4A8D-A940-673D03F221E1}']\" s:ds=\"\" s:id=\"{D201A487-5099-48A1-8189-55944F70C6CB}\" s:par=\"Background&amp;ContainerIsFluid=1&amp;UseStaticPlaceholderNames\" s:ph=\"page-layout\" /></d></r>",
+        "FieldType": "Layout",
+        "FieldId": "{04BF00DB-F5FB-41F7-8AB7-22408372A981}"
+      },
+      "__updatedby": {
+        "Value": "sitecore\\unicorn",
+        "FieldType": "text",
+        "FieldId": "{BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}"
+      },
+      "__revision": {
+        "Value": "e927bfc0-532b-463e-85ed-f48f6c3ed25d",
+        "FieldType": "text",
+        "FieldId": "{8CDC337E-A112-42FB-BBB4-4143751E123F}"
+      },
+      "navigationtitle": {
+        "Value": "Media",
+        "FieldType": "Single-Line Text",
+        "FieldId": "{1B483E91-D8C4-4D19-BA03-462074B55936}"
+      },
+      "summary": {
+        "Value": "The Media module contains functionality for Carousels, Lightboxes and Videos.",
+        "FieldType": "Rich Text",
+        "FieldId": "{AC3FD4DB-8266-476D-9635-67814D91E901}"
+      },
+      "browsertitle": {
+        "Value": "Media",
+        "FieldType": "Single-Line Text",
+        "FieldId": "{CA0479CE-0BFE-4522-83DE-BA688B380A78}"
+      },
+      "body": {
+        "Value": "The media module contains basic functionality for handling media such as images and videos. Below is a example of the components available.",
+        "FieldType": "Rich Text",
+        "FieldId": "{D74F396D-5C5E-4916-BD0A-BFD58B6B1967}"
+      },
+      "__created": {
+        "Value": "20150921T014315Z",
+        "FieldType": "datetime",
+        "FieldId": "{25BED78C-4957-4165-998A-CA1B52F67497}"
+      },
+      "__updated": {
+        "Value": "20170613T063156Z",
+        "FieldType": "datetime",
+        "FieldId": "{D9CF14B1-FA16-4BA6-9288-E8A174D4D522}"
+      },
+      "image": {
+        "Value": {
+          "Name": "Habitat-071-square",
+          "Id": "{DC6635DB-90B7-4EBA-8B65-4D6C38F8EB95}",
+          "Extension": "jpg",
+          "BlobId": "{3C85A889-7AFB-482A-A7FB-6D35D52EBE8F}"
+        },
+        "FieldType": "Image",
+        "FieldId": "{9492E0BB-9DF9-46E7-8188-EC795C4ADE44}"
+      }
+    },
+    {
+      "SourceId": "{5B47A05C-12C6-41C5-8ED8-E4E1960E3E18}",
+      "SourceItemPath": "\\sitecore\\content\\Habitat\\Home\\Modules\\Feature\\Metadata",
+      "custommetadata": {
+        "Value": "author=Some%20Dude%20from%20Sitecore",
+        "FieldType": "Name Value List",
+        "FieldId": "{167ABA77-5172-42AF-9F9E-00299113839E}"
+      },
+      "metakeywords": {
+        "Value": "{425DF582-C8D5-4EBA-B23E-FA1A069435DD}|{153640E2-FD0D-42D3-8480-F9615EE78A9A}",
+        "FieldType": "Treelist",
+        "FieldId": "{4B16F930-73C9-4643-BB1B-00F06E60A073}"
+      },
+      "title": {
+        "Value": "Metadata",
+        "FieldType": "Single-Line Text",
+        "FieldId": "{C30A013F-3CC8-4961-9837-1C483277084A}"
+      },
+      "metadescription": {
+        "Value": "This is the description for the Metadata page. This can be edited in the content editor.",
+        "FieldType": "Multi-Line Text",
+        "FieldId": "{BB7A38C0-323C-4F81-8EB9-288ABF7C4638}"
+      },
+      "__updatedby": {
+        "Value": "sitecore\\unicorn",
+        "FieldType": "text",
+        "FieldId": "{BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}"
+      },
+      "__revision": {
+        "Value": "149ed1be-c5a8-4d3a-9185-39e075bf31c0",
+        "FieldType": "text",
+        "FieldId": "{8CDC337E-A112-42FB-BBB4-4143751E123F}"
+      },
+      "navigationtitle": {
+        "Value": "Metadata",
+        "FieldType": "Single-Line Text",
+        "FieldId": "{1B483E91-D8C4-4D19-BA03-462074B55936}"
+      },
+      "summary": {
+        "Value": "<span style=\"line-height: 24.2857px;\">The metadata module covers functionality related to HTML</span><span style=\"line-height: 24.2857px;\"> and SEO</span><span style=\"line-height: 24.2857px;\"> metadata.</span>",
+        "FieldType": "Rich Text",
+        "FieldId": "{AC3FD4DB-8266-476D-9635-67814D91E901}"
+      },
+      "browsertitle": {
+        "Value": "This is the browser title for the Metadata page",
+        "FieldType": "Single-Line Text",
+        "FieldId": "{CA0479CE-0BFE-4522-83DE-BA688B380A78}"
+      },
+      "body": {
+        "Value": "<p>The metadata module covers functionality related to HTML<span style=\"line-height: 24.2857px;\">&nbsp;and SEO</span>&nbsp;metadata, including for example the browser page title and global site title.</p>\r\n<p>Open the page source to see the metadata in the &lt;HEAD&gt; for this page</p>",
+        "FieldType": "Rich Text",
+        "FieldId": "{D74F396D-5C5E-4916-BD0A-BFD58B6B1967}"
+      },
+      "__created": {
+        "Value": "20151116T023619Z",
+        "FieldType": "datetime",
+        "FieldId": "{25BED78C-4957-4165-998A-CA1B52F67497}"
+      },
+      "__updated": {
+        "Value": "20170613T063156Z",
+        "FieldType": "datetime",
+        "FieldId": "{D9CF14B1-FA16-4BA6-9288-E8A174D4D522}"
+      },
+      "image": {
+        "Value": {
+          "Name": "Habitat-033-square",
+          "Id": "{91C40066-B282-4030-95DA-4919E51CAADB}",
+          "Extension": "jpg",
+          "BlobId": "{6379216B-3D80-4C21-A674-D21D92C93F0D}"
+        },
+        "FieldType": "Image",
+        "FieldId": "{9492E0BB-9DF9-46E7-8188-EC795C4ADE44}"
+      },
+      "canindex": {
+        "Value": "",
+        "FieldType": "Checkbox",
+        "FieldId": "{683D7237-206A-488F-9DEE-4A4E41FB161D}"
+      },
+      "seofollowlinks": {
+        "Value": "",
+        "FieldType": "Checkbox",
+        "FieldId": "{0DCA829C-9FCE-41F5-9990-C6182FEFE905}"
+      }
+    },
+    {
+      "SourceId": "{876B43B4-6EFF-4E82-8450-5974B95EF94C}",
+      "SourceItemPath": "\\sitecore\\content\\Habitat\\Home\\Modules\\Feature\\Navigation",
+      "title": {
+        "Value": "Navigation",
+        "FieldType": "Single-Line Text",
+        "FieldId": "{C30A013F-3CC8-4961-9837-1C483277084A}"
+      },
+      "__finalrenderings": {
+        "Value": "<r xmlns:p=\"p\" xmlns:s=\"s\" p:p=\"1\" s:xsd=\"http://www.w3.org/2001/XMLSchema\"><d id=\"{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}\"><r uid=\"{97D4F99F-5161-46E8-9B08-4A175246ED19}\" p:before=\"*\" s:ds=\"{FB1E4810-6D89-4F1E-A47B-70478FE32DA7}\" s:id=\"{F366FBA9-EF26-4007-988A-63CB64649C46}\" s:ph=\"/page-layout/section-narrow/col-wide-2_59b6d347-c079-478d-a565-2b0f1d4cbef4\" /><r uid=\"{CCF50F68-BD0A-4D24-ACBF-1D76D149CCC8}\" p:after=\"r[@uid='{97D4F99F-5161-46E8-9B08-4A175246ED19}']\" s:ds=\"{DC450599-7C22-4D86-A901-CC8EEC8992C9}\" s:id=\"{F366FBA9-EF26-4007-988A-63CB64649C46}\" s:ph=\"/page-layout/section-narrow/col-wide-1_59b6d347-c079-478d-a565-2b0f1d4cbef4\" /><r uid=\"{F0A36645-3711-4438-B51A-49DA0A56983B}\" p:after=\"r[@uid='{CCF50F68-BD0A-4D24-ACBF-1D76D149CCC8}']\" s:id=\"{F366FBA9-EF26-4007-988A-63CB64649C46}\" s:ph=\"/page-layout/section-narrow/col-wide-1_59b6d347-c079-478d-a565-2b0f1d4cbef4\" /><r uid=\"{59B6D347-C079-478D-A565-2B0F1D4CBEF4}\" p:after=\"r[@uid='{F0A36645-3711-4438-B51A-49DA0A56983B}']\" s:id=\"{50F6052C-4FC2-4AA6-9399-FFC6055CF19F}\" s:ph=\"/page-layout/section-narrow\" /></d></r>",
+        "FieldType": "Layout",
+        "FieldId": "{04BF00DB-F5FB-41F7-8AB7-22408372A981}"
+      },
+      "__updatedby": {
+        "Value": "sitecore\\unicorn",
+        "FieldType": "text",
+        "FieldId": "{BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}"
+      },
+      "__revision": {
+        "Value": "d873bcc0-caae-43be-86c5-b46e76a25742",
+        "FieldType": "text",
+        "FieldId": "{8CDC337E-A112-42FB-BBB4-4143751E123F}"
+      },
+      "navigationtitle": {
+        "Value": "Navigation",
+        "FieldType": "Single-Line Text",
+        "FieldId": "{1B483E91-D8C4-4D19-BA03-462074B55936}"
+      },
+      "summary": {
+        "Value": "All menus and navigation components reside in the Navigation module.",
+        "FieldType": "Rich Text",
+        "FieldId": "{AC3FD4DB-8266-476D-9635-67814D91E901}"
+      },
+      "browsertitle": {
+        "Value": "Navigation",
+        "FieldType": "Single-Line Text",
+        "FieldId": "{CA0479CE-0BFE-4522-83DE-BA688B380A78}"
+      },
+      "body": {
+        "Value": "<p><span style=\"line-height: 24.2857px;\">All menus and navigation components reside in the Navigation module.</span></p>\r\n<p><span style=\"line-height: 24.2857px;\">This includes:</span></p>\r\n<ul>\r\n    <li><span style=\"line-height: 24.2857px;\">Main navigation</span></li>\r\n    <li><span style=\"line-height: 24.2857px;\">Secondary navigation</span></li>\r\n    <li><span style=\"line-height: 24.2857px;\">Breadcrumb</span></li>\r\n    <li><span style=\"line-height: 24.2857px;\">Link menus (as shown in the footer or header top).</span></li>\r\n</ul>",
+        "FieldType": "Rich Text",
+        "FieldId": "{D74F396D-5C5E-4916-BD0A-BFD58B6B1967}"
+      },
+      "__created": {
+        "Value": "20151116T023626Z",
+        "FieldType": "datetime",
+        "FieldId": "{25BED78C-4957-4165-998A-CA1B52F67497}"
+      },
+      "__updated": {
+        "Value": "20170613T063156Z",
+        "FieldType": "datetime",
+        "FieldId": "{D9CF14B1-FA16-4BA6-9288-E8A174D4D522}"
+      },
+      "image": {
+        "Value": {
+          "Name": "Habitat-002-square",
+          "Id": "{4E591DC8-B190-4FF3-A853-2C8C501AAD07}",
+          "Extension": "jpg",
+          "BlobId": "{B618E905-5E29-4B61-937E-BCB323FC2CE5}"
+        },
+        "FieldType": "Image",
+        "FieldId": "{9492E0BB-9DF9-46E7-8188-EC795C4ADE44}"
+      }
+    },
+    {
+      "SourceId": "{EA258531-D346-4200-B673-471CF1544506}",
+      "SourceItemPath": "\\sitecore\\content\\Habitat\\Home\\Modules\\Feature\\News",
+      "title": {
+        "Value": "News",
+        "FieldType": "Single-Line Text",
+        "FieldId": "{C30A013F-3CC8-4961-9837-1C483277084A}"
+      },
+      "__finalrenderings": {
+        "Value": "<r xmlns:p=\"p\" xmlns:s=\"s\" p:p=\"1\" s:xsd=\"http://www.w3.org/2001/XMLSchema\"><d id=\"{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}\"><r uid=\"{BB5C8FF9-B813-479E-A3C8-11152B88FDA5}\" p:before=\"*\" s:ds=\"{88D7F189-43AF-4704-94EA-DAA482F9DBA5}\" s:id=\"{96EFEFFC-4D53-4F29-913E-84EDBFBE4DAB}\" s:ph=\"/page-layout/section-narrow/col-wide-1_72ea8864-7129-4d5f-a953-1af281f5691f\" /><r uid=\"{C76A2513-B2CA-48B4-A4A0-989176D2F799}\" p:after=\"r[@uid='{BB5C8FF9-B813-479E-A3C8-11152B88FDA5}']\" s:ds=\"{439EC71A-4231-45C8-B075-975BD41099A7}\" s:id=\"{BDD730EB-F808-4C65-B94A-D2F03672EAFB}\" s:ph=\"/page-layout/section-narrow/col-wide-2_72ea8864-7129-4d5f-a953-1af281f5691f\" /><r uid=\"{72EA8864-7129-4D5F-A953-1AF281F5691F}\" p:after=\"r[@uid='{C76A2513-B2CA-48B4-A4A0-989176D2F799}']\" s:id=\"{50F6052C-4FC2-4AA6-9399-FFC6055CF19F}\" s:ph=\"/page-layout/section-narrow\" /></d></r>",
+        "FieldType": "Layout",
+        "FieldId": "{04BF00DB-F5FB-41F7-8AB7-22408372A981}"
+      },
+      "__updatedby": {
+        "Value": "sitecore\\unicorn",
+        "FieldType": "text",
+        "FieldId": "{BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}"
+      },
+      "__revision": {
+        "Value": "bedba8ff-6885-4c0f-bc15-c43ef7023650",
+        "FieldType": "text",
+        "FieldId": "{8CDC337E-A112-42FB-BBB4-4143751E123F}"
+      },
+      "navigationtitle": {
+        "Value": "News",
+        "FieldType": "Single-Line Text",
+        "FieldId": "{1B483E91-D8C4-4D19-BA03-462074B55936}"
+      },
+      "summary": {
+        "Value": "The News module contains news functionality including lists, articles and teasers.",
+        "FieldType": "Rich Text",
+        "FieldId": "{AC3FD4DB-8266-476D-9635-67814D91E901}"
+      },
+      "browsertitle": {
+        "Value": "News",
+        "FieldType": "Single-Line Text",
+        "FieldId": "{CA0479CE-0BFE-4522-83DE-BA688B380A78}"
+      },
+      "body": {
+        "Value": "The News module contains features related to news content, i.e. articles and lists.<br>\r\n<a href=\"~/link.aspx?_id=439EC71A423145C8B075975BD41099A7&_z=z\">See the news list here. </a>",
+        "FieldType": "Rich Text",
+        "FieldId": "{D74F396D-5C5E-4916-BD0A-BFD58B6B1967}"
+      },
+      "__created": {
+        "Value": "20151008T041914Z",
+        "FieldType": "datetime",
+        "FieldId": "{25BED78C-4957-4165-998A-CA1B52F67497}"
+      },
+      "__updated": {
+        "Value": "20170613T063156Z",
+        "FieldType": "datetime",
+        "FieldId": "{D9CF14B1-FA16-4BA6-9288-E8A174D4D522}"
+      },
+      "image": {
+        "Value": {
+          "Name": "Habitat-041-square",
+          "Id": "{E8F78F17-7440-4D1C-A29B-A0AD2F80CC88}",
+          "Extension": "jpg",
+          "BlobId": "{D0CBA1D1-3737-492E-9AE3-FEA234D9B176}"
+        },
+        "FieldType": "Image",
+        "FieldId": "{9492E0BB-9DF9-46E7-8188-EC795C4ADE44}"
+      },
+      "__masters": {
+        "Value": "{94A8C8E9-690B-4E65-98E7-F95800222767}|{8FF3D369-A508-4D2F-84A5-9B6C6BF5E537}|{467C2144-4454-4518-B1DE-E31B4CBBFF33}|{A99866E5-08E7-44D8-8A52-F8E26BCD3714}",
+        "FieldType": "TreelistEx",
+        "FieldId": "{1172F251-DAD4-4EFB-A329-0C63500E4F1E}"
+      }
+    },
+    {
+      "SourceId": "{F2287759-9F34-4564-8744-46365526ED17}",
+      "SourceItemPath": "\\sitecore\\content\\Habitat\\Home\\Modules\\Feature\\Page Content",
+      "title": {
+        "Value": "Page Content",
+        "FieldType": "Single-Line Text",
+        "FieldId": "{C30A013F-3CC8-4961-9837-1C483277084A}"
+      },
+      "__updatedby": {
+        "Value": "sitecore\\unicorn",
+        "FieldType": "text",
+        "FieldId": "{BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}"
+      },
+      "__revision": {
+        "Value": "0204ae8e-4791-40c3-a272-dc64053b53d6",
+        "FieldType": "text",
+        "FieldId": "{8CDC337E-A112-42FB-BBB4-4143751E123F}"
+      },
+      "navigationtitle": {
+        "Value": "Page Content",
+        "FieldType": "Single-Line Text",
+        "FieldId": "{1B483E91-D8C4-4D19-BA03-462074B55936}"
+      },
+      "summary": {
+        "Value": "Page Content contains the functionality and content for basic article style pages, including page title, body text etc.",
+        "FieldType": "Rich Text",
+        "FieldId": "{AC3FD4DB-8266-476D-9635-67814D91E901}"
+      },
+      "browsertitle": {
+        "Value": "Page Content",
+        "FieldType": "Single-Line Text",
+        "FieldId": "{CA0479CE-0BFE-4522-83DE-BA688B380A78}"
+      },
+      "body": {
+        "Value": "<p><span style=\"line-height: 24.2857px;\">Page Content contains the functionality and content for basic article style pages. This include:</span></p>\r\n<ul>\r\n    <li><span style=\"line-height: 24.2857px;\">Page title</span></li>\r\n    <li><span style=\"line-height: 24.2857px;\">body text</span></li>\r\n    <li><span style=\"line-height: 24.2857px;\">Summary</span></li>\r\n    <li><span style=\"line-height: 24.2857px;\">Page Image</span></li>\r\n</ul>\r\nThis page you are currently looking at draws its primary content from the Page Content module.",
+        "FieldType": "Rich Text",
+        "FieldId": "{D74F396D-5C5E-4916-BD0A-BFD58B6B1967}"
+      },
+      "__created": {
+        "Value": "20151116T023636Z",
+        "FieldType": "datetime",
+        "FieldId": "{25BED78C-4957-4165-998A-CA1B52F67497}"
+      },
+      "__updated": {
+        "Value": "20170613T063156Z",
+        "FieldType": "datetime",
+        "FieldId": "{D9CF14B1-FA16-4BA6-9288-E8A174D4D522}"
+      },
+      "image": {
+        "Value": {
+          "Name": "Habitat-035-square",
+          "Id": "{2F449159-2E4A-4642-A50E-6D15A1510C1F}",
+          "Extension": "jpg",
+          "BlobId": "{6C0CFB85-EEE7-4FBA-949A-4D9A9E701164}"
+        },
+        "FieldType": "Image",
+        "FieldId": "{9492E0BB-9DF9-46E7-8188-EC795C4ADE44}"
+      }
+    },
+    {
+      "SourceId": "{CAC2E25B-3A13-4E1B-AB8C-5B71FD613077}",
+      "SourceItemPath": "\\sitecore\\content\\Habitat\\Home\\Modules\\Feature\\Person",
+      "title": {
+        "Value": "Person",
+        "FieldType": "Single-Line Text",
+        "FieldId": "{C30A013F-3CC8-4961-9837-1C483277084A}"
+      },
+      "__finalrenderings": {
+        "Value": "<r xmlns:p=\"p\" xmlns:s=\"s\" p:p=\"1\" s:xsd=\"http://www.w3.org/2001/XMLSchema\"><d id=\"{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}\"><r uid=\"{C537F478-CE17-4868-86C9-C2CF901B9094}\" p:before=\"*\" s:ds=\"{50A4942D-C644-4AD9-8452-78BD786C48A2}\" s:id=\"{7B7DD1F9-A0DB-45D9-9A3F-B704BB28903E}\" s:ph=\"/page-layout/section-narrow/col-wide-1_cb65dff5-6265-4d54-9166-8971aa1c72da\" /><r uid=\"{336339FD-F457-42D4-BCF6-0724BFB3EBA4}\" p:after=\"r[@uid='{C537F478-CE17-4868-86C9-C2CF901B9094}']\" s:ds=\"{F0519E91-3B1E-47B0-91C0-710C6DF5AD34}\" s:id=\"{EBB6DC33-F281-49BE-B273-29ECCD6085A8}\" s:ph=\"/page-layout/section-narrow/col-wide-1_161b8d27-ea7c-4dc2-a3d0-793116476ebf\" /><r uid=\"{5F98D356-A982-4811-9BBB-377260257043}\" p:after=\"r[@uid='{336339FD-F457-42D4-BCF6-0724BFB3EBA4}']\" s:ds=\"{779041C8-F089-4E63-A054-D718F42EE16D}\" s:id=\"{A1AD34DD-535E-47AF-A911-34C57CCC26F6}\" s:ph=\"/page-layout/section-narrow/col-narrow-1_161b8d27-ea7c-4dc2-a3d0-793116476ebf\" /><r uid=\"{161B8D27-EA7C-4DC2-A3D0-793116476EBF}\" p:after=\"r[@uid='{5F98D356-A982-4811-9BBB-377260257043}']\" s:id=\"{831876B6-F9F1-463E-9DD5-7F93F1640590}\" s:ph=\"/page-layout/section-narrow\" /><r uid=\"{CB65DFF5-6265-4D54-9166-8971AA1C72DA}\" p:after=\"r[@uid='{161B8D27-EA7C-4DC2-A3D0-793116476EBF}']\" s:id=\"{45CE489D-FA30-473E-9751-142BD06CCB33}\" s:ph=\"/page-layout/section-narrow\" /><r uid=\"{2A208CAB-AD2B-4DF0-9C7A-EAC1552D8001}\" p:after=\"r[@uid='{565F9960-4E47-4DA4-9406-0A29DD09911F}']\" s:ds=\"{6169D2C5-0C44-42AA-9CA7-DC5AACBF7029}\" s:id=\"{EE5A9F3D-C2CB-4710-8053-04D1A7135EBE}\" s:ph=\"/page-layout/col-wide-1\" /><r uid=\"{4841D21D-4A27-4D46-A345-F5D9C5A8CF72}\" p:after=\"r[@uid='{2A208CAB-AD2B-4DF0-9C7A-EAC1552D8001}']\" s:ds=\"{CAC2E25B-3A13-4E1B-AB8C-5B71FD613077}\" s:id=\"{D0B4FD9F-3AEE-4AD7-BBC4-F37F0A1A3309}\" s:par=\"SearchResultsLimit=10\" s:ph=\"/page-layout/col-wide-1\" /><r uid=\"{78FADC05-200F-418F-AFDF-9ACADC8D784F}\" p:after=\"r[@uid='{4841D21D-4A27-4D46-A345-F5D9C5A8CF72}']\" s:ds=\"{B462BF38-CBF6-42BB-A822-BB7F29C8AF26}\" s:id=\"{EE5A9F3D-C2CB-4710-8053-04D1A7135EBE}\" s:ph=\"/page-layout/col-wide-1\" /></d></r>",
+        "FieldType": "Layout",
+        "FieldId": "{04BF00DB-F5FB-41F7-8AB7-22408372A981}"
+      },
+      "__updatedby": {
+        "Value": "sitecore\\unicorn",
+        "FieldType": "text",
+        "FieldId": "{BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}"
+      },
+      "__revision": {
+        "Value": "4be84a07-4db4-456b-92e7-ee532d8bf245",
+        "FieldType": "text",
+        "FieldId": "{8CDC337E-A112-42FB-BBB4-4143751E123F}"
+      },
+      "navigationtitle": {
+        "Value": "Person",
+        "FieldType": "Single-Line Text",
+        "FieldId": "{1B483E91-D8C4-4D19-BA03-462074B55936}"
+      },
+      "summary": {
+        "Value": "The Person module contains person-related functionality and content, e.g. employee pages, personal contact info and quotes.",
+        "FieldType": "Rich Text",
+        "FieldId": "{AC3FD4DB-8266-476D-9635-67814D91E901}"
+      },
+      "browsertitle": {
+        "Value": "Person",
+        "FieldType": "Single-Line Text",
+        "FieldId": "{CA0479CE-0BFE-4522-83DE-BA688B380A78}"
+      },
+      "body": {
+        "Value": "<span style=\"line-height: 24.2857px;\">The Person module contains person-related functionality and content, e.g. employee pages, personal contact info and quotes.</span>",
+        "FieldType": "Rich Text",
+        "FieldId": "{D74F396D-5C5E-4916-BD0A-BFD58B6B1967}"
+      },
+      "__created": {
+        "Value": "20151130T234428Z",
+        "FieldType": "datetime",
+        "FieldId": "{25BED78C-4957-4165-998A-CA1B52F67497}"
+      },
+      "__updated": {
+        "Value": "20170613T063156Z",
+        "FieldType": "datetime",
+        "FieldId": "{D9CF14B1-FA16-4BA6-9288-E8A174D4D522}"
+      },
+      "image": {
+        "Value": {
+          "Name": "Habitat-042-square",
+          "Id": "{B00F14C3-62DA-4568-AFC8-91AA8F75229A}",
+          "Extension": "jpg",
+          "BlobId": "{6D0ECFEC-6831-4D57-9B7F-16AF149669AF}"
+        },
+        "FieldType": "Image",
+        "FieldId": "{9492E0BB-9DF9-46E7-8188-EC795C4ADE44}"
+      }
+    },
+    {
+      "SourceId": "{83458BD1-1B73-4EA4-AABB-8E6AA4B40EF1}",
+      "SourceItemPath": "\\sitecore\\content\\Habitat\\Home\\Modules\\Feature\\Search",
+      "title": {
+        "Value": "Search",
+        "FieldType": "Single-Line Text",
+        "FieldId": "{C30A013F-3CC8-4961-9837-1C483277084A}"
+      },
+      "__updatedby": {
+        "Value": "sitecore\\unicorn",
+        "FieldType": "text",
+        "FieldId": "{BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}"
+      },
+      "__revision": {
+        "Value": "7520869e-ed4b-4a5f-8077-0a73c34d5a50",
+        "FieldType": "text",
+        "FieldId": "{8CDC337E-A112-42FB-BBB4-4143751E123F}"
+      },
+      "navigationtitle": {
+        "Value": "Search",
+        "FieldType": "Single-Line Text",
+        "FieldId": "{1B483E91-D8C4-4D19-BA03-462074B55936}"
+      },
+      "summary": {
+        "Value": "The visual components for search functionality on the website is contained in the Search module.",
+        "FieldType": "Rich Text",
+        "FieldId": "{AC3FD4DB-8266-476D-9635-67814D91E901}"
+      },
+      "browsertitle": {
+        "Value": "Search",
+        "FieldType": "Single-Line Text",
+        "FieldId": "{CA0479CE-0BFE-4522-83DE-BA688B380A78}"
+      },
+      "body": {
+        "Value": "<p><span style=\"line-height: 24.2857px;\">The visual components for search functionality on the website is contained in the Search module. This includes:</span></p>\r\n<ul>\r\n    <li><span style=\"line-height: 24.2857px;\">Global search box</span></li>\r\n    <li><span style=\"line-height: 24.2857px;\">Search results</span></li>\r\n    <li><span style=\"line-height: 24.2857px;\">Search facets</span></li>\r\n</ul>\r\n<p><span style=\"line-height: 24.2857px;\">The search module uses the <a href=\"~/link.aspx?_id=F313739414884E72BDAF23C1EAAE0A83&amp;_z=z\">Foundation.Indexing</a> module to execute the actual search.</span></p>",
+        "FieldType": "Rich Text",
+        "FieldId": "{D74F396D-5C5E-4916-BD0A-BFD58B6B1967}"
+      },
+      "__created": {
+        "Value": "20151116T023644Z",
+        "FieldType": "datetime",
+        "FieldId": "{25BED78C-4957-4165-998A-CA1B52F67497}"
+      },
+      "__updated": {
+        "Value": "20170613T063156Z",
+        "FieldType": "datetime",
+        "FieldId": "{D9CF14B1-FA16-4BA6-9288-E8A174D4D522}"
+      },
+      "image": {
+        "Value": {
+          "Name": "Habitat-010-square",
+          "Id": "{1C842036-A0D0-444C-A2AD-795FAF33EF42}",
+          "Extension": "jpg",
+          "BlobId": "{3277EAFD-6451-48A1-8A2A-38199908F228}"
+        },
+        "FieldType": "Image",
+        "FieldId": "{9492E0BB-9DF9-46E7-8188-EC795C4ADE44}"
+      }
+    },
+    {
+      "SourceId": "{29118C22-B3C0-43E8-8E12-A80BC99E008F}",
+      "SourceItemPath": "\\sitecore\\content\\Habitat\\Home\\Modules\\Feature\\Social",
+      "title": {
+        "Value": "Social",
+        "FieldType": "Single-Line Text",
+        "FieldId": "{C30A013F-3CC8-4961-9837-1C483277084A}"
+      },
+      "__finalrenderings": {
+        "Value": "<r xmlns:p=\"p\" xmlns:s=\"s\" p:p=\"1\" s:xsd=\"http://www.w3.org/2001/XMLSchema\"><d id=\"{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}\"><r uid=\"{EFDC23BE-86F5-47C5-B86A-48BC7B4D37CF}\" p:before=\"*\" s:ds=\"{98E48045-DFC7-4A70-9BED-5C40AB6558A6}\" s:id=\"{0CF58F14-D0F8-4C41-9896-3D69048A0B19}\" s:par=\"Background={BD2F308A-E00A-4372-ADBB-BD64712A54FA}&amp;TweetsToShow=2\" s:ph=\"/page-layout/section-narrow/col-narrow-1_9c668f15-14eb-4736-9acb-eb2b9e0812a7\" /><r uid=\"{9C668F15-14EB-4736-9ACB-EB2B9E0812A7}\" p:after=\"r[@uid='{EFDC23BE-86F5-47C5-B86A-48BC7B4D37CF}']\" s:id=\"{831876B6-F9F1-463E-9DD5-7F93F1640590}\" s:ph=\"/page-layout/section-narrow\" /><r uid=\"{47F5A079-6F63-4219-BC45-1A221B200906}\" s:par=\"Background={22EFB258-62F5-4B49-9D7E-DE07F70C9F37}\" /><r uid=\"{84124EE2-E678-4144-8316-0D6874866604}\" s:par=\"Background={22EFB258-62F5-4B49-9D7E-DE07F70C9F37}\" /></d></r>",
+        "FieldType": "Layout",
+        "FieldId": "{04BF00DB-F5FB-41F7-8AB7-22408372A981}"
+      },
+      "__updatedby": {
+        "Value": "sitecore\\unicorn",
+        "FieldType": "text",
+        "FieldId": "{BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}"
+      },
+      "__revision": {
+        "Value": "41c982a8-81d6-4f33-8790-0fd5d49731ad",
+        "FieldType": "text",
+        "FieldId": "{8CDC337E-A112-42FB-BBB4-4143751E123F}"
+      },
+      "navigationtitle": {
+        "Value": "Social",
+        "FieldType": "Single-Line Text",
+        "FieldId": "{1B483E91-D8C4-4D19-BA03-462074B55936}"
+      },
+      "summary": {
+        "Value": "The social modules contains components and functionality related to social media",
+        "FieldType": "Rich Text",
+        "FieldId": "{AC3FD4DB-8266-476D-9635-67814D91E901}"
+      },
+      "browsertitle": {
+        "Value": "Social",
+        "FieldType": "Single-Line Text",
+        "FieldId": "{CA0479CE-0BFE-4522-83DE-BA688B380A78}"
+      },
+      "body": {
+        "Value": "<p><span style=\"line-height: 24.2857px;\">The social modules contains components and functionality related to social media such as Facebook, Twitter etc.</span></p>\r\n<p><span style=\"line-height: 24.2857px;\">Amongst others the module include the OpenGraph metadata and twitter feed components.</span></p>",
+        "FieldType": "Rich Text",
+        "FieldId": "{D74F396D-5C5E-4916-BD0A-BFD58B6B1967}"
+      },
+      "__created": {
+        "Value": "20151116T023652Z",
+        "FieldType": "datetime",
+        "FieldId": "{25BED78C-4957-4165-998A-CA1B52F67497}"
+      },
+      "__updated": {
+        "Value": "20170613T063156Z",
+        "FieldType": "datetime",
+        "FieldId": "{D9CF14B1-FA16-4BA6-9288-E8A174D4D522}"
+      },
+      "image": {
+        "Value": {
+          "Name": "Habitat-030-square",
+          "Id": "{45D3C3F1-FBF9-498E-B3D1-DE9C923D477C}",
+          "Extension": "jpg",
+          "BlobId": "{B85A8A0A-EE14-4832-ADE1-BAEC86BD9A1B}"
+        },
+        "FieldType": "Image",
+        "FieldId": "{9492E0BB-9DF9-46E7-8188-EC795C4ADE44}"
+      }
+    },
+    {
+      "SourceId": "{45665B10-7165-4C6C-9FA1-8A14238DA71A}",
+      "SourceItemPath": "\\sitecore\\content\\Habitat\\Home\\Modules\\Feature\\Teasers",
+      "title": {
+        "Value": "Teasers",
+        "FieldType": "Single-Line Text",
+        "FieldId": "{C30A013F-3CC8-4961-9837-1C483277084A}"
+      },
+      "__finalrenderings": {
+        "Value": "<r xmlns:p=\"p\" xmlns:s=\"s\" p:p=\"1\" s:xsd=\"http://www.w3.org/2001/XMLSchema\"><d id=\"{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}\"><r uid=\"{32F739AD-915B-4C77-AB83-2B5DF4B7B2E1}\" p:before=\"*\" s:ds=\"{EF593C2A-F3F8-421A-9368-0E189A689DBD}\" s:id=\"{A25C9850-AAB7-46A6-84B7-0DFAB32FC357}\" s:ph=\"/page-layout/section-narrow/col-wide-1_e708ae33-d9a4-4129-a589-22c67ebc0c55/jumbotron-placeholder-3_51bafb69-2e76-4e94-bb2b-0d851cf43c90\" /><r uid=\"{51ADC668-ACF8-436B-81CC-0558987CA9CA}\" p:after=\"r[@uid='{32F739AD-915B-4C77-AB83-2B5DF4B7B2E1}']\" s:ds=\"{6086F621-4A0E-4724-9D6F-EA7BA8139F57}\" s:id=\"{A25C9850-AAB7-46A6-84B7-0DFAB32FC357}\" s:ph=\"/page-layout/section-narrow/col-wide-1_e708ae33-d9a4-4129-a589-22c67ebc0c55/jumbotron-placeholder-2_51bafb69-2e76-4e94-bb2b-0d851cf43c90\" /><r uid=\"{6BD9C744-A15B-4F40-8275-05E293366C8D}\" p:after=\"r[@uid='{51ADC668-ACF8-436B-81CC-0558987CA9CA}']\" s:ds=\"{8ABB8E75-E21C-4667-B277-C125B8E3A01F}\" s:id=\"{A25C9850-AAB7-46A6-84B7-0DFAB32FC357}\" s:ph=\"/page-layout/section-narrow/col-wide-1_e708ae33-d9a4-4129-a589-22c67ebc0c55/jumbotron-placeholder-1_51bafb69-2e76-4e94-bb2b-0d851cf43c90\" /><r uid=\"{F02C576B-2B13-4AB6-97F8-33C27C6502EA}\" p:after=\"r[@uid='{6BD9C744-A15B-4F40-8275-05E293366C8D}']\" s:ds=\"{6086F621-4A0E-4724-9D6F-EA7BA8139F57}\" s:id=\"{E47303E0-90FD-4E81-B2B5-CA4E8C1C36B4}\" s:par=\"Background\" s:ph=\"/page-layout/section-narrow/col-narrow-1_5bf951c3-3bb6-4b6f-9212-253a4f5d08f4\" /><r uid=\"{24407194-16C9-40CB-95E5-44397D27FF2E}\" p:after=\"r[@uid='{F02C576B-2B13-4AB6-97F8-33C27C6502EA}']\" s:ds=\"{6138F4D2-A677-4461-9693-C5341D8A0DC1}\" s:id=\"{EE5A9F3D-C2CB-4710-8053-04D1A7135EBE}\" s:par=\"Background\" s:ph=\"/page-layout/section-narrow/col-wide-1_5d02a969-9548-45bd-b06d-4c3638316c11\" /><r uid=\"{1C3D8F97-6326-4DDD-B98E-4BEDA86FF3C1}\" p:after=\"r[@uid='{24407194-16C9-40CB-95E5-44397D27FF2E}']\" s:ds=\"{D0817598-184D-4BFB-9740-28C0E8E80F23}\" s:id=\"{A25C9850-AAB7-46A6-84B7-0DFAB32FC357}\" s:par=\"Background={EFA6AD59-AE21-4524-90F8-A92440B869AF}\" s:ph=\"/page-layout/section-narrow/col-wide-1_5d02a969-9548-45bd-b06d-4c3638316c11\" /><r uid=\"{758C50FE-C477-4A0B-B0BE-68C4FE4F78ED}\" p:after=\"r[@uid='{1C3D8F97-6326-4DDD-B98E-4BEDA86FF3C1}']\" s:ds=\"{8ABB8E75-E21C-4667-B277-C125B8E3A01F}\" s:id=\"{A25C9850-AAB7-46A6-84B7-0DFAB32FC357}\" s:ph=\"/page-layout/section-narrow/col-wide-1_5d02a969-9548-45bd-b06d-4c3638316c11\" /><r uid=\"{0A661311-F4AC-4C22-970F-2016E48FBECF}\" p:after=\"r[@uid='{758C50FE-C477-4A0B-B0BE-68C4FE4F78ED}']\" s:ds=\"{EF593C2A-F3F8-421A-9368-0E189A689DBD}\" s:id=\"{781C6B36-4B02-46EA-8ADC-B92A11877F10}\" s:ph=\"/page-layout/section-narrow/col-wide-1_e708ae33-d9a4-4129-a589-22c67ebc0c55/teaser-placeholder-6_c4d9deac-c4dd-457d-8a66-59fddd053f31\" /><r uid=\"{029F9CF8-6E85-485E-A4B9-3881B73EF629}\" p:after=\"r[@uid='{0A661311-F4AC-4C22-970F-2016E48FBECF}']\" s:ds=\"{EF593C2A-F3F8-421A-9368-0E189A689DBD}\" s:id=\"{781C6B36-4B02-46EA-8ADC-B92A11877F10}\" s:ph=\"/page-layout/section-narrow/col-wide-1_e708ae33-d9a4-4129-a589-22c67ebc0c55/teaser-placeholder-1_c4d9deac-c4dd-457d-8a66-59fddd053f31\" /><r uid=\"{9500524A-E3F8-4C66-8BB1-D085CE651AD5}\" p:after=\"r[@uid='{029F9CF8-6E85-485E-A4B9-3881B73EF629}']\" s:ds=\"{6086F621-4A0E-4724-9D6F-EA7BA8139F57}\" s:id=\"{FDFCD088-3C9E-49C4-97FF-2DDE5D339BA0}\" s:ph=\"/page-layout/section-narrow/col-wide-1_e708ae33-d9a4-4129-a589-22c67ebc0c55/teaser-placeholder-3_c4d9deac-c4dd-457d-8a66-59fddd053f31\" /><r uid=\"{E0F87B4B-7A2A-4807-8F06-182F9AD00CC2}\" p:after=\"r[@uid='{9500524A-E3F8-4C66-8BB1-D085CE651AD5}']\" s:ds=\"{8ABB8E75-E21C-4667-B277-C125B8E3A01F}\" s:id=\"{E47303E0-90FD-4E81-B2B5-CA4E8C1C36B4}\" s:ph=\"/page-layout/section-narrow/col-wide-1_e708ae33-d9a4-4129-a589-22c67ebc0c55/teaser-placeholder-2_c4d9deac-c4dd-457d-8a66-59fddd053f31\" /><r uid=\"{9119D21D-6767-4E69-996B-BD5DD9074A76}\" p:after=\"r[@uid='{E0F87B4B-7A2A-4807-8F06-182F9AD00CC2}']\" s:ds=\"{6086F621-4A0E-4724-9D6F-EA7BA8139F57}\" s:id=\"{FDFCD088-3C9E-49C4-97FF-2DDE5D339BA0}\" s:ph=\"/page-layout/section-narrow/col-wide-1_e708ae33-d9a4-4129-a589-22c67ebc0c55/teaser-placeholder-5_c4d9deac-c4dd-457d-8a66-59fddd053f31\" /><r uid=\"{408F2E6C-7DA6-43E2-969F-BF354CCF3721}\" p:after=\"r[@uid='{9119D21D-6767-4E69-996B-BD5DD9074A76}']\" s:ds=\"{8ABB8E75-E21C-4667-B277-C125B8E3A01F}\" s:id=\"{781C6B36-4B02-46EA-8ADC-B92A11877F10}\" s:ph=\"/page-layout/section-narrow/col-wide-1_e708ae33-d9a4-4129-a589-22c67ebc0c55/teaser-placeholder-4_c4d9deac-c4dd-457d-8a66-59fddd053f31\" /><r uid=\"{0A82E316-8CDF-42E3-A449-242F1D948DE2}\" p:after=\"r[@uid='{408F2E6C-7DA6-43E2-969F-BF354CCF3721}']\" s:ds=\"{8ABB8E75-E21C-4667-B277-C125B8E3A01F}\" s:id=\"{A25C9850-AAB7-46A6-84B7-0DFAB32FC357}\" s:ph=\"/page-layout/section-narrow/col-wide-1_e708ae33-d9a4-4129-a589-22c67ebc0c55/teaser-placeholder-1_9226035a-b087-4c41-9c4c-9528bef1f43a\" /><r uid=\"{778C9C89-67E4-47DE-8C4C-FDB57D7352C5}\" p:after=\"r[@uid='{0A82E316-8CDF-42E3-A449-242F1D948DE2}']\" s:ds=\"{6086F621-4A0E-4724-9D6F-EA7BA8139F57}\" s:id=\"{A25C9850-AAB7-46A6-84B7-0DFAB32FC357}\" s:ph=\"/page-layout/section-narrow/col-wide-1_e708ae33-d9a4-4129-a589-22c67ebc0c55/teaser-placeholder-2_9226035a-b087-4c41-9c4c-9528bef1f43a\" /><r uid=\"{99FB9BC4-0140-436C-9C71-A5D31AE00017}\" p:after=\"r[@uid='{778C9C89-67E4-47DE-8C4C-FDB57D7352C5}']\" s:ds=\"{EF593C2A-F3F8-421A-9368-0E189A689DBD}\" s:id=\"{A25C9850-AAB7-46A6-84B7-0DFAB32FC357}\" s:par=\"Background&amp;Fixed height\" s:ph=\"/page-layout/section-narrow/col-wide-1_e708ae33-d9a4-4129-a589-22c67ebc0c55/teaser-placeholder-3_9226035a-b087-4c41-9c4c-9528bef1f43a\" /><r uid=\"{89494F03-F73C-4A9C-AAF7-192305C052B3}\" p:after=\"r[@uid='{99FB9BC4-0140-436C-9C71-A5D31AE00017}']\" s:ds=\"{EC545DC1-F12B-4B22-8FEB-7F0A4211C0E8}\" s:id=\"{F49C9252-47F3-406B-B311-E26EE4D1149B}\" s:ph=\"/page-layout/section-narrow/col-wide-1_e708ae33-d9a4-4129-a589-22c67ebc0c55/teaser-placeholder-2_8f8d0c2e-6729-4a0a-823d-e243f301e3b8\" /><r uid=\"{82667027-03A3-4D26-80B5-B4F68A0D2742}\" p:after=\"r[@uid='{89494F03-F73C-4A9C-AAF7-192305C052B3}']\" s:ds=\"{69CF65FB-F46E-4038-BBFB-66695B9178E4}\" s:id=\"{F49C9252-47F3-406B-B311-E26EE4D1149B}\" s:ph=\"/page-layout/section-narrow/col-wide-1_e708ae33-d9a4-4129-a589-22c67ebc0c55/teaser-placeholder-1_8f8d0c2e-6729-4a0a-823d-e243f301e3b8\" /><r uid=\"{5A51E950-8884-47A3-8D4C-A9ACA692D706}\" p:after=\"r[@uid='{82667027-03A3-4D26-80B5-B4F68A0D2742}']\" s:ds=\"{C713612D-6BC5-4E7A-945C-D532F2D2A9CD}\" s:id=\"{EE5A9F3D-C2CB-4710-8053-04D1A7135EBE}\" s:par=\"Background\" s:ph=\"/page-layout/section-narrow/col-wide-1_d213b075-9e03-42ba-b241-48a5e46af98d\" /><r uid=\"{D213B075-9E03-42BA-B241-48A5E46AF98D}\" p:after=\"r[@uid='{5A51E950-8884-47A3-8D4C-A9ACA692D706}']\" s:id=\"{03112E88-1499-4132-9D5F-E213AFD2019C}\" s:ph=\"/page-layout/section-narrow\" /><r uid=\"{91757D6D-5156-45F9-95FC-B863CA4640F1}\" p:after=\"r[@uid='{D213B075-9E03-42BA-B241-48A5E46AF98D}']\" s:ds=\"{111A5B15-8BBE-49CB-8965-1ADBF29F411E}\" s:id=\"{EE5A9F3D-C2CB-4710-8053-04D1A7135EBE}\" s:par=\"Background\" s:ph=\"/page-layout/section-narrow/col-wide-1_e708ae33-d9a4-4129-a589-22c67ebc0c55\" /><r uid=\"{8F8D0C2E-6729-4A0A-823D-E243F301E3B8}\" p:after=\"r[@uid='{91757D6D-5156-45F9-95FC-B863CA4640F1}']\" s:ds=\"{1CE39F86-2F0B-4F4C-B94D-8EC78A04A827}\" s:id=\"{DDC6F993-6689-432E-90C7-B2865947DFD5}\" s:par=\"titles=Extensibility|Flexibility|Simplicity\" s:ph=\"/page-layout/section-narrow/col-wide-1_e708ae33-d9a4-4129-a589-22c67ebc0c55\" /><r uid=\"{33A9EFDB-288A-460B-AAD6-7015FA7044CC}\" p:after=\"r[@uid='{8F8D0C2E-6729-4A0A-823D-E243F301E3B8}']\" s:ds=\"{78C1D681-49B3-4D6B-956A-FAC2030D0E3D}\" s:id=\"{EE5A9F3D-C2CB-4710-8053-04D1A7135EBE}\" s:par=\"Background\" s:ph=\"/page-layout/section-narrow/col-wide-1_e708ae33-d9a4-4129-a589-22c67ebc0c55\" /><r uid=\"{9226035A-B087-4C41-9C4C-9528BEF1F43A}\" p:after=\"r[@uid='{33A9EFDB-288A-460B-AAD6-7015FA7044CC}']\" s:ds=\"{1CE39F86-2F0B-4F4C-B94D-8EC78A04A827}\" s:id=\"{AB7270E4-9B87-4A24-94B0-B98C216B9F03}\" s:ph=\"/page-layout/section-narrow/col-wide-1_e708ae33-d9a4-4129-a589-22c67ebc0c55\" /><r uid=\"{BEF998C7-CDA3-48AB-BEB1-CC23C594B7D1}\" p:after=\"r[@uid='{9226035A-B087-4C41-9C4C-9528BEF1F43A}']\" s:ds=\"{842F4BFE-9900-4DE9-B37D-C510A2AA64BD}\" s:id=\"{EE5A9F3D-C2CB-4710-8053-04D1A7135EBE}\" s:par=\"Background={22EFB258-62F5-4B49-9D7E-DE07F70C9F37}\" s:ph=\"/page-layout/section-narrow/col-wide-1_e708ae33-d9a4-4129-a589-22c67ebc0c55\" /><r uid=\"{C4D9DEAC-C4DD-457D-8A66-59FDDD053F31}\" p:after=\"r[@uid='{BEF998C7-CDA3-48AB-BEB1-CC23C594B7D1}']\" s:ds=\"{E2D7D0EE-0B30-43C6-B509-9ED69ABF36F0}\" s:id=\"{5D35C31F-0770-4498-BAB8-C88BEF41F153}\" s:ph=\"/page-layout/section-narrow/col-wide-1_e708ae33-d9a4-4129-a589-22c67ebc0c55\" /><r uid=\"{AFACF538-E4F1-4172-8C9D-EF5F1BB17665}\" p:after=\"r[@uid='{C4D9DEAC-C4DD-457D-8A66-59FDDD053F31}']\" s:ds=\"{83DD330D-9CF3-4D73-8EA9-BDD812CF5A7D}\" s:id=\"{EE5A9F3D-C2CB-4710-8053-04D1A7135EBE}\" s:par=\"Background={22EFB258-62F5-4B49-9D7E-DE07F70C9F37}\" s:ph=\"/page-layout/section-narrow/col-wide-1_e708ae33-d9a4-4129-a589-22c67ebc0c55\" /><r uid=\"{51BAFB69-2E76-4E94-BB2B-0D851CF43C90}\" p:after=\"r[@uid='{AFACF538-E4F1-4172-8C9D-EF5F1BB17665}']\" s:ds=\"{E1A22712-D965-4F2D-BB6C-23AEEC7CCB27}\" s:id=\"{2A750168-7DBE-4995-B609-B08963579EB3}\" s:par=\"Fixed height=1\" s:ph=\"/page-layout/section-narrow/col-wide-1_e708ae33-d9a4-4129-a589-22c67ebc0c55\" /><r uid=\"{32253AB5-28DC-4C2A-8BA4-EB237D10E423}\" p:after=\"r[@uid='{51BAFB69-2E76-4E94-BB2B-0D851CF43C90}']\" s:ds=\"{6086F621-4A0E-4724-9D6F-EA7BA8139F57}\" s:id=\"{781C6B36-4B02-46EA-8ADC-B92A11877F10}\" s:par=\"Background={BD2F308A-E00A-4372-ADBB-BD64712A54FA}\" s:ph=\"/page-layout/section-narrow/col-wide-1_5bf951c3-3bb6-4b6f-9212-253a4f5d08f4\" /><r uid=\"{D64CB575-D3AE-47AD-9E4C-487DC0C421E9}\" p:after=\"r[@uid='{32253AB5-28DC-4C2A-8BA4-EB237D10E423}']\" s:ds=\"{6086F621-4A0E-4724-9D6F-EA7BA8139F57}\" s:id=\"{FDFCD088-3C9E-49C4-97FF-2DDE5D339BA0}\" s:ph=\"/page-layout/section-narrow/col-wide-1_5bf951c3-3bb6-4b6f-9212-253a4f5d08f4\" /><r uid=\"{72C21C89-2C50-4609-AD32-D6A858BD20A4}\" p:after=\"r[@uid='{D64CB575-D3AE-47AD-9E4C-487DC0C421E9}']\" s:ds=\"{12CFA7C1-B5BD-4C99-B6F4-221423F2E0E1}\" s:id=\"{F49C9252-47F3-406B-B311-E26EE4D1149B}\" s:ph=\"/page-layout/section-narrow/col-wide-1_e708ae33-d9a4-4129-a589-22c67ebc0c55/teaser-placeholder-3_8f8d0c2e-6729-4a0a-823d-e243f301e3b8\" /><r uid=\"{B57ABCED-2317-46AF-AEB5-96BDA857BDEA}\" p:after=\"r[@uid='{72C21C89-2C50-4609-AD32-D6A858BD20A4}']\" s:ds=\"{EF593C2A-F3F8-421A-9368-0E189A689DBD}\" s:id=\"{E47303E0-90FD-4E81-B2B5-CA4E8C1C36B4}\" s:par=\"Background={EFA6AD59-AE21-4524-90F8-A92440B869AF}\" s:ph=\"/page-layout/section-narrow/col-narrow-1_5bf951c3-3bb6-4b6f-9212-253a4f5d08f4\" /><r uid=\"{5BF951C3-3BB6-4B6F-9212-253A4F5D08F4}\" p:after=\"r[@uid='{B57ABCED-2317-46AF-AEB5-96BDA857BDEA}']\" s:id=\"{831876B6-F9F1-463E-9DD5-7F93F1640590}\" s:ph=\"/page-layout/section-narrow\" /><r uid=\"{5D02A969-9548-45BD-B06D-4C3638316C11}\" p:after=\"r[@uid='{5BF951C3-3BB6-4B6F-9212-253A4F5D08F4}']\" s:id=\"{03112E88-1499-4132-9D5F-E213AFD2019C}\" s:ph=\"/page-layout/section-narrow\" /><r uid=\"{E708AE33-D9A4-4129-A589-22C67EBC0C55}\" p:after=\"r[@uid='{5D02A969-9548-45BD-B06D-4C3638316C11}']\" s:id=\"{03112E88-1499-4132-9D5F-E213AFD2019C}\" s:ph=\"/page-layout/section-narrow\" /><r uid=\"{66422117-69C1-4B62-9323-482F16C4F244}\" s:ds=\"\" s:par=\"Background&amp;ContainerIsFluid&amp;UseStaticPlaceholderNames=1\" /></d></r>",
+        "FieldType": "Layout",
+        "FieldId": "{04BF00DB-F5FB-41F7-8AB7-22408372A981}"
+      },
+      "__updatedby": {
+        "Value": "sitecore\\unicorn",
+        "FieldType": "text",
+        "FieldId": "{BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}"
+      },
+      "__revision": {
+        "Value": "5b4394b2-ab7d-471b-a2a7-6bd6f8ca6787",
+        "FieldType": "text",
+        "FieldId": "{8CDC337E-A112-42FB-BBB4-4143751E123F}"
+      },
+      "navigationtitle": {
+        "Value": "Teasers",
+        "FieldType": "Single-Line Text",
+        "FieldId": "{1B483E91-D8C4-4D19-BA03-462074B55936}"
+      },
+      "summary": {
+        "Value": "The Teasers module contains page elements which promote content on or off the site using text and images.",
+        "FieldType": "Rich Text",
+        "FieldId": "{AC3FD4DB-8266-476D-9635-67814D91E901}"
+      },
+      "browsertitle": {
+        "Value": "Teasers",
+        "FieldType": "Single-Line Text",
+        "FieldId": "{CA0479CE-0BFE-4522-83DE-BA688B380A78}"
+      },
+      "body": {
+        "Value": "<span style=\"line-height: 24.2857px;\">The Teasers module contains page elements which promote content on or off the site using text and images.</span>",
+        "FieldType": "Rich Text",
+        "FieldId": "{D74F396D-5C5E-4916-BD0A-BFD58B6B1967}"
+      },
+      "__created": {
+        "Value": "20151026T051241Z",
+        "FieldType": "datetime",
+        "FieldId": "{25BED78C-4957-4165-998A-CA1B52F67497}"
+      },
+      "__updated": {
+        "Value": "20170613T063157Z",
+        "FieldType": "datetime",
+        "FieldId": "{D9CF14B1-FA16-4BA6-9288-E8A174D4D522}"
+      },
+      "image": {
+        "Value": {
+          "Name": "Habitat-060-square",
+          "Id": "{08E01453-5709-43F0-9F2F-9B7A65BA5666}",
+          "Extension": "jpg",
+          "BlobId": "{B21C3E3F-8177-4181-A309-A1F5EE7BC054}"
+        },
+        "FieldType": "Image",
+        "FieldId": "{9492E0BB-9DF9-46E7-8188-EC795C4ADE44}"
+      }
+    }
+  ],
+  "employee": [
+    {
+      "SourceId": "{F0519E91-3B1E-47B0-91C0-710C6DF5AD34}",
+      "SourceItemPath": "\\sitecore\\content\\Habitat\\Home\\Modules\\Feature\\Person\\Employees List\\John Doe",
+      "summary": {
+        "Value": "John is a highly accomplished executive with extensive financial, operational and global business management experience.",
+        "FieldType": "Multi-Line Text",
+        "FieldId": "{B897023C-15D2-49F3-8974-06FA5FB7AD00}"
+      },
+      "title": {
+        "Value": "CEO",
+        "FieldType": "Single-Line Text",
+        "FieldId": "{76972FCD-4BB0-4255-864E-077745EFDF50}"
+      },
+      "twitterlink": {
+        "Value": "<link linktype=\"external\" url=\"http://twitter.com\" anchor=\"\" target=\"\" />",
+        "FieldType": "General Link",
+        "FieldId": "{6DE98EF7-1209-40A3-A63E-16DBEF015211}"
+      },
+      "__updatedby": {
+        "Value": "sitecore\\unicorn",
+        "FieldType": "text",
+        "FieldId": "{BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}"
+      },
+      "__revision": {
+        "Value": "9fc5c242-4928-47c1-9c46-7e92957d71e8",
+        "FieldType": "text",
+        "FieldId": "{8CDC337E-A112-42FB-BBB4-4143751E123F}"
+      },
+      "navigationtitle": {
+        "Value": "John Doe",
+        "FieldType": "Single-Line Text",
+        "FieldId": "{1B483E91-D8C4-4D19-BA03-462074B55936}"
+      },
+      "picture": {
+        "Value": {
+          "Name": "Habitat-075-square",
+          "Id": "{7C3BBB56-BE70-4F1B-86A3-3D7C505D74AD}",
+          "Extension": "jpg",
+          "BlobId": "{7993C4DE-4732-463E-AB9B-EB7F77F6C02F}"
+        },
+        "FieldType": "Image",
+        "FieldId": "{C9BAF3EB-8CFA-4BF6-9B19-51D38DB5FC38}"
+      },
+      "telephone": {
+        "Value": "+1 202 555 0162",
+        "FieldType": "Single-Line Text",
+        "FieldId": "{8D0E8EE3-21C4-4AE2-A2F1-53D3F3EBE501}"
+      },
+      "name": {
+        "Value": "John Doe",
+        "FieldType": "Single-Line Text",
+        "FieldId": "{26CD59AB-3639-488F-BAFD-58D2B217755A}"
+      },
+      "opengraphtitle": {
+        "Value": "John Doe",
+        "FieldType": "Single-Line Text",
+        "FieldId": "{0EE2F208-1FEE-42FC-8051-6696D49A92BF}"
+      },
+      "mobile": {
+        "Value": "+1 202 555 0148",
+        "FieldType": "Single-Line Text",
+        "FieldId": "{25B4CEE3-A61A-4DC3-BB52-775DD509DBB5}"
+      },
+      "bloglink": {
+        "Value": "<link linktype=\"external\" url=\"http://MyBlog.com\" anchor=\"\" target=\"\" />",
+        "FieldType": "General Link",
+        "FieldId": "{69A846D9-4C7F-435C-A8DC-87E2D7359CFA}"
+      },
+      "browsertitle": {
+        "Value": "John Doe",
+        "FieldType": "Single-Line Text",
+        "FieldId": "{CA0479CE-0BFE-4522-83DE-BA688B380A78}"
+      },
+      "linkedinlink": {
+        "Value": "<link linktype=\"external\" url=\"http://linkedin.com\" anchor=\"\" target=\"\" />",
+        "FieldType": "General Link",
+        "FieldId": "{2B13DFAB-3450-45EF-93F4-BEAA6F544FA6}"
+      },
+      "__created": {
+        "Value": "20151201T000649Z",
+        "FieldType": "datetime",
+        "FieldId": "{25BED78C-4957-4165-998A-CA1B52F67497}"
+      },
+      "biography": {
+        "Value": "John is a highly accomplished executive with extensive financial, operational and global business management experience. During 2013, he served as Chief Operating Officer and Chief Financial Officer of Great Kitchenware Inc., a leading network security provider. &nbsp;He joined Great Kitchenware&nbsp;in April of 2013, and played a key role in recovering the topline and stabilizing operational and financial matters. &nbsp;Prior to that, he served as Executive Vice President and Chief Financial Officer of Googly Eyes Inc., a leading cloud-based business to business commerce company that was acquired by SAP in October 2012 for $4.3 billion.&nbsp;John&nbsp;joined Googly Eyes&nbsp;in August 2008, and played a significant role on the management team in building a high-growth and highly-profitable recurring global business. He was engaged in all areas of the business and helped contribute to significant growth and an increase in shareholder value, with Ariba's equity market capitalization increasing from approximately $400 million to over $4 billion at the time of the company's sale.&nbsp;\r\n<div style=\"color: #212b34;\">&nbsp;</div>\r\n<div style=\"color: #212b34;\">Prior to Googly Eyes,&nbsp;John&nbsp;spent nearly eight years at Johns Livestock, a manufacturer of livestock feeding materials, where he held various senior finance positions, the last one being a global division CFO where he was involved in all aspects of the multi-billion dollar business. He also spent nearly six years in various global finance leadership roles at Toms Petrol and Cafeteria, a large natural resource company.\r\n<div>&nbsp;</div>\r\n<div>John&nbsp;holds a Bachelor of Arts degree in Economics and Management from Southwest College and a degree from University of Highlands School of Law</div>\r\n<div>&nbsp;</div>\r\n</div>",
+        "FieldType": "Rich Text",
+        "FieldId": "{0CC9785E-54FE-4FAE-93E4-D0D2AE75F339}"
+      },
+      "__updated": {
+        "Value": "20170613T063203Z",
+        "FieldType": "datetime",
+        "FieldId": "{D9CF14B1-FA16-4BA6-9288-E8A174D4D522}"
+      },
+      "facebooklink": {
+        "Value": "<link text=\"\" linktype=\"external\" url=\"www.facebook.com\" anchor=\"\" title=\"\" class=\"\" querystring=\"\" target=\"\" id=\"\" />",
+        "FieldType": "General Link",
+        "FieldId": "{D31889C0-E34C-4904-A6F3-F3D92D314AA9}"
+      },
+      "email": {
+        "Value": "john.doe@sitecorehabitat.com",
+        "FieldType": "Single-Line Text",
+        "FieldId": "{5978B330-1D46-4065-8751-F74BF17D815E}"
+      }
+    },
+    {
+      "SourceId": "{50A4942D-C644-4AD9-8452-78BD786C48A2}",
+      "SourceItemPath": "\\sitecore\\content\\Habitat\\Home\\Modules\\Feature\\Person\\Employees List\\John Howard",
+      "summary": {
+        "Value": "John is our super-geeky CTO.",
+        "FieldType": "Multi-Line Text",
+        "FieldId": "{B897023C-15D2-49F3-8974-06FA5FB7AD00}"
+      },
+      "title": {
+        "Value": "CTO",
+        "FieldType": "Single-Line Text",
+        "FieldId": "{76972FCD-4BB0-4255-864E-077745EFDF50}"
+      },
+      "twitterlink": {
+        "Value": "<link linktype=\"external\" url=\"http://twitter.com\" anchor=\"\" target=\"\" />",
+        "FieldType": "General Link",
+        "FieldId": "{6DE98EF7-1209-40A3-A63E-16DBEF015211}"
+      },
+      "__updatedby": {
+        "Value": "sitecore\\unicorn",
+        "FieldType": "text",
+        "FieldId": "{BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}"
+      },
+      "__revision": {
+        "Value": "fe7bc125-b76a-4b54-a774-a844928a715c",
+        "FieldType": "text",
+        "FieldId": "{8CDC337E-A112-42FB-BBB4-4143751E123F}"
+      },
+      "navigationtitle": {
+        "Value": "John Howard",
+        "FieldType": "Single-Line Text",
+        "FieldId": "{1B483E91-D8C4-4D19-BA03-462074B55936}"
+      },
+      "picture": {
+        "Value": {
+          "Name": "Habitat-064-square",
+          "Id": "{9DF6B8F9-46D3-4EBF-B29F-1018443D85AD}",
+          "Extension": "jpg",
+          "BlobId": "{90999C31-2024-4B76-8E81-8BC9EDD7C49A}"
+        },
+        "FieldType": "Image",
+        "FieldId": "{C9BAF3EB-8CFA-4BF6-9B19-51D38DB5FC38}"
+      },
+      "telephone": {
+        "Value": "+1 202 555 0162",
+        "FieldType": "Single-Line Text",
+        "FieldId": "{8D0E8EE3-21C4-4AE2-A2F1-53D3F3EBE501}"
+      },
+      "name": {
+        "Value": "John Howard",
+        "FieldType": "Single-Line Text",
+        "FieldId": "{26CD59AB-3639-488F-BAFD-58D2B217755A}"
+      },
+      "opengraphtitle": {
+        "Value": "John Doe",
+        "FieldType": "Single-Line Text",
+        "FieldId": "{0EE2F208-1FEE-42FC-8051-6696D49A92BF}"
+      },
+      "mobile": {
+        "Value": "+1 202 555 0148",
+        "FieldType": "Single-Line Text",
+        "FieldId": "{25B4CEE3-A61A-4DC3-BB52-775DD509DBB5}"
+      },
+      "bloglink": {
+        "Value": "<link linktype=\"external\" url=\"http://MyBlog.com\" anchor=\"\" target=\"\" />",
+        "FieldType": "General Link",
+        "FieldId": "{69A846D9-4C7F-435C-A8DC-87E2D7359CFA}"
+      },
+      "browsertitle": {
+        "Value": "John Doe",
+        "FieldType": "Single-Line Text",
+        "FieldId": "{CA0479CE-0BFE-4522-83DE-BA688B380A78}"
+      },
+      "linkedinlink": {
+        "Value": "<link linktype=\"external\" url=\"http://linkedin.com\" anchor=\"\" target=\"\" />",
+        "FieldType": "General Link",
+        "FieldId": "{2B13DFAB-3450-45EF-93F4-BEAA6F544FA6}"
+      },
+      "__created": {
+        "Value": "20151201T000649Z",
+        "FieldType": "datetime",
+        "FieldId": "{25BED78C-4957-4165-998A-CA1B52F67497}"
+      },
+      "biography": {
+        "Value": "<p>Entrepreneurial-spirited, pioneering technologist with 10+ years of executive-level experience identifying, qualifying, building\r\nconsensus for, and implementing enabling technologies and enterprise systems that facilitate business processes and strategic\r\nobjectives. Powerful blend of technology vision and business acumen results in consistent development of powerful business\r\nstrategies supported by cost-effective, high-performance IT infrastructures and applications. </p>\r\n<p>Broad expertise in IT, network, and\r\ntelecommunications architecture/infrastructure design, full project life cycle management, client/vendor relationship management,\r\nand financial/operational management. Ably manage M&A, reorganization, and process improvement initiatives.</p>",
+        "FieldType": "Rich Text",
+        "FieldId": "{0CC9785E-54FE-4FAE-93E4-D0D2AE75F339}"
+      },
+      "__updated": {
+        "Value": "20170613T063203Z",
+        "FieldType": "datetime",
+        "FieldId": "{D9CF14B1-FA16-4BA6-9288-E8A174D4D522}"
+      },
+      "facebooklink": {
+        "Value": "<link text=\"\" linktype=\"external\" url=\"www.facebook.com\" anchor=\"\" title=\"\" class=\"\" querystring=\"\" target=\"\" id=\"\" />",
+        "FieldType": "General Link",
+        "FieldId": "{D31889C0-E34C-4904-A6F3-F3D92D314AA9}"
+      },
+      "email": {
+        "Value": "john.doe@sitecorehabitat.com",
+        "FieldType": "Single-Line Text",
+        "FieldId": "{5978B330-1D46-4065-8751-F74BF17D815E}"
+      }
+    }
+  ]
+}

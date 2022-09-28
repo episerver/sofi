@@ -1,0 +1,78 @@
+﻿@page
+@using EPiServer.Framework.Web.Resources
+@using EPiServer.Shell.Navigation
+
+@{
+    Layout = string.Empty;
+    var types = new List<ClientResourceType>() { ClientResourceType.Style };
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Content Security Policy Management</title>
+
+    <!-- Shell -->
+    @ClientResources.RenderResources("ShellCore")
+
+    <!-- LightTheme -->
+    @ClientResources.RenderResources("ShellCoreLightTheme")
+    @ClientResources.RenderResources("admin",types.ToArray())
+</head>
+<body>
+    @Html.CreatePlatformNavigationMenu()
+    <div @Html.ApplyPlatformNavigation()>
+           
+    </div>
+
+    <div class="content-area-container">
+        <div class="Toastify"></div>
+        <div class="epi-uif-layout-container">
+            <div class="epi-uif-work-item-navigation"></div>
+            <div class="epi-uif-workspace-container">
+                <div class="epi-uif-workspace">
+                    <div class="epi-uif-grid mdc-layout-grid mdc-layout-grid--align-left">
+                        <div class="mdc-layout-grid__inner">
+                            <div class="epi-uif-grid-cell mdc-layout-grid__cell">
+                                <div class="list-view">
+                                    <div aria-live="assertive" aria-atomic="true" aria-hidden="true" class="mdc-snackbar">
+                                        <div class="mdc-snackbar__surface">
+                                            <div role="status" aria-live="polite" class="mdc-snackbar__label">
+                                                <br>
+                                                <div style="display: none;"></div>
+                                            </div>
+                                            <div class="mdc-snackbar__actions">
+                                                <button class="mdc-ripple-upgraded mdc-snackbar__action mdc-button" data-mdc-snackbar-action="action">
+                                                    <div class="mdc-button__ripple"></div>
+                                                    <span class="mdc-button__label">Close</span>
+                                                </button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="admin-list">
+                                        <div class="epi-main-header">
+                                            <h2 class="epi-uif-typography mdc-typography--headline4">Content Migration</h2>
+                                            <a class="epi-uif-anchor mdc-typography--body1" href="https://webhelp.optimizely.com/21-4/en/OptimizelyUserGuide_csh.htm#editcontenttype" title="Help">
+                                                <svg aria-hidden="true" class="epi-uif-icon" height="24" role="presentation" viewBox="0 0 24 24" width="24">
+                                                    <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm1 17h-2v-2h2v2zm2.07-7.75l-.9.92C13.45 12.9 13 13.5 13 15h-2v-.5c0-1.1.45-2.1 1.17-2.83l1.24-1.26c.37-.36.59-.86.59-1.41 0-1.1-.9-2-2-2s-2 .9-2 2H8c0-2.21 1.79-4 4-4s4 1.79 4 4c0 .88-.36 1.68-.93 2.25z"></path>
+                                                </svg>
+                                            </a>
+                                        </div>
+                                      
+                                        <p>
+            @Html.ActionLink("Create Test Page","CreatePage",new {},new{@class="mdc-ripple-upgraded epi-uif-text-button mdc-button mdc-button--unelevated"})
+        </p>
+        <p>
+            @Html.ActionLink("Import Content","ExecuteImport",new {},new{@class="mdc-ripple-upgraded epi-uif-text-button mdc-button mdc-button--unelevated"})
+        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div><div class="epi-uif-contextual-toolbar"></div>
+        </div>
+    </div>
+</body>
+</html>

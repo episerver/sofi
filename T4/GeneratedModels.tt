@@ -1,0 +1,72 @@
+﻿<#@ template debug="false" hostspecific="false" language="C#" #>
+<#@ assembly name="System.Core" #>
+<#@ assembly name="netstandard" #>
+<#@ assembly name="C:\Users\jreho\.nuget\packages\newtonsoft.json\13.0.1\lib\netstandard2.0\Newtonsoft.Json.dll" #>
+<#@ assembly name="C:\Work\Epi\ContentMigration\SitecorePackageETL\SitecorePackageETL\ModelLibrary\bin\Debug\netstandard2.0\ModelLibrary.dll" #>
+<#@ import namespace="System.Linq" #>
+<#@ import namespace="Newtonsoft.Json" #>
+<#@ import namespace="ModelLibrary.Models" #>
+<#@ import namespace="System.IO" #>
+<#@ import namespace="System.Text" #>
+<#@ import namespace="System.Collections.Generic" #>
+<#@ output extension=".cs" #>
+
+
+<#
+
+List<TemplateModel> models = new List<TemplateModel>();
+using (StreamReader r = new StreamReader(@"C:\Work\Epi\ContentMigration\SitecorePackageETL\SitecorePackageETL\SitecorePackageETL\Output\MappedModels.json"))
+{
+    string json = r.ReadToEnd();
+    models = JsonConvert.DeserializeObject<List<TemplateModel>>(json);
+}
+
+
+#>
+using System.Collections.Generic;
+using Newtonsoft.Json;
+namespace T4
+{
+<#
+    if(models != null){
+        #>
+        public class ContentTyped{
+        <#
+        foreach( var m in models)
+        {
+
+    #> 
+    [JsonProperty("<#= m.TemplateName #>")]
+    public List<<#= m.TemplateName #>> <#= m.TemplateName #>s {get;set;}
+    <# } #>
+
+
+        }
+        <#
+        foreach( var m in models)
+        {
+    #> 
+           public class <#= m.TemplateName #> : BaseTemplate {
+                
+                <#
+                foreach(var f in m.Fields){
+
+                    if(f.Fieldtype.Equals("Image")){
+                #>
+                public FieldDetails<ImageField> <#= f.Name.Replace(" ","") #> {get; set;}
+                <#
+                
+                }else{
+                 #>
+                public FieldDetails<string> <#= f.Name.Replace(" ","") #> {get; set;}
+                <#
+                }
+                }
+                #>
+
+           }
+    <#
+        }
+    }
+#>
+}

@@ -1,0 +1,23 @@
+{
+  "TemplateMappingDefinition": [
+    {
+      "SourceTemplateId": "{94A8C8E9-690B-4E65-98E7-F95800222767}",
+      "DestinationContentType": "BlogItemPage",
+      "DestinationParentId": "145",
+      "DestinationLanguage": "en",
+      "ItemName": "title",
+      "FieldMappings": [
+        {
+          "SourceField": "summary",
+          "DestinationField": "TeaserText",
+          "TransformFunction": ""
+        },
+        {
+          "SourceField": "body",
+          "DestinationField": "Mainbody",
+          "TransformFunction": ""
+        }
+      ]
+    }
+  ]
+}
