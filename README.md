@@ -10,7 +10,7 @@ Commit: https://github.com/episerver/Foundation/commit/5ed791d16309f34390e4c37b9
 
 ## Setup
 Extract Habitat.1.4.0.682.zip.
-This zip contains all the files from hte habitat github project at https://github.com/Sitecore/Habitat/releases/tag/v1.4
+This zip contains all the files from the habitat github project at https://github.com/Sitecore/Habitat/releases/tag/v1.4
 
 
 Update SitecorePackageETL/input.json with the paths to the correct locations. Most important variables will be: PackageStartPath and OutputLocation.
@@ -203,3 +203,6 @@ The process for the integrated migration is as follows:
 1. Deserialize the typed json objects from ContentTyped.json into the appropriate models auto generated in the T4 project.
 2. Use AutoMapper to allow developers to define a more complex mapping process with greate control over any transformations and field value defaults etc.
 3. Import the content using the ContentRepository. This process will also create Images as well.
+
+## Sample Code Support
+Please note that this is reference code only and is not supported by Optimizely. Optimizely Customers and Partners can use this to kickstart their own codebase. Please clone this repository using your authenticated github account. We would love to hear ways in which you have evolved this codebase. Please reach out to Brian Lockwood to showcase your expertise. brian.lockwood@optimizely.com 
